@@ -83,7 +83,7 @@
   content: "Check our preprint about batch-mode active learning on <a href=\"https://arxiv.org/abs/1906.07975\">arXiv</a>."
 
 - date: 2019-04-08
-  content: "Check our CDC 2019 submission about mixed-autonomy traffic on <a href="https://arxiv.org/abs/1904.02209">arXiv</a>."
+  content: "Check our CDC 2019 submission about mixed-autonomy traffic on <a href=\"https://arxiv.org/abs/1904.02209\">arXiv</a>."
 
 - date: 2019-01-27
   content: "Our paper titled \"Efficient and Safe Exploration in Deterministic Markov Decision Processes with Unknown Transition Models\" got accepted at American Control Conference 2019."
