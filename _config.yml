@@ -4,7 +4,7 @@ email:
 author:      USC Lira Lab
 description: "USC Learning and Interactive Robot Autonomy Lab"
 baseurl:     ""
-url:         "https://lira.usc.edu"
+url:         "https://usc-lira.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - people.html
@@ -49,7 +49,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username: USCLiraLab
+github_username: USC-Lira
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
