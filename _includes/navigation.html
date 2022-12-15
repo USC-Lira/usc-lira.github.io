@@ -1,0 +1,19 @@
+{% assign default_paths = site.pages | map: "path" %}
+{% assign page_paths = site.header_pages | default: default_paths %}
+
+{% for path in page_paths %}
+    
+    {% assign page_orig = site.pages | where: "path", path | first %}
+    
+    {% if page_orig.title %}
+		{% if page_orig.url == page.url %}
+			<a href="{{ page_orig.url }}" class="current-page">{{ page_orig.title }}</a>
+		{% else %}
+			<a href="{{ page_orig.url }}">{{ page_orig.title }}</a>
+		{% endif %}	
+    {% endif %}
+
+    
+{% endfor %}
+
+<a href="https://www.youtube.com/{{ site.youtube_handle }}" target="_blank">Videos</a>

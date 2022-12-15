@@ -1,0 +1,28 @@
+# For ranks and link types, see people_disp_order variable in _config.yml
+
+- name: Erdem Bıyık
+  picture: /images/people/erdem.png
+  home_url: http://people.eecs.berkeley.edu/~ebiyik
+  description: Erdem is an Assistant Professor in the Department of Computer Science at the USC Viterbi School of Engineering. His research interests broadly cover robot learning, human-robot interaction, and multi-agent systems. He is especially interested in developing algorithms that enable robots to efficiently learn from various forms of human feedback.
+  rank: faculty
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=P-G3sjYAAAAJ&hl=en
+    - type: github
+      url: https://github.com/erdem-biyik
+    - type: twitter
+      url: https://twitter.com/ebiyik_
+    - type: thesis
+      url: /pdfs/publications/biyik2022learning.pdf
+
+- name: Anthony Liang
+  picture: /images/people/anthony.jpg
+  home_url: http://aliang8.github.io
+  description: Anthony is a PhD student in the Computer Science Department.
+  rank: phd
+  coadvisor: Jesse Thomason
+  links:
+    - type: github
+      url: https://github.com/aliang8/
+    - type: twitter
+      url: https://twitter.com/Anthony66108836/

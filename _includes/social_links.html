@@ -1,0 +1,72 @@
+<!--<div class="social-icons" style="float: right;">
+  <div class="social-icons-right">-->
+    {% if page.title == "Press" %}
+      <a class="fa fa-newspaper tooltip current-page" href="{{ site.baseurl }} /press"><span class="tooltiptext">Press</span></a>
+      <a class="fa fa-camera tooltip" href="{{ site.baseurl }} /photos"><span class="tooltiptext">Photos</span></a>
+    {% elsif page.title == "Photos" %}
+      <a class="fa fa-newspaper tooltip" href="{{ site.baseurl }} /press"><span class="tooltiptext">Press</span></a>
+      <a class="fa fa-camera tooltip current-page" href="{{ site.baseurl }} /photos"><span class="tooltiptext">Photos</span></a>
+    {% else %}
+      <a class="fa fa-newspaper tooltip" href="{{ site.baseurl }} /press"><span class="tooltiptext">Press</span></a>
+      <a class="fa fa-camera tooltip" href="{{ site.baseurl }} /photos"><span class="tooltiptext">Photos</span></a>
+    {% endif %}
+    {% if site.github_username %}
+      <a class="fa fa-github tooltip" href="https://github.com/{{ site.github_username }}"><span class="tooltiptext">GitHub</span></a>
+    {% endif %}
+    {% if site.youtube_handle %}
+      <a class="fa fa-youtube-play tooltip" href="https://youtube.com/{{ site.youtube_handle }}"><span class="tooltiptext">YouTube</span></a>
+    {% endif %}
+    {% if site.reddit_username %}
+    <a class="fa fa-reddit tooltip" href="https://reddit.com/user/{{ site.reddit_username }}"><span class="tooltiptext">Reddit</span></a>
+    {% endif %}
+    {% if site.bitbucket_username %}
+      <a class="fa fa-bitbucket tooltip" href="https://bitbucket.org/{{ site.bitbucket_username }}"><span class="tooltiptext">BitBucket</span></a>
+    {% endif %}
+    {% if site.stackoverflow_id %}
+      <a class="fa fa-stack-overflow tooltip" href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}"><span class="tooltiptext">Stack Overflow</span></a>
+    {% endif %}
+    {% if site.twitter_username %}
+      <a class="fa fa-twitter tooltip" href="https://twitter.com/{{ site.twitter_username }}"><span class="tooltiptext">Twitter</span></a>
+    {% endif %}
+    {% if site.skype_username %}
+      <a class="fa fa-skype tooltip" href="skype:{{ site.skype_username }}?userinfo"><span class="tooltiptext">Skype</span></a>
+    {% endif %}
+    {% if site.steam_nickname %}
+      <a class="fa fa-steam-square tooltip" href="http://steamcommunity.com/id/{{ site.steam_nickname }}"><span class="tooltiptext">Steam</span></a>
+    {% endif %}
+    {% if site.google_plus_id %}
+      <a class="fa fa-google-plus tooltip" href="https://plus.google.com/{{ site.google_plus_id }}/posts"><span class="tooltiptext">Google+</span></a>
+    {% endif %}
+    {% if site.email %}
+      <a class="fa fa-envelope tooltip" href="mailto:{{ site.email }}"><span class="tooltiptext">Email</span></a>
+    {% endif %}
+    {% if site.linkedin_username %}
+      <a class="fa fa-linkedin tooltip" href="https://www.linkedin.com/in/{{ site.linkedin_username }}"><span class="tooltiptext">LinkedIn</span></a>
+    {% endif %}
+    {% if site.angellist_username %}
+      <a class="fa fa-angellist tooltip" href="https://angel.co/{{ site.angellist_username }}"><span class="tooltiptext">AngelList</span></a>
+    {% endif %}
+    {% if site.medium_id %}
+      <a class="fa fa-medium tooltip" href="https://medium.com/@{{ site.medium_id }}"><span class="tooltiptext">Medium</span></a>
+    {% endif %}
+    {% if site.telegram_username %}
+      <a class="fa fa-telegram tooltip" href="https://t.me/{{ site.telegram_username }}"><span class="tooltiptext">Telegram</span></a>
+    {% endif %}
+    {% if site.vk_id %}
+      <a class="fa fa-vk tooltip" href="https://vk.com/{{ site.vk_id }}"><span class="tooltiptext">VK</span></a>
+    {% endif %}
+  <!--</div>
+  <div class="right">-->
+    {% if site.bitcoin_url %}
+      <a class="fa fa-bitcoin tooltip" href="{{ site.bitcoin_url }}"><span class="tooltiptext">Bitcoin</span></a>
+    {% endif %}
+    {% if site.paypal_url %}
+      <a class="fa fa-paypal tooltip" href="{{ site.paypal_url }}"><span class="tooltiptext">PayPal</span></a>
+    {% endif %}
+    {% if site.flattr_button %}
+      {{ site.flattr_button }}
+    {% endif %}
+    <a class="fa fa-rss tooltip" href="{{ "/feed.xml" | prepend: site.baseurl }}"><span class="tooltiptext">RSS</span></a>
+  <!--</div>
+</div>-->
+<div class="clearfix"></div>
