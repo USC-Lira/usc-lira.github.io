@@ -37,7 +37,7 @@ $blue: #0076df !default;
 $red: #f95020 !default;
 $cardinal: #8c1515 !default;
 $green: #00cf26 !default;
-$dorsa-green: #70ad47 !default;
+$usc-red: #990000 !default;
 $yellow: #efcc00 !default;
 $orange: #ffcc22 !default;
 $purple: #f92080 !default;
@@ -57,8 +57,8 @@ $darken-4: rgba(#000,.5) !default;
 
 
 // Links
-$link-color: $dorsa-green;
-$link-hover-color: darken($dorsa-green, 40%);
+$link-color: $usc-red;
+$link-hover-color: darken($usc-red, 40%);
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
