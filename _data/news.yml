@@ -41,7 +41,7 @@
   content: "Our paper titled \"Multi-Agent Safe Planning with Gaussian Processes\" got accepted to the 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)."
 
 - date: 2020-07-13
-  content: "The recordings of our RSS 2020 workshop on \"<a href="http://iliad.stanford.edu/rss-workshop/\">Emergent Behaviors in Human-Robot Systems</a>\" are available on <a href=\"https://www.youtube.com/playlist?list=PLALgrVO1YLmsXdaRKWtABqONtA81J0t2O\">YouTube</a>."
+  content: "The recordings of our RSS 2020 workshop on \"<a href=\"http://iliad.stanford.edu/rss-workshop/\">Emergent Behaviors in Human-Robot Systems</a>\" are available on <a href=\"https://www.youtube.com/playlist?list=PLALgrVO1YLmsXdaRKWtABqONtA81J0t2O\">YouTube</a>."
 
 - date: 2020-06-25
   content: "Check our IJRR submission about learning reward functions by optimally combining demonstration and preference data on <a href=\"https://arxiv.org/abs/2006.14091\">arXiv</a>."
