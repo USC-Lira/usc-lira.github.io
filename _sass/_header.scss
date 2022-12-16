@@ -52,7 +52,7 @@
 }
 
 
-.site-header #left-logo, .site-header #leftlogo {
+.site-header #left-logo, .site-header #right-logo {
   float: left;
   width: 20%;
 }
@@ -72,6 +72,6 @@
 @media (max-width: 680px) {
   .site-header .site-nav#links { display: none; }
   .site-header .site-nav#dropdown { display: inline-block; }
-  .site-header #left-logo, .site-header #leftlogo { width: 30%; }
+  .site-header #left-logo, .site-header #right-logo { width: 30%; }
 }
 
