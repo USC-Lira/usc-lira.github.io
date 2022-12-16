@@ -50,12 +50,12 @@
 }
 
 
-.site-header .site-nav #dropdown {
+.site-header .site-nav#dropdown {
   display: none;
 }
 
 @media (max-width: 680px) {
-  .site-header .site-nav #links { display: none; }
-  .site-header .site-nav #dropdown { display: inline-block; }
+  .site-header .site-nav#links { display: none; }
+  .site-header .site-nav#dropdown { display: inline-block; }
 }
 
