@@ -47,15 +47,31 @@
 
 .site-header .site-nav {
   text-align: center;
+  float: left;
+  width: 60%;
 }
 
 
+.site-header #left-logo, .site-header #leftlogo {
+  float: left;
+  width: 20%;
+}
+
+.site-header .site-nav#dropdown select {
+  background-color: white;
+  color: $usc-red;
+  height: 2.7rem;
+  border-radius: 20px;
+}
+
 .site-header .site-nav#dropdown {
   display: none;
+  width: 40%;
 }
 
 @media (max-width: 680px) {
   .site-header .site-nav#links { display: none; }
   .site-header .site-nav#dropdown { display: inline-block; }
+  .site-header #left-logo, .site-header #leftlogo { width: 30%; }
 }
 

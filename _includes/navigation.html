@@ -1,7 +1,7 @@
 {% assign default_paths = site.pages | map: "path" %}
 {% assign page_paths = site.header_pages | default: default_paths %}
 
-<nav class="site-nav" id="links" style="margin-top:20px; width:60%;">
+<nav class="site-nav" id="links" style="margin-top:20px;">
 {% for path in page_paths %}
     
     {% assign page_orig = site.pages | where: "path", path | first %}
@@ -97,8 +97,9 @@
 
 
 
-<nav class="site-nav" id="dropdown" style="margin-top:20px; width:60%;">
+<nav class="site-nav" id="dropdown" style="margin-top:20px;">
 <select onchange="location = this.value;">
+<option value="{{ site.baseurl }}">Home</option>
 {% for path in page_paths %}
     {% assign page_orig = site.pages | where: "path", path | first %}
     {% if page_orig.title %}
