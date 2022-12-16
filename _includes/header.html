@@ -4,11 +4,7 @@
       <!--<a href="{{ site.url }}" class="site-title">{{ site.title }}</a>
 	  <nav class="site-nav" style="margin-top:20px;">-->
 	  <a href="{{ site.url }}"><img src="{{ site.baseurl }} /images/logo.png" style="float:left; width:20%;" /></a>
-      <nav class="site-nav" style="margin-top:20px; width:60%;">
-        {% include navigation.html %}
-		{% if site.show_social_icons %}
-          {% include social_links.html %}
-        {% endif %}
+        {% include navigation.html %}       
       </nav>
       <a href="https://usc.edu/"><img src="{{ site.baseurl }} /images/usc.png" style="float:left; width:20%;" /></a>
       <div class="clearfix"></div>
