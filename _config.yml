@@ -4,7 +4,7 @@ email:
 author:      USC Lira Lab
 description: "USC Learning and Interactive Robot Autonomy Lab"
 baseurl:     ""
-url:         "https://usc-lira.github.io"
+url:         "https://liralab.usc.edu"
 date_format: "%b %-d, %Y"
 header_pages:
  - people.html
