@@ -19,4 +19,4 @@ rake publish["custom commit message\, and this is how to use a comma"]
 
 This will rebuild the site, commit your changes to the `source` branch, and deploy the generated site (located in `_site`) to the `master` branch. GitHub Pages will pick up on this change and update `uscliralab.github.io` with the new changes.
 
-**NOTE**: This GitHub Pages link is the where the `lira.usc.edu` proxies point to, so this repository and the corresponding GitHub Page is the "actual" website.
+**NOTE**: This GitHub Pages link is the where the `liralab.usc.edu` proxies point to, so this repository and the corresponding GitHub Page is the "actual" website.
