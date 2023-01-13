@@ -19,13 +19,13 @@ task :commit, [:commit_name] do |t, args|
   puts status ? "Success" : "Failed"
 end
 
-desc "Deploy _site/ to master branch"
+desc "Deploy _site/ to main branch"
 task :deploy do
-  puts "\n## Deleting master branch"
-  status = system("git branch -D master")
+  puts "\n## Deleting main branch"
+  status = system("git branch -D main")
   puts status ? "Success" : "Failed"
-  puts "\n## Creating new master branch and switching to it"
-  status = system("git checkout -b master")
+  puts "\n## Creating new main branch and switching to it"
+  status = system("git checkout -b main")
   puts status ? "Success" : "Failed"
   puts "\n## Forcing the _site subdirectory to be project root"
   status = system("git filter-branch --subdirectory-filter _site/ -f")
