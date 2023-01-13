@@ -41,7 +41,7 @@
   content: "Our paper titled \"Multi-Agent Safe Planning with Gaussian Processes\" got accepted to the 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)."
 
 - date: 2020-07-13
-  content: "The recordings of our RSS 2020 workshop on \"<a href="http://iliad.stanford.edu/rss-workshop/\">Emergent Behaviors in Human-Robot Systems</a>\" are available on <a href=\"https://www.youtube.com/playlist?list=PLALgrVO1YLmsXdaRKWtABqONtA81J0t2O\">YouTube</a>."
+  content: "The recordings of our RSS 2020 workshop on \"<a href=\"http://iliad.stanford.edu/rss-workshop/\">Emergent Behaviors in Human-Robot Systems</a>\" are available on <a href=\"https://www.youtube.com/playlist?list=PLALgrVO1YLmsXdaRKWtABqONtA81J0t2O\">YouTube</a>."
 
 - date: 2020-06-25
   content: "Check our IJRR submission about learning reward functions by optimally combining demonstration and preference data on <a href=\"https://arxiv.org/abs/2006.14091\">arXiv</a>."
@@ -65,7 +65,7 @@
   content: "Our paper titled \"When Humans Aren't Optimal: Robots that Collaborate with Risk-Aware Humans\" got accepted to 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI)."
 
 - date: 2019-10-24
-  content: "TechXplore compiled a story about our work \"Asking Easy Questions: A User-Friendly Approach to Active Reward Learning\". Check it out <a href=\"https://techxplore.com/news/2019-10-user-friendly-approach-reward-robots.html\">here</a>.'
+  content: "TechXplore compiled a story about our work \"Asking Easy Questions: A User-Friendly Approach to Active Reward Learning\". Check it out <a href=\"https://techxplore.com/news/2019-10-user-friendly-approach-reward-robots.html\">here</a>."
   
 - date: 2019-09-11
   content: "Our paper titled \"Asking Easy Questions: A User-Friendly Approach to Active Reward Learning\" got accepted to the Conference on Robot Learning (CoRL) 2019."
@@ -83,10 +83,10 @@
   content: "Check our preprint about batch-mode active learning on <a href=\"https://arxiv.org/abs/1906.07975\">arXiv</a>."
 
 - date: 2019-04-08
-  content: "Check our CDC 2019 submission about mixed-autonomy traffic on <a href="https://arxiv.org/abs/1904.02209">arXiv</a>."
+  content: "Check our CDC 2019 submission about mixed-autonomy traffic on <a href=\"https://arxiv.org/abs/1904.02209\">arXiv</a>."
 
 - date: 2019-01-27
-  content: "Our paper titled \"Efficient and Safe Exploration in Deterministic Markov Decision Processes with Unknown Transition Models\" got accepted at American Control Conference 2019.'
+  content: "Our paper titled \"Efficient and Safe Exploration in Deterministic Markov Decision Processes with Unknown Transition Models\" got accepted at American Control Conference 2019."
 
 - date: 2018-09-05
   content: "Our paper titled \"Altruistic Autonomy: Beating Congestion on Shared Roads\" got accepted to the 13th International Workshop on the Algorithmic Foundations of Robotics (WAFR)."

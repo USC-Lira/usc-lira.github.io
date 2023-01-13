@@ -117,7 +117,9 @@ img {vertical-align: middle}
     {% for image in site.data.gallery_images reversed %}
 	  <div class="mySlides fade">
 	    <img src="{{ site.baseurl }}/images/gallery/{{ image.filename }}" style="width:100%; object-fit: cover;">
-	    <div class="text">{{ image.caption }}</div>
+        {% if image.caption %}
+	      <div class="text">{{ image.caption }}</div>
+        {% endif %}
 	  </div>
 	{% endfor %}
 	<a class="prev" onclick="plusSlides(-1)">&#10094;</a>

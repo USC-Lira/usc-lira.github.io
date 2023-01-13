@@ -63,7 +63,7 @@ small a {
 
 
 .btn {
-    background-color: $dorsa-green;
+    background-color: $usc-red;
     border: none;
     color: white;
     padding: 0px 6px;
@@ -74,7 +74,7 @@ small a {
 
 /* Darker background on mouse-over */
 .btn:hover {
-    background-color: darken($dorsa-green, 40%);
+    background-color: darken($usc-red, 40%);
 }
 
 .people a.fa, a.ai {
@@ -89,5 +89,5 @@ small a {
 }
 
 .site-nav .current-page {
-	color: $dorsa-green;
+	color: $usc-red;
 }
