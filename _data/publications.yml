@@ -46,26 +46,6 @@
   month=nov
 }'
 
-- title: 'Learning Preferences For Interactive Autonomy'
-  authors: Erdem Bıyık
-  venue: EE Department, Stanford University, May 2022
-  picture: /images/publications/biyik2022learning.png
-  note: Ph.D. Dissertation
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/biyik2022learning.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2210.10899
-  bibtex: '@phdthesis{biyik2022learning,
-  title={Learning Preferences For Interactive Autonomy},
-  author={Biyik, Erdem},
-  school = {EE Department, Stanford University},
-  year={2022},
-  month=may
-}'
-
 - title: 'How do People Incorporate Advice from Artificial Agents when Making Physical Judgments?'
   authors: Erik Brockbank*, Haoliang Wang*, Justin Yang, Suvir Mirchandani, Erdem Bıyık, Dorsa Sadigh, Judith Fan
   venue: Cognitive Science Society Conference (CogSci), July 2022
@@ -88,6 +68,26 @@
   booktitle={Cognitive Science Society Conference (CogSci)},
   year={2022},
   month=jul
+}'
+
+- title: 'Learning Preferences For Interactive Autonomy'
+  authors: Erdem Bıyık
+  venue: EE Department, Stanford University, May 2022
+  picture: /images/publications/biyik2022learning.png
+  note: Ph.D. Dissertation
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/biyik2022learning.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2210.10899
+  bibtex: '@phdthesis{biyik2022learning,
+  title={Learning Preferences For Interactive Autonomy},
+  author={Biyik, Erdem},
+  school = {EE Department, Stanford University},
+  year={2022},
+  month=may
 }'
 
 - title: 'Leveraging Smooth Attention Prior for Multi-Agent Trajectory Prediction'
@@ -153,6 +153,29 @@
   year={2022},
   month=mar,
   doi={10.1109/hri53351.2022.9889650},
+}'
+
+- title: 'Learning from Humans for Adaptive Interaction'
+  authors: Erdem Bıyık
+  venue: The 17th Annual Human-Robot Interaction Pioneers Workshop (HRI Pioneers), March 2022
+  picture: /images/publications/biyik2022pioneers.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/biyik2022pioneers.pdf
+    - type: talk
+      display: Talk
+      url: https://youtu.be/ARAFD4iiyWs
+    - type: doi
+      display: DOI
+      url: https://doi.org/10.1109/hri53351.2022.9889436
+  bibtex: '@inproceedings{biyik2022pioneers,
+  title={Learning from Humans for Adaptive Interaction},
+  author={Biyik, Erdem},
+  booktitle={The 17th Annual Human-Robot Interaction Pioneers Workshop (HRI Pioneers)},
+  year={2022},
+  month=mar,
+  doi={10.1109/hri53351.2022.9889436},
 }'
 
 - title: 'Partner-Aware Algorithms in Decentralized Cooperative Bandit Teams'
