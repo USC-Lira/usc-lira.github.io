@@ -1,0 +1,62 @@
+# For ranks and link types, see people_disp_order variable in _config.yml
+
+- name: Erdem Bıyık
+  picture: /images/people/erdem.png
+  home_url: https://ebiyik.github.io
+  description: Erdem is an Assistant Professor in the Department of Computer Science. His research interests broadly cover robot learning, human-robot interaction, and multi-agent systems. He is especially interested in developing algorithms that enable robots to efficiently learn from various forms of human feedback.
+  rank: faculty
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=P-G3sjYAAAAJ
+    - type: github
+      url: https://github.com/erdem-biyik
+    - type: twitter
+      url: https://twitter.com/ebiyik_
+
+- name: Anthony Liang
+  picture: /images/people/anthony.jpg
+  home_url: http://aliang8.github.io
+  description: Anthony is a PhD student in the Computer Science Department.
+  rank: phd
+  coadvisor: Jesse Thomason
+  links:
+    - type: github
+      url: https://github.com/aliang8/
+    - type: twitter
+      url: https://twitter.com/Anthony66108836/
+
+- name: Jesse Zhang
+  picture: /images/people/jesse.jpg
+  home_url: http://jesbu1.github.io/
+  description: Jesse is a PhD student in the Computer Science Department. He is interested in large pre-trained models for sample-efficient agent adaptation.
+  rank: phd
+  coadvisor: Joseph Lim and Jesse Thomason
+  links:
+    - type: github
+      url: https://github.com/jesbu1
+    - type: twitter
+      url: https://twitter.com/Jesse_Y_Zhang
+      
+- name: Pavel Czempin
+  picture: /images/people/pavel.jpg
+  home_url: https://www.czemp.in/
+  description: Pavel is a PhD student in the Computer Science Department.
+  rank: phd
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=1O1nONQAAAAJ
+    - type: github
+      url: https://github.com/PavelCz
+    - type: twitter
+      url: https://twitter.com/pczempin
+      
+- name: Yigit Korkmaz
+  picture: /images/people/yigit.png
+  home_url: https://ygtkorkmaz.github.io/
+  description: Yigit is a PhD student in the Computer Science Department.
+  rank: phd
+  links:
+    - type: github
+      url: https://github.com/ygtkorkmaz
+    - type: twitter
+      url: https://twitter.com/yigitkkorkmaz
