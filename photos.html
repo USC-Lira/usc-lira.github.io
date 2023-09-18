@@ -114,7 +114,7 @@ img {vertical-align: middle}
 
 <div class="home">
   <div class="slideshow-container">
-    {% for image in site.data.gallery_images reversed %}
+    {% for image in site.data.gallery_images %}
 	  <div class="mySlides fade">
 	    <img src="{{ site.baseurl }}/images/gallery/{{ image.filename }}" style="width:100%; object-fit: cover;">
         {% if image.caption %}
@@ -127,7 +127,7 @@ img {vertical-align: middle}
   </div>
   <div style="text-align:center">
     {% assign counter = 1 %}
-	{% for image in site.data.gallery_images reversed %}
+	{% for image in site.data.gallery_images %}
 	  <span class="dot" onclick="currentSlide({{ counter }})"><img src="{{ site.baseurl }}/images/gallery/{{ image.filename }}"></span> 
 	  {% assign counter = counter | plus: 1 %}
 	{% endfor %}
@@ -136,7 +136,7 @@ img {vertical-align: middle}
   <!-- Table version is below. You need to edit the css above such that mySlides display is "block", and you also remove the script at the bottom -->
   <!--<table>
   {% assign counter = 1 %}
-    {% for image in site.data.gallery_images reversed %}
+    {% for image in site.data.gallery_images %}
       {% if counter == 1 %}
 	    <tr>
       {% endif %}

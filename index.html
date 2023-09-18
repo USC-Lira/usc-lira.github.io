@@ -110,7 +110,7 @@ img {vertical-align: middle}
 <div class="home">
   <div class="slideshow-container">
     {% assign image_count = site.data.home_images | size %}
-    {% for image in site.data.home_images reversed %}
+    {% for image in site.data.home_images %}
 	  <div class="mySlides fade">
 	    <!--<div class="numbertext">1 / {{ image_count }}</div>-->
 	    <img src="{{ site.baseurl }}/images/gallery/{{ image.filename }}" style="width:100%; height:600px; object-fit: cover;">
