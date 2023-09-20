@@ -13,18 +13,20 @@
     - type: twitter
       url: https://twitter.com/ebiyik_
 
-- name: Anthony Liang
-  picture: /images/people/anthony.jpg
-  home_url: http://aliang8.github.io
-  description: Anthony is a PhD student in the Computer Science Department.
+- name: Ayush Jain
+  picture: /images/people/ayush.jpg
+  home_url: https://ayushj240.github.io/
+  description: Ayush is a PhD student in the Computer Science Department.
   rank: phd
-  coadvisor: Jesse Thomason
+  coadvisor: Joseph Lim
   links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=-zEc_sAAAAAJ&hl=en
     - type: github
-      url: https://github.com/aliang8/
+      url: https://github.com/ayushj240/
     - type: twitter
-      url: https://twitter.com/Anthony66108836/
-
+      url: https://twitter.com/Ayushj240
+      
 - name: Jesse Zhang
   picture: /images/people/jesse.jpg
   home_url: http://jesbu1.github.io/
@@ -37,6 +39,18 @@
     - type: twitter
       url: https://twitter.com/Jesse_Y_Zhang
       
+- name: Anthony Liang
+  picture: /images/people/anthony.jpg
+  home_url: http://aliang8.github.io
+  description: Anthony is a PhD student in the Computer Science Department.
+  rank: phd
+  coadvisor: Jesse Thomason
+  links:
+    - type: github
+      url: https://github.com/aliang8/
+    - type: twitter
+      url: https://twitter.com/Anthony66108836/
+
 - name: Pavel Czempin
   picture: /images/people/pavel.jpg
   home_url: https://www.czemp.in/
