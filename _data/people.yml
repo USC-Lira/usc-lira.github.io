@@ -26,7 +26,7 @@
       url: https://github.com/ayushj240/
     - type: twitter
       url: https://twitter.com/Ayushj240
-      
+
 - name: Jesse Zhang
   picture: /images/people/jesse.jpg
   home_url: http://jesbu1.github.io/
@@ -74,3 +74,19 @@
       url: https://github.com/ygtkorkmaz
     - type: twitter
       url: https://twitter.com/yigitkkorkmaz
+
+- name: Dhanush Varma
+  picture: /images/people/dhanush.png
+  description: Miru is a MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: github
+      url: https://github.com/Dhanushvarma
+
+- name: Miru Jun
+  picture: /images/people/miru.png
+  description: Miru is an undergraduate in the Computer Science Department.
+  rank: ug
+  links:
+    - type: github
+      url: https://github.com/lemonlemonde
