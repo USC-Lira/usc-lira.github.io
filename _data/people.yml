@@ -90,3 +90,11 @@
   links:
     - type: github
       url: https://github.com/lemonlemonde
+
+- name: Xinhu Li
+  picture: /images/people/xinhu.png
+  description: Xinhu is a visiting researcher in Lira Lab.
+  rank: visiting
+  links:
+    - type: github
+      url: https://github.com/xhlsgit
