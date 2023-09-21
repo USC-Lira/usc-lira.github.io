@@ -27,6 +27,20 @@
     - type: twitter
       url: https://twitter.com/Ayushj240
 
+- name: Sumedh Sontakke
+  picture: /images/people/sumedh.png
+  home_url: https://sumedh7.github.io/
+  description: Sumedh is a PhD student in the Computer Science Department.
+  rank: phd
+  coadvisor: Laurent Itti
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=sUb_eyUAAAAJ
+    - type: github
+      url: https://github.com/sumedh7
+    - type: twitter
+      url: https://twitter.com/SOTA_kke
+
 - name: Jesse Zhang
   picture: /images/people/jesse.jpg
   home_url: http://jesbu1.github.io/
@@ -74,6 +88,25 @@
       url: https://github.com/ygtkorkmaz
     - type: twitter
       url: https://twitter.com/yigitkkorkmaz
+
+- name: Zhaojing Yang
+  picture: /images/people/zhaojing.png
+  description: Zhaojing is a MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: github
+      url: https://github.com/yang-zj1026
+
+- name: Thomas Reeves
+  picture: /images/people/thomas.png
+  home_url: https://reevest29.github.io/
+  description: Thomas is a MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: github
+      url: https://github.com/Reevest29
+    - type: scholar
+      url: https://scholar.google.com/citations?user=zVDNPpvMya0C
 
 - name: Dhanush Varma
   picture: /images/people/dhanush.png
