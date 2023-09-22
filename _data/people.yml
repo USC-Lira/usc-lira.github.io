@@ -91,7 +91,7 @@
 
 - name: Zhaojing Yang
   picture: /images/people/zhaojing.png
-  description: Zhaojing is a MS student in the Computer Science Department.
+  description: Zhaojing is an MS student in the Computer Science Department.
   rank: ms
   links:
     - type: github
@@ -100,7 +100,7 @@
 - name: Thomas Reeves
   picture: /images/people/thomas.png
   home_url: https://reevest29.github.io/
-  description: Thomas is a MS student in the Computer Science Department.
+  description: Thomas is an MS student in the Computer Science Department.
   rank: ms
   links:
     - type: github
@@ -110,7 +110,7 @@
 
 - name: Dhanush Varma
   picture: /images/people/dhanush.png
-  description: Dhanush is a MS student in the Electrical and Computer Engineering Department.
+  description: Dhanush is an MS student in the Electrical and Computer Engineering Department.
   rank: ms
   links:
     - type: github
