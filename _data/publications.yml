@@ -23,6 +23,26 @@
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
+- title: 'Active Preference-Based Gaussian Process Regression for Reward Learning and Optimization'
+  authors: Erdem Bıyık, Nicolas Huynh, Mykel J. Kochenderfer, Dorsa Sadigh
+  venue: International Journal of Robotics Research (IJRR), 2023
+  picture: /images/publications/biyik2020active.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/biyik2023active.pdf
+    - type: code
+      display: Code
+      url: https://github.com/Stanford-ILIAD/active-preference-based-gpr
+    - type: video
+      display: Video
+      url: https://youtu.be/SLSO2lBj9Mw   
+  bibtex: '@article{biyik2023active,
+  title={Active Preference-Based Gaussian Process Regression for Reward Learning and Optimization},
+  author={Biyik, Erdem and Huynh, Nicolas and Kochenderfer, Mykel J. and Sadigh, Dorsa},
+  journal={The International Journal of Robotics Research (IJRR)},
+  year={2023},
+}'
 
 - title: 'Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback'
   authors: Stephen Casper*, Xander Davies*, et al.
