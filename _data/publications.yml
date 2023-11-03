@@ -22,6 +22,27 @@
   #   - type: doi
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
+- title: 'RoboCLIP: One Demonstration is Enough to Learn Robot Policies'
+  authors: Sumedh A Sontakke, Jesse Zhang, Sébastien M. R. Arnold, Karl Pertsch, Erdem Bıyık, Dorsa Sadigh, Chelsea Finn, and Laurent Itti
+  venue: Conference on Neural Information Processing Systems (NeurIPS), December 2023
+  picture: /images/publications/sontakke2023roboclip.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/sontakke2023roboclip.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/pdf/2310.07899.pdf
+    - type: website
+      display: Website
+      url: https://sites.google.com/view/roboclip/home      
+  bibtex: '@inproceedings{sontakke2023roboclip,
+  title={RoboCLIP: One Demonstration is Enough to Learn Robot Policies},
+  author={Sumedh A Sontakke and Jesse Zhang and Sébastien M. R. Arnold and Karl Pertsch and Erdem Biyik and Dorsa Sadigh and Chelsea Finn and Laurent Itti},
+  booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
+  year={2023},
+  month=dec
+}'
 
 - title: 'Active Preference-Based Gaussian Process Regression for Reward Learning and Optimization'
   authors: Erdem Bıyık, Nicolas Huynh, Mykel J. Kochenderfer, Dorsa Sadigh
