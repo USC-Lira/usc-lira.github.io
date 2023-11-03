@@ -1,8 +1,8 @@
-- date: 2023-11-02
-  content: "Our paper titled \"RoboCLIP: One Demonstration is Enough to Learn Robot Policies\" got accepted to the 37th Conference on Neural Information Processing Systems (NeurIPS)."
-
 - date: 2023-09-25
   content: "Our paper titled \"Active Preference-Based Gaussian Process Regression for Reward Learning and Optimization\" got accepted to The International Journal of Robotics Research (IJRR)."
+
+- date: 2023-09-21
+  content: "Our paper titled \"RoboCLIP: One Demonstration is Enough to Learn Robot Policies\" got accepted to the 37th Conference on Neural Information Processing Systems (NeurIPS)."
 
 - date: 2023-07-28
   content: "Our paper titled \"Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback\" is available on <a href=\"https://arxiv.org/abs/2307.15217\">arXiv</a>."
