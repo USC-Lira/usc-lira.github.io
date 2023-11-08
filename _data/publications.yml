@@ -57,7 +57,10 @@
       url: https://github.com/Stanford-ILIAD/active-preference-based-gpr
     - type: video
       display: Video
-      url: https://youtu.be/SLSO2lBj9Mw   
+      url: https://youtu.be/SLSO2lBj9Mw
+    - type: doi
+      display: DOI
+      url: https://doi.org/10.1177/02783649231208729
   bibtex: '@article{biyik2023active,
   title={Active Preference-Based Gaussian Process Regression for Reward Learning and Optimization},
   author={Biyik, Erdem and Huynh, Nicolas and Kochenderfer, Mykel J. and Sadigh, Dorsa},
