@@ -70,7 +70,7 @@
 
 - title: 'Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback'
   authors: Stephen Casper*, Xander Davies*, et al.
-  venue: arXiv preprint, July 2023
+  venue: Transactions on Machine Learning Research (TMLR), 2023
   picture: /images/publications/casper2023open.png
   note: '* denotes equal contribution.'
   links:
@@ -83,9 +83,8 @@
   bibtex: '@article{casper2023open,
   title={Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback},
   author={Casper, Stephen and Davies, Xander and Shi, Claudia and Gilbert, Thomas Krendl and Scheurer, Jeremy and Rando, Javier and Freedman, Rachel and Korbak, Tomasz and Lindner, David and Freire, Pedro and Wang, Tony and Marks, Samuel and Segerie, Charbel-Raphaël and Carroll, Micah and Peng, Andi and Christoffersen, Phillip and Damani, Mehul and Slocum, Stewart and Anwar, Usman and Siththaranjan, Anand and Nadeau, Max and Michaud, Eric J. and Pfau, Jacob and Krasheninnikov, Dmitrii and Chen, Xin and Langosco, Lauro and Hase, Peter and Biyik, Erdem and Dragan, Anca and Krueger, David and Sadigh, Dorsa and Hadfield-Menell, Dylan},
-  journal={arXiv preprint arXiv:2307.15217},
+  journal={Transactions on Machine Learning Research (TMLR)},
   year={2023},
-  month=july
 }'
 
 - title: 'Active Reward Learning from Online Preferences'
