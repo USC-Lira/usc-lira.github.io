@@ -124,6 +124,28 @@
     - type: github
       url: https://github.com/lemonlemonde
 
+- name: Jaiv Doshi
+  picture: /images/people/jaiv.png
+  description: Jaiv is an undergraduate in the Computer Science Department.
+  rank: ug
+  links:
+    - type: github
+      url: https://github.com/jaivdoshiatusc
+    - type: twitter
+      url: https://twitter.com/jaivdoshi   
+
+- name: Yuxi Qian
+  picture: /images/people/yuxi.png
+  description: Yuxi is an undergraduate in the Computer Science Department.
+  rank: ug
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=KmGNBSMAAAAJ&hl=en
+    - type: github
+      url: https://github.com/J6mesQian
+    - type: twitter
+      url: https://twitter.com/jaivdoshi   
+
 - name: Xinhu Li
   picture: /images/people/xinhu.png
   description: Xinhu is a visiting researcher in Lira Lab.
