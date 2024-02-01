@@ -22,6 +22,39 @@
   #   - type: doi
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
+- title: 'A Generalized Acquisition Function for Preference-based Reward Learning'
+  authors: Evan Ellis, Gaurav R. Ghosal, Stuart J. Russell, Anca Dragan, Erdem Bıyık
+  venue: International Conference on Robotics and Automation (ICRA), May 2024
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/ellis2024generalized.pdf
+  bibtex: '@inproceedings{ellis2024generalized,
+  title={A Generalized Acquisition Function for Preference-based Reward Learning},
+  author={Ellis, Evan and Ghosal, Gaurav R. and Russell, Stuart J. and Dragan, Anca and Biyik, Erdem},
+  booktitle={International Conference on Robotics and Automation (ICRA)},
+  year={2024},
+  month=may,
+}'
+
+- title: 'Preference Elicitation with Soft Attributes in Interactive Recommendation'
+  authors: Erdem Bıyık, Fan Yao, Yinlam Chow, Alex Haig, Chih-wei Hsu, Mohammad Ghavamzadeh, Craig Boutilier
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/biyik2023preference.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2311.02085
+  bibtex: '@misc{biyik2023preference,
+      title={Preference Elicitation with Soft Attributes in Interactive Recommendation}, 
+      author={Erdem Biyik and Fan Yao and Yinlam Chow and Alex Haig and Chih-wei Hsu and Mohammad Ghavamzadeh and Craig Boutilier},
+      year={2023},
+      eprint={2311.02085},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}'
+
 - title: 'RoboCLIP: One Demonstration is Enough to Learn Robot Policies'
   authors: Sumedh A. Sontakke, Jesse Zhang, Sébastien M. R. Arnold, Karl Pertsch, Erdem Bıyık, Dorsa Sadigh, Chelsea Finn, Laurent Itti
   venue: Conference on Neural Information Processing Systems (NeurIPS), December 2023
