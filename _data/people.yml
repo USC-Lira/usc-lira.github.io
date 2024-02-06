@@ -3,7 +3,7 @@
 - name: Erdem Bıyık
   picture: /images/people/erdem.png
   home_url: https://ebiyik.github.io
-  description: Erdem is an Assistant Professor in the Department of Computer Science. His research interests broadly cover robot learning, human-robot interaction, and multi-agent systems. He is especially interested in developing algorithms that enable robots to efficiently learn from various forms of human feedback.
+  description: Erdem is an Assistant Professor of Computer Science and of Electrical and Computer Engineering - Systems. His research interests broadly cover robot learning, human-robot interaction, and multi-agent systems. He is especially interested in developing algorithms that enable robots to efficiently learn from various forms of human feedback.
   rank: faculty
   links:
     - type: scholar
