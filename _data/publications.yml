@@ -22,6 +22,30 @@
   #   - type: doi
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
+- title: 'Batch Active Learning of Reward Functions from Human Preferences'
+  authors: Erdem Bıyık, Nima Anari, Dorsa Sadigh
+  venue: ACM Transactions on Human-Robot Interaction (THRI), 2024
+  picture: /images/publications/biyik2024batch.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/biyik2024batch.pdf
+    - type: code
+      display: Code
+      url: https://bit.ly/381brBK
+    - type: video
+      display: Video 1
+      url: https://youtu.be/MaswyWRep5g
+    - type: video
+      display: Video 2
+      url: https://youtu.be/cQ7vvUg9rU4
+  bibtex: '@article{biyik2024batch,
+  title={Batch Active Learning of Reward Functions from Human Preferences},
+  author={Biyik, Erdem and Anari, Nima and Sadigh, Dorsa},
+  journal={ACM Transactions on Human-Robot Interaction (THRI)},
+  year={2024},
+}'
+
 - title: 'RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback'
   authors: Yufei Wang, Zhanyi Sun, Jesse Zhang, Zhou Xian, Erdem Bıyık, David Held, Zackory Erickson
   picture: /images/publications/wang2024rlvlmf.png
