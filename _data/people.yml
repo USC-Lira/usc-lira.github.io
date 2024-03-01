@@ -1,7 +1,7 @@
 # For ranks and link types, see people_disp_order variable in _config.yml
 
 - name: Erdem Bıyık
-  picture: /images/people/erdem.png
+  picture: /images/people/erdem.jpg
   home_url: https://ebiyik.github.io
   description: Erdem is an Assistant Professor of Computer Science and of Electrical and Computer Engineering - Systems. His research interests broadly cover robot learning, human-robot interaction, and multi-agent systems. He is especially interested in developing algorithms that enable robots to efficiently learn from various forms of human feedback.
   rank: faculty
