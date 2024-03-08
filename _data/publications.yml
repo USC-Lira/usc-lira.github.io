@@ -31,7 +31,7 @@
       url: /pdfs/publications/liang2024dynamiterl.pdf
     - type: arxiv
       display: arXiv
-      url: https://arxiv.org/abs/2402.03681
+      url: https://arxiv.org/abs/2402.15957
   bibtex: '@misc{liang2024dynamiterl,
       title={DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning}, 
       author={Anthony Liang and Guy Tennenholtz and Chih-wei Hsu and Yinlam Chow and Erdem Bıyık and Craig Boutilier},
