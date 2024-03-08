@@ -22,6 +22,25 @@
   #   - type: doi
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
+- title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
+  authors: Anthony Liang, Guy Tennenholtz, Chih-wei Hsu, Yinlam Chow, Erdem Bıyık, Craig Boutilier
+  picture: /images/publications/liang2024dynamiterl.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/liang2024dynamiterl.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2402.03681
+  bibtex: '@misc{liang2024dynamiterl,
+      title={DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning}, 
+      author={Anthony Liang and Guy Tennenholtz and Chih-wei Hsu and Yinlam Chow and Erdem Bıyık and Craig Boutilier},
+      year={2024},
+      eprint={2402.15957},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}'
+
 - title: 'Batch Active Learning of Reward Functions from Human Preferences'
   authors: Erdem Bıyık, Nima Anari, Dorsa Sadigh
   venue: ACM Transactions on Human-Robot Interaction (THRI), 2024
