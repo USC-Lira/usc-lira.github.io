@@ -22,8 +22,27 @@
   #   - type: doi
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
+  
+- title: 'Optimizing Robot Behavior via Comparative Language Feedback'
+  authors: Jeremy Tien*, Zhaojing Yang*, Miru Jun, Stuart J. Russell, Anca Dragan, Erdem Bıyık
+  venue: 3rd Workshop on Human-Interactive Robot Learning (HIRL) at ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2024
+  picture: /images/publications/tien2024optimizing.png
+  note: '* denotes equal contribution.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/tien2024optimizing.pdf
+  bibtex: '@inproceedings{tien2024optimizing,
+      title={Optimizing Robot Behavior via Comparative Language Feedback}, 
+      author={Jeremy Tien and Zhaojing Yang and Miru Jun and Stuart J. Russell and Anca Dragan and Erdem Bıyık},
+      booktitle={3rd Workshop on Human-Interactive Robot Learning (HIRL) at ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
+      year={2024},
+      month=mar
+}'  
+  
 - title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
   authors: Anthony Liang, Guy Tennenholtz, Chih-wei Hsu, Yinlam Chow, Erdem Bıyık, Craig Boutilier
+  venue: arXiv preprint, February 2024
   picture: /images/publications/liang2024dynamiterl.png
   links:
     - type: pdf
@@ -32,13 +51,11 @@
     - type: arxiv
       display: arXiv
       url: https://arxiv.org/abs/2402.15957
-  bibtex: '@misc{liang2024dynamiterl,
+  bibtex: '@article{liang2024dynamiterl,
       title={DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning}, 
       author={Anthony Liang and Guy Tennenholtz and Chih-wei Hsu and Yinlam Chow and Erdem Bıyık and Craig Boutilier},
       year={2024},
-      eprint={2402.15957},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+      journal={arXiv preprint arXiv:2402.15957}
 }'
 
 - title: 'Batch Active Learning of Reward Functions from Human Preferences'
@@ -67,6 +84,7 @@
 
 - title: 'RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback'
   authors: Yufei Wang, Zhanyi Sun, Jesse Zhang, Zhou Xian, Erdem Bıyık, David Held, Zackory Erickson
+  venue: arXiv preprint, February 2024
   picture: /images/publications/wang2024rlvlmf.png
   links:
     - type: pdf
@@ -75,13 +93,11 @@
     - type: arxiv
       display: arXiv
       url: https://arxiv.org/abs/2402.03681
-  bibtex: '@misc{wang2024rlvlmf,
+  bibtex: '@article{wang2024rlvlmf,
       title={RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback}, 
       author={Yufei Wang and Zhanyi Sun and Jesse Zhang and Zhou Xian and Erdem Biyik and David Held and Zackory Erickson},
       year={2024},
-      eprint={2402.03681},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+      journal={arXiv preprint arXiv:2402.03681}
 }'
 
 - title: 'A Generalized Acquisition Function for Preference-based Reward Learning'
@@ -96,11 +112,40 @@
   author={Ellis, Evan and Ghosal, Gaurav R. and Russell, Stuart J. and Dragan, Anca and Biyik, Erdem},
   booktitle={International Conference on Robotics and Automation (ICRA)},
   year={2024},
-  month=may,
+  month=may
+}'
+
+- title: 'Active Preference-Based Gaussian Process Regression for Reward Learning and Optimization'
+  authors: Erdem Bıyık, Nicolas Huynh, Mykel J. Kochenderfer, Dorsa Sadigh
+  venue: International Journal of Robotics Research (IJRR), 2024
+  picture: /images/publications/biyik2020active.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/biyik2024active.pdf
+    - type: code
+      display: Code
+      url: https://github.com/Stanford-ILIAD/active-preference-based-gpr
+    - type: video
+      display: Video
+      url: https://youtu.be/SLSO2lBj9Mw
+    - type: doi
+      display: DOI
+      url: https://doi.org/10.1177/02783649231208729
+  bibtex: '@article{biyik2024active,
+  title={Active Preference-Based Gaussian Process Regression for Reward Learning and Optimization},
+  author={Biyik, Erdem and Huynh, Nicolas and Kochenderfer, Mykel J. and Sadigh, Dorsa},
+  journal={The International Journal of Robotics Research},
+  volume={43},
+  number={5},
+  pages={665-684},
+  year={2024},
+  doi={10.1177/02783649231208729}
 }'
 
 - title: 'Preference Elicitation with Soft Attributes in Interactive Recommendation'
   authors: Erdem Bıyık, Fan Yao, Yinlam Chow, Alex Haig, Chih-wei Hsu, Mohammad Ghavamzadeh, Craig Boutilier
+  venue: arXiv preprint, November 2023
   links:
     - type: pdf
       display: PDF
@@ -108,13 +153,11 @@
     - type: arxiv
       display: arXiv
       url: https://arxiv.org/abs/2311.02085
-  bibtex: '@misc{biyik2023preference,
+  bibtex: '@article{biyik2023preference,
       title={Preference Elicitation with Soft Attributes in Interactive Recommendation}, 
       author={Erdem Biyik and Fan Yao and Yinlam Chow and Alex Haig and Chih-wei Hsu and Mohammad Ghavamzadeh and Craig Boutilier},
       year={2023},
-      eprint={2311.02085},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR}
+      journal={arXiv preprint arXiv:2311.02085}
 }'
 
 - title: 'RoboCLIP: One Demonstration is Enough to Learn Robot Policies'
@@ -140,30 +183,6 @@
   booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
   year={2023},
   month=dec
-}'
-
-- title: 'Active Preference-Based Gaussian Process Regression for Reward Learning and Optimization'
-  authors: Erdem Bıyık, Nicolas Huynh, Mykel J. Kochenderfer, Dorsa Sadigh
-  venue: International Journal of Robotics Research (IJRR), 2023
-  picture: /images/publications/biyik2020active.png
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/biyik2023active.pdf
-    - type: code
-      display: Code
-      url: https://github.com/Stanford-ILIAD/active-preference-based-gpr
-    - type: video
-      display: Video
-      url: https://youtu.be/SLSO2lBj9Mw
-    - type: doi
-      display: DOI
-      url: https://doi.org/10.1177/02783649231208729
-  bibtex: '@article{biyik2023active,
-  title={Active Preference-Based Gaussian Process Regression for Reward Learning and Optimization},
-  author={Biyik, Erdem and Huynh, Nicolas and Kochenderfer, Mykel J. and Sadigh, Dorsa},
-  journal={The International Journal of Robotics Research (IJRR)},
-  year={2023},
 }'
 
 - title: 'Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback'
