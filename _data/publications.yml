@@ -22,7 +22,25 @@
   #   - type: doi
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
-  
+- title: 'RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback'
+  authors: Yufei Wang, Zhanyi Sun, Jesse Zhang, Zhou Xian, Erdem Bıyık, David Held, Zackory Erickson
+  venue: International Conference on Machine Learning (ICML), Jul 2024
+  picture: /images/publications/wang2024rlvlmf.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/wang2024rlvlmf.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2402.03681
+  bibtex: '@inproceedings{wang2024rlvlmf,
+      title={RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback}, 
+      author={Yufei Wang and Zhanyi Sun and Jesse Zhang and Zhou Xian and Erdem Biyik and David Held and Zackory Erickson},
+      booktitle={International Conference on Machine Learning (ICML)},
+      year={2024},
+      month=jul
+}'
+
 - title: 'Optimizing Robot Behavior via Comparative Language Feedback'
   authors: Jeremy Tien*, Zhaojing Yang*, Miru Jun, Stuart J. Russell, Anca Dragan, Erdem Bıyık
   venue: 3rd Workshop on Human-Interactive Robot Learning (HIRL) at ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2024
@@ -82,23 +100,6 @@
   year={2024},
 }'
 
-- title: 'RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback'
-  authors: Yufei Wang, Zhanyi Sun, Jesse Zhang, Zhou Xian, Erdem Bıyık, David Held, Zackory Erickson
-  venue: arXiv preprint, February 2024
-  picture: /images/publications/wang2024rlvlmf.png
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/wang2024rlvlmf.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2402.03681
-  bibtex: '@article{wang2024rlvlmf,
-      title={RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback}, 
-      author={Yufei Wang and Zhanyi Sun and Jesse Zhang and Zhou Xian and Erdem Biyik and David Held and Zackory Erickson},
-      year={2024},
-      journal={arXiv preprint arXiv:2402.03681}
-}'
 
 - title: 'A Generalized Acquisition Function for Preference-based Reward Learning'
   authors: Evan Ellis, Gaurav R. Ghosal, Stuart J. Russell, Anca Dragan, Erdem Bıyık
