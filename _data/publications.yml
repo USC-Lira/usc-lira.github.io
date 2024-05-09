@@ -24,7 +24,7 @@
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 - title: 'RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback'
   authors: Yufei Wang, Zhanyi Sun, Jesse Zhang, Zhou Xian, Erdem Bıyık, David Held, Zackory Erickson
-  venue: International Conference on Machine Learning (ICML), Jul 2024
+  venue: International Conference on Machine Learning (ICML), July 2024
   picture: /images/publications/wang2024rlvlmf.png
   links:
     - type: pdf
