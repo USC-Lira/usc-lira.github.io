@@ -33,6 +33,9 @@
     - type: arxiv
       display: arXiv
       url: https://arxiv.org/abs/2402.03681
+    - type: website
+      display: Website
+      url: https://rlvlmf2024.github.io/
   bibtex: '@inproceedings{wang2024rlvlmf,
       title={RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback}, 
       author={Yufei Wang and Zhanyi Sun and Jesse Zhang and Zhou Xian and Erdem Biyik and David Held and Zackory Erickson},
