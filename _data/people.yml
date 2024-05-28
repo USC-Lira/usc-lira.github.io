@@ -146,8 +146,9 @@
 
 - name: Zhaojing Yang
   picture: /images/people/zhaojing.png
-  description: Zhaojing is an MS student in the Computer Science Department.
+  description: Zhaojing is a visiting researcher in Lira Lab.
   rank: visiting
+  coadvisor: Xiaolong Wang
   links:
     - type: github
       url: https://github.com/yang-zj1026
