@@ -22,13 +22,13 @@
   <div class="social-icons-right">-->
     {% if page.title == "Press" %}
       <a class="fa fa-newspaper tooltip current-page" href="{{ site.baseurl }} /press"><span class="tooltiptext">Press</span></a>
-      <!--<a class="fa fa-camera tooltip" href="{{ site.baseurl }} /photos"><span class="tooltiptext">Photos</span></a>-->
+      <a class="fa fa-camera tooltip" href="{{ site.baseurl }} /photos"><span class="tooltiptext">Photos</span></a>
     {% elsif page.title == "Photos" %}
       <a class="fa fa-newspaper tooltip" href="{{ site.baseurl }} /press"><span class="tooltiptext">Press</span></a>
-      <!--<a class="fa fa-camera tooltip current-page" href="{{ site.baseurl }} /photos"><span class="tooltiptext">Photos</span></a>-->
+      <a class="fa fa-camera tooltip current-page" href="{{ site.baseurl }} /photos"><span class="tooltiptext">Photos</span></a>
     {% else %}
       <a class="fa fa-newspaper tooltip" href="{{ site.baseurl }} /press"><span class="tooltiptext">Press</span></a>
-      <!--<a class="fa fa-camera tooltip" href="{{ site.baseurl }} /photos"><span class="tooltiptext">Photos</span></a>-->
+      <a class="fa fa-camera tooltip" href="{{ site.baseurl }} /photos"><span class="tooltiptext">Photos</span></a>
     {% endif %}
     {% if site.github_username %}
       <a class="fa fa-github tooltip" href="https://github.com/{{ site.github_username }}"><span class="tooltiptext">GitHub</span></a>
