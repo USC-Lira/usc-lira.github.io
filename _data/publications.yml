@@ -44,6 +44,23 @@
       month=jul
 }'
 
+- title: 'Foundation Models for Embodied AI'
+  authors: Sumedh Anand Sontakke
+  venue: CS Department, University of Southern California, May 2024
+  picture: 
+  note: Ph.D. Dissertation
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/sontakke2024foundation.pdf
+  bibtex: '@phdthesis{sontakke2024foundation,
+  title={Foundation Models for Embodied AI},
+  author={Sontakke, Sumedh Anand},
+  school = {CS Department, University of Southern California},
+  year={2024},
+  month=may
+}'
+
 - title: 'Optimizing Robot Behavior via Comparative Language Feedback'
   authors: Jeremy Tien*, Zhaojing Yang*, Miru Jun, Stuart J. Russell, Anca Dragan, Erdem Bıyık
   venue: 3rd Workshop on Human-Interactive Robot Learning (HIRL) at ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2024
