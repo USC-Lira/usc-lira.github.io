@@ -38,7 +38,29 @@
       url: https://rlvlmf2024.github.io/
   bibtex: '@inproceedings{wang2024rlvlmf,
       title={RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback}, 
-      author={Yufei Wang and Zhanyi Sun and Jesse Zhang and Zhou Xian and Erdem Biyik and David Held and Zackory Erickson},
+      author={Yufei Wang and Zhanyi Sun and Jesse Zhang and Zhou Xian and Erdem Bıyık and David Held and Zackory Erickson},
+      booktitle={International Conference on Machine Learning (ICML)},
+      year={2024},
+      month=jul
+}'
+
+- title: 'Coprocessor Actor Critic: A Model-Based Reinforcement Learning Approach For Adaptive Brain Stimulation'
+  authors: Michelle Pan, Mariah Schrum, Vivek Myers, Erdem Bıyık, Anca Dragan
+  venue: International Conference on Machine Learning (ICML), July 2024
+  picture: /images/publications/pan2024coprocessor.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/pan2024coprocessor.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2406.06714
+    - type: website
+      display: Code
+      url: https://github.com/michelllepan/neural-coprocessors
+  bibtex: '@inproceedings{pan2024coprocessor,
+      title={Coprocessor Actor Critic: A Model-Based Reinforcement Learning Approach For Adaptive Brain Stimulation},
+      author={Michelle Pan and Mariah Schrum and Vivek Myers and Erdem Bıyık and Anca Dragan},
       booktitle={International Conference on Machine Learning (ICML)},
       year={2024},
       month=jul
