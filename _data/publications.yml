@@ -22,6 +22,7 @@
   #   - type: doi
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
+
 - title: 'RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback'
   authors: Yufei Wang, Zhanyi Sun, Jesse Zhang, Zhou Xian, Erdem Bıyık, David Held, Zackory Erickson
   venue: International Conference on Machine Learning (ICML), July 2024
@@ -55,7 +56,7 @@
     - type: arxiv
       display: arXiv
       url: https://arxiv.org/abs/2406.06714
-    - type: website
+    - type: code
       display: Code
       url: https://github.com/michelllepan/neural-coprocessors
   bibtex: '@inproceedings{pan2024coprocessor,
