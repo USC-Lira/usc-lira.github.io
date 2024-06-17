@@ -24,9 +24,10 @@
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
 - title: 'RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback'
-  authors: Yufei Wang, Zhanyi Sun, Jesse Zhang, Zhou Xian, Erdem Bıyık, David Held, Zackory Erickson
+  authors: Yufei Wang*, Zhanyi Sun*, Jesse Zhang, Zhou Xian, Erdem Bıyık, David Held†, Zackory Erickson†
   venue: International Conference on Machine Learning (ICML), July 2024
   picture: /images/publications/wang2024rlvlmf.png
+  note: '* denotes equal contribution. † denotes equal advising.'
   links:
     - type: pdf
       display: PDF
@@ -46,9 +47,10 @@
 }'
 
 - title: 'Coprocessor Actor Critic: A Model-Based Reinforcement Learning Approach For Adaptive Brain Stimulation'
-  authors: Michelle Pan, Mariah Schrum, Vivek Myers, Erdem Bıyık, Anca Dragan
+  authors: Michelle Pan*, Mariah Schrum*, Vivek Myers, Erdem Bıyık, Anca Dragan
   venue: International Conference on Machine Learning (ICML), July 2024
   picture: /images/publications/pan2024coprocessor.png
+  note: '* denotes equal contribution.'
   links:
     - type: pdf
       display: PDF
