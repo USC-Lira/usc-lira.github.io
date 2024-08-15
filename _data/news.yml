@@ -1,3 +1,9 @@
+- date: 2024-05-02
+  content: "Our paper titled \"RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback\" got accepted to the 2024 International Conference on Machine Learning (ICML)."
+
+- date: 2024-05-02
+  content: "Our paper titled \"Coprocessor Actor Critic: A Model-Based Reinforcement Learning Approach For Adaptive Brain Stimulation\" got accepted to the 2024 International Conference on Machine Learning (ICML)."
+
 - date: 2024-02-20
   content: "Our paper titled \"Batch Active Learning of Reward Functions from Human Preferences\" got accepted to the ACM Transactions on Human-Robot Interaction (THRI)."
 
