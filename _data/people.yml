@@ -123,18 +123,6 @@
     - type: twitter
       url: https://twitter.com/jaivdoshi   
 
-- name: Yuxi Qian
-  picture: /images/people/yuxi.png
-  description: Yuxi is an undergraduate in the Computer Science Department.
-  rank: ug
-  links:
-    - type: scholar
-      url: https://scholar.google.com/citations?user=KmGNBSMAAAAJ&hl=en
-    - type: github
-      url: https://github.com/J6mesQian
-    - type: twitter
-      url: https://twitter.com/jaivdoshi   
-
 # Visiting researchers
 - name: Xinhu Li
   picture: /images/people/xinhu.png
