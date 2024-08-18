@@ -104,6 +104,16 @@
     - type: github
       url: https://github.com/Dhanushvarma
 
+- name: Matthew Hong
+  picture: /images/people/matthew.png
+  description: Matthew is an MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: github
+      url: https://github.com/matthewh6
+    - type: twitter
+      url: https://twitter.com/yutai95
+
 # Undergraduates
 - name: Miru Jun
   picture: /images/people/miru.png
