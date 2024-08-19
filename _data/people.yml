@@ -99,6 +99,7 @@
   picture: /images/people/ayano.jpg
   description: Ayano is a PhD student in the Computer Science Department.
   rank: phd
+  coadvisor: Daniel Seita
   links:
 
       
@@ -106,6 +107,7 @@
   picture: /images/people/raida.jpg
   description: Raida is an incoming PhD student in the Computer Science Department.
   rank: phd
+  coadvisor: Maja Matarić
   links:
 
 
