@@ -97,10 +97,17 @@
       
 - name: Ayano Hiranaka
   picture: /images/people/ayano.jpg
+  home_url: https://misoshiruseijin.github.io/
   description: Ayano is a PhD student in the Computer Science Department.
   rank: phd
   coadvisor: Daniel Seita
   links:
+    - type: scholar
+      url: https://scholar.google.com/citations?hl=en&user=KWZsjx8AAAAJ
+    - type: github
+      url: https://github.com/misoshiruseijin
+    - type: twitter
+      url: https://x.com/ayano_hiranaka
 
 - name: Raida Karim
   picture: /images/people/raida.jpg
