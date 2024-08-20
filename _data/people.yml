@@ -94,6 +94,23 @@
       url: https://github.com/yutaizhou
     - type: twitter
       url: https://twitter.com/yutai95
+      
+- name: Ayano Hiranaka
+  picture: /images/people/ayano.jpg
+  description: Ayano is a PhD student in the Computer Science Department.
+  rank: phd
+  coadvisor: Daniel Seita
+  links:
+
+      
+- name: Raida Karim
+  picture: /images/people/raida.jpg
+  description: Raida is an incoming PhD student in the Computer Science Department.
+  rank: phd
+  coadvisor: Maja Matarić
+  links:
+
+
 
 # MS students      
 - name: Dhanush Varma
