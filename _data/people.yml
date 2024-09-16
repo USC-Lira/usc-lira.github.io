@@ -18,7 +18,7 @@
 - name: Ayush Jain
   picture: /images/people/ayush.png
   home_url: https://ayushj240.github.io/
-  description: Ayush is a PhD student in the Computer Science Department.
+  description: Ayush is a PhD student in the Computer Science Department. He aims to build adaptive and capable agents for both physical and virtual worlds. He works on reinforcement learning algorithms and architectures that learn under complex action spaces that are large, unseen, varying, or difficult to optimize.
   rank: phd
   coadvisor: Joseph Lim
   links:
@@ -46,7 +46,7 @@
 - name: Anthony Liang
   picture: /images/people/anthony.jpg
   home_url: http://aliang8.github.io
-  description: Anthony is a PhD student in the Computer Science Department.
+  description: Anthony is a PhD student in the Computer Science Department. He is interested in leveraging human and learned priors for improving RL training efficiency and generalization. He is also interested in meta-RL and generative models with applications in robotics.
   rank: phd
   coadvisor: Stephen Tu
   links:
@@ -60,7 +60,7 @@
 - name: Pavel Czempin
   picture: /images/people/pavel.jpg
   home_url: https://www.czemp.in/
-  description: Pavel is a PhD student in the Computer Science Department.
+  description: Pavel is a PhD student in the Computer Science Department. He works on improving reinforcement learning from human feedback for large pretrained models and unsupervised learning from videos for sequential decision making.
   rank: phd
   links:
     - type: scholar
@@ -73,7 +73,7 @@
 - name: Yigit Korkmaz
   picture: /images/people/yigit.png
   home_url: https://ygtkorkmaz.github.io/
-  description: Yigit is a PhD student in the Computer Science Department.
+  description: Yigit is a PhD student in the Computer Science Department. He is interested in robot learning from various forms of human feedback, including explicit forms such as human demonstrations and comparisons, and more implicit forms such as gestures.
   rank: phd
   links:
     - type: scholar
@@ -85,7 +85,7 @@
 
 - name: Yutai Zhou
   picture: /images/people/yutai.png
-  description: Yutai is a PhD student in the Computer Science Department.
+  description: Yutai is a PhD student in the Computer Science Department. He is broadly interested in inverse reinforcement learning from human preferences and imitation learning from partially observable data. He is currently keen on learning more about Bayesian deep learning and JAX.
   rank: phd
   links:
     - type: scholar
