@@ -18,7 +18,7 @@
 - name: Ayush Jain
   picture: /images/people/ayush.png
   home_url: https://ayushj240.github.io/
-  description: Ayush is a PhD student in the Computer Science Department. He aims to build adaptive and capable agents for both physical and virtual worlds. He works on reinforcement learning algorithms and architectures that learn under complex action spaces that are large, unseen, varying, or difficult to optimize.
+  description: Ayush is a PhD student in the Computer Science Department. He works on reinforcement learning algorithms and architectures that learn under complex action spaces that are large, unseen, varying, or difficult to optimize.
   rank: phd
   coadvisor: Joseph Lim
   links:
@@ -73,7 +73,7 @@
 - name: Yigit Korkmaz
   picture: /images/people/yigit.png
   home_url: https://ygtkorkmaz.github.io/
-  description: Yigit is a PhD student in the Computer Science Department. He is interested in robot learning from various forms of human feedback, including explicit forms such as human demonstrations and comparisons, and more implicit forms such as gestures.
+  description: Yigit is a PhD student in the Computer Science Department. He is interested in robot learning from various forms of human feedback, including explicit forms such as demonstrations and comparisons, and more implicit forms like gestures.
   rank: phd
   links:
     - type: scholar
