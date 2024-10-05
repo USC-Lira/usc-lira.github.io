@@ -23,6 +23,32 @@
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
+- title: 'ViSaRL: Visual Reinforcement Learning Guided by Human Saliency'
+  authors: Anthony Liang, Jesse Thomason, Erdem Bıyık
+  venue: International Conference on Intelligent Robots and Systems (IROS), October 2024
+  picture: /images/publications/liang2023visarl.png
+  note: 'Also presented at ICRA Pretraining for Robotics Workshop, May 2023 (<a href="/pdfs/publications/liang2024visarl_workshop.pdf">PDF</a>).'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/liang2024visarl.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2403.10940
+    - type: website
+      display: Website
+      url: https://liralab.usc.edu/visarl/
+    - type: code
+      display: Code
+      url: https://github.com/aliang8/visarl
+  bibtex: '@article{liang2024visarl,
+  author    = {Liang, Anthony and Thomason, Jesse and B{\i}y{\i}k, Erdem},
+  title     = {ViSaRL: Visual Reinforcement Learning Guided by Human Saliency},
+  journal   = {International Conference on Intelligent Robots and Systems (IROS)},
+  year      = {2024},
+  month     = oct
+}'
+
 - title: 'RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback'
   authors: Yufei Wang*, Zhanyi Sun*, Jesse Zhang, Zhou Xian, Erdem Bıyık, David Held†, Zackory Erickson†
   venue: International Conference on Machine Learning (ICML), July 2024
@@ -280,29 +306,6 @@
   year={2023},
   month=may,
   doi={10.1109/ICRA48891.2023.10160439}
-}'
-
-- title: 'ViSaRL: Visual Reinforcement Learning Guided by Human Saliency'
-  authors: Anthony Liang, Jesse Thomason, Erdem Bıyık
-  venue: Pretraining for Robotics Workshop at ICRA, May 2023
-  picture: /images/publications/liang2023visarl.png
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/liang2023visarl.pdf
-    - type: website
-      display: Website
-      url: https://sites.google.com/view/visarl
-    - type: code
-      display: Code
-      url: https://github.com/corl-visarl/visarl
-  specialnote: 'Oral presentation.'
-  bibtex: '@inproceedings{liang2023visarl,
-  title={ViSaRL: Visual Reinforcement Learning Guided by Human Saliency},
-  author={Liang, Anthony and Thomason, Jesse and Biyik, Erdem},
-  booktitle={Pretraining for Robotics Workshop at ICRA},
-  year={2023},
-  month=may
 }'
 
 - title: 'Assistive Teaching of Motor Control Tasks to Humans'

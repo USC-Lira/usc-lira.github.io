@@ -154,6 +154,14 @@
     - type: twitter
       url: https://twitter.com/jaivdoshi   
 
+- name: Urvi Bhuwania
+  picture: /images/people/urvi.jpg
+  description: Urvi is an undergraduate in the Computer Science Department.
+  rank: ug
+  links:
+    - type: github
+      url: https://github.com/urvib3
+
 # Visiting researchers
 - name: Xinhu Li
   picture: /images/people/xinhu.png
