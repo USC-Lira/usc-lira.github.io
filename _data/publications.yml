@@ -64,6 +64,9 @@
     - type: website
       display: Website
       url: https://rlvlmf2024.github.io/
+    - type: code
+      display: Code
+      url: https://github.com/yufeiwang63/RL-VLM-F
   bibtex: '@inproceedings{wang2024rlvlmf,
       title={RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback}, 
       author={Yufei Wang and Zhanyi Sun and Jesse Zhang and Zhou Xian and Erdem Bıyık and David Held and Zackory Erickson},
