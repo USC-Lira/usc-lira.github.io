@@ -22,41 +22,42 @@
   #   - type: doi
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
-# - title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
-#   authors: Anthony Liang, Guy Tennenholtz, Chih-wei Hsu, Yinlam Chow, Erdem Bıyık, Craig Boutilier
-#   venue: Conference on Neural Information Processing Systems (NeurIPS), December 2024
-#   picture: /images/publications/liang2024dynamiterl.png
-#   links:
-#     - type: pdf
-#       display: PDF
-#       url: /pdfs/publications/liang2024dynamiterl.pdf
-#     - type: arxiv
-#       display: arXiv
-#       url: https://arxiv.org/abs/2402.15957
-#   bibtex: '@inproceedings{liang2024dynamiterl,
-#   title={DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning}, 
-#   author={Anthony Liang and Guy Tennenholtz and Chih-wei Hsu and Yinlam Chow and Erdem Bıyık and Craig Boutilier},
-#   booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
-#   year={2024},
-#   month=dec
-# }'
+  
+- title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
+  authors: Anthony Liang, Guy Tennenholtz, Chih-wei Hsu, Yinlam Chow, Erdem Bıyık, Craig Boutilier
+  venue: Conference on Neural Information Processing Systems (NeurIPS), December 2024
+  picture: /images/publications/liang2024dynamiterl.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/liang2024dynamiterl.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2402.15957
+  bibtex: '@inproceedings{liang2024dynamiterl,
+  title={DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning}, 
+  author={Anthony Liang and Guy Tennenholtz and Chih-wei Hsu and Yinlam Chow and Erdem Bıyık and Craig Boutilier},
+  booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
+  year={2024},
+  month=dec
+}'
 
-# - title: 'Trajectory Improvement and Reward Learning from Comparative Language Feedback'
-#   authors: Zhaojing Yang, Miru Jun, Jeremy Tien, Stuart J. Russell, Anca Dragan, Erdem Bıyık
-#   venue: Proceedings of the 8th Conference on Robot Learning (CoRL), November 2024
-#   picture: /images/publications/yang2024trajectory.png
-#   note: 'Also presented at HRI Human-Interactive Robot Learning Workshop, March 2024 (<a href=“/pdfs/publications/tien2024optimizing.pdf”>PDF</a>).'
-#   # links:
-#     # - type: pdf
-#     #   display: PDF
-#     #   url: /pdfs/publications/yang2024trajectory.pdf
-#   bibtex: '@inproceedings{yang2024trajectory,
-#   title={Trajectory Improvement and Reward Learning from Comparative Language Feedback}, 
-#   author={Zhaojing Yang and Miru Jun and Jeremy Tien and Stuart J. Russell and Anca Dragan and Erdem Bıyık},
-#   booktitle={Conference on Robot Learning (CoRL)},
-#   year={2024},
-#   month=nov
-# }'
+- title: 'Trajectory Improvement and Reward Learning from Comparative Language Feedback'
+  authors: Zhaojing Yang, Miru Jun, Jeremy Tien, Stuart J. Russell, Anca Dragan, Erdem Bıyık
+  venue: Proceedings of the 8th Conference on Robot Learning (CoRL), November 2024
+  picture: /images/publications/yang2024trajectory.png
+  note: 'Also presented at HRI Human-Interactive Robot Learning Workshop, March 2024 (<a href=“/pdfs/publications/tien2024optimizing.pdf”>PDF</a>).'
+  # links:
+    # - type: pdf
+    #   display: PDF
+    #   url: /pdfs/publications/yang2024trajectory.pdf
+  bibtex: '@inproceedings{yang2024trajectory,
+  title={Trajectory Improvement and Reward Learning from Comparative Language Feedback}, 
+  author={Zhaojing Yang and Miru Jun and Jeremy Tien and Stuart J. Russell and Anca Dragan and Erdem Bıyık},
+  booktitle={Conference on Robot Learning (CoRL)},
+  year={2024},
+  month=nov
+}'
 
 - title: 'EXTRACT: Efficient Policy Learning by Extracting Transferable Robot Skills from Offline Data'
   authors: Jesse Zhang, Minho Heo, Zuxin Liu, Erdem Bıyık, Joseph J Lim, Yao Liu, Rasool Fakoor
