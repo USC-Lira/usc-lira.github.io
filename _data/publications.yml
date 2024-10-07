@@ -58,27 +58,27 @@
 #   month=nov
 # }'
 
-# - title: 'EXTRACT: Efficient Policy Learning by Extracting Transferable Robot Skills from Offline Data'
-#   authors: Jesse Zhang, Minho Heo, Zuxin Liu, Erdem Bıyık, Joseph J Lim, Yao Liu, Rasool Fakoor
-#   venue: Proceedings of the 8th Conference on Robot Learning (CoRL), November 2024
-#   picture: /images/publications/zhang2024extract.png
-#   links:
-#     - type: pdf
-#       display: PDF
-#       url: /pdfs/publications/zhang2024extract.pdf
-#     - type: arxiv
-#       display: arXiv
-#       url: https://arxiv.org/abs/2406.17768
-#     - type: website
-#       display: Website
-#       url: https://www.jessezhang.net/projects/extract/
-#   bibtex: '@inproceedings{zhang2024extract,
-#   title={{EXTRACT}: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data},
-#   author={Jesse Zhang and Minho Heo and Zuxin Liu and Erdem B{\i}y{\i}k and Joseph J Lim and Yao Liu and Rasool Fakoor},
-#   booktitle={Conference on Robot Learning (CoRL)},
-#   year={2024},
-#   month=nov
-# }'
+- title: 'EXTRACT: Efficient Policy Learning by Extracting Transferable Robot Skills from Offline Data'
+  authors: Jesse Zhang, Minho Heo, Zuxin Liu, Erdem Bıyık, Joseph J Lim, Yao Liu, Rasool Fakoor
+  venue: Proceedings of the 8th Conference on Robot Learning (CoRL), November 2024
+  picture: /images/publications/zhang2024extract.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/zhang2024extract.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2406.17768
+    - type: website
+      display: Website
+      url: https://www.jessezhang.net/projects/extract/
+  bibtex: '@inproceedings{zhang2024extract,
+  title={{EXTRACT}: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data},
+  author={Jesse Zhang and Minho Heo and Zuxin Liu and Erdem B{\i}y{\i}k and Joseph J Lim and Yao Liu and Rasool Fakoor},
+  booktitle={Conference on Robot Learning (CoRL)},
+  year={2024},
+  month=nov
+}'
 
 - title: 'Accurate and Data-Efficient Toxicity Prediction when Annotators Disagree'
   authors: Harbani Jaggi*, Kashyap Murali*, Eve Fleisig, Erdem Bıyık
@@ -188,40 +188,40 @@
   month=may
 }'
 
-- title: 'Optimizing Robot Behavior via Comparative Language Feedback'
-  authors: Jeremy Tien*, Zhaojing Yang*, Miru Jun, Stuart J. Russell, Anca Dragan, Erdem Bıyık
-  venue: 3rd Workshop on Human-Interactive Robot Learning (HIRL) at ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2024
-  picture: /images/publications/tien2024optimizing.png
-  note: '* denotes equal contribution.'
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/tien2024optimizing.pdf
-  bibtex: '@inproceedings{tien2024optimizing,
-      title={Optimizing Robot Behavior via Comparative Language Feedback}, 
-      author={Jeremy Tien and Zhaojing Yang and Miru Jun and Stuart J. Russell and Anca Dragan and Erdem Bıyık},
-      booktitle={3rd Workshop on Human-Interactive Robot Learning (HIRL) at ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
-      year={2024},
-      month=mar
-}'  
+# - title: 'Optimizing Robot Behavior via Comparative Language Feedback'
+#   authors: Jeremy Tien*, Zhaojing Yang*, Miru Jun, Stuart J. Russell, Anca Dragan, Erdem Bıyık
+#   venue: 3rd Workshop on Human-Interactive Robot Learning (HIRL) at ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2024
+#   picture: /images/publications/tien2024optimizing.png
+#   note: '* denotes equal contribution.'
+#   links:
+#     - type: pdf
+#       display: PDF
+#       url: /pdfs/publications/tien2024optimizing.pdf
+#   bibtex: '@inproceedings{tien2024optimizing,
+#       title={Optimizing Robot Behavior via Comparative Language Feedback}, 
+#       author={Jeremy Tien and Zhaojing Yang and Miru Jun and Stuart J. Russell and Anca Dragan and Erdem Bıyık},
+#       booktitle={3rd Workshop on Human-Interactive Robot Learning (HIRL) at ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
+#       year={2024},
+#       month=mar
+# }'  
   
-- title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
-  authors: Anthony Liang, Guy Tennenholtz, Chih-wei Hsu, Yinlam Chow, Erdem Bıyık, Craig Boutilier
-  venue: arXiv preprint, February 2024
-  picture: /images/publications/liang2024dynamiterl.png
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/liang2024dynamiterl.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2402.15957
-  bibtex: '@article{liang2024dynamiterl,
-      title={DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning}, 
-      author={Anthony Liang and Guy Tennenholtz and Chih-wei Hsu and Yinlam Chow and Erdem Bıyık and Craig Boutilier},
-      year={2024},
-      journal={arXiv preprint arXiv:2402.15957}
-}'
+# - title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
+#   authors: Anthony Liang, Guy Tennenholtz, Chih-wei Hsu, Yinlam Chow, Erdem Bıyık, Craig Boutilier
+#   venue: arXiv preprint, February 2024
+#   picture: /images/publications/liang2024dynamiterl.png
+#   links:
+#     - type: pdf
+#       display: PDF
+#       url: /pdfs/publications/liang2024dynamiterl.pdf
+#     - type: arxiv
+#       display: arXiv
+#       url: https://arxiv.org/abs/2402.15957
+#   bibtex: '@article{liang2024dynamiterl,
+#       title={DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning}, 
+#       author={Anthony Liang and Guy Tennenholtz and Chih-wei Hsu and Yinlam Chow and Erdem Bıyık and Craig Boutilier},
+#       year={2024},
+#       journal={arXiv preprint arXiv:2402.15957}
+# }'
 
 - title: 'Batch Active Learning of Reward Functions from Human Preferences'
   authors: Erdem Bıyık, Nima Anari, Dorsa Sadigh
