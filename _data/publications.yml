@@ -89,7 +89,7 @@
     - type: pdf
       display: PDF
       url: /pdfs/publications/jaggi2024accurate.pdf
-  bibtex: '@article{jaggi2024accurate,
+  bibtex: '@inproceedings{jaggi2024accurate,
           author    = {Jaggi, Harbani and Murali, Kashyap and Fleisig, Eve and B{\i}y{\i}k, Erdem},
           title     = {Accurate and Data-Efficient Toxicity Prediction when Annotators Disagree},
           journal   = {Conference on Empirical Methods in Natural Language Processing (EMNLP)},
@@ -115,7 +115,7 @@
     - type: code
       display: Code
       url: https://github.com/aliang8/visarl
-  bibtex: '@article{liang2024visarl,
+  bibtex: '@inproceedings{liang2024visarl,
           author    = {Liang, Anthony and Thomason, Jesse and B{\i}y{\i}k, Erdem},
           title     = {ViSaRL: Visual Reinforcement Learning Guided by Human Saliency},
           journal   = {International Conference on Intelligent Robots and Systems (IROS)},
