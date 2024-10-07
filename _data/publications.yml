@@ -562,12 +562,12 @@
       url: https://youtu.be/Jj9Qz2-bl7w
   specialnote: 'Oral presentation.'
   bibtex: '@inproceedings{myers2021learning,
-  title={Learning Multimodal Rewards from Rankings},
-  author={Myers, Vivek and Biyik, Erdem and Anari, Nima and Sadigh, Dorsa},
-  booktitle={Proceedings of the 5th Conference on Robot Learning (CoRL)},
-  year={2021},
-  month=nov
-}'
+          title={Learning Multimodal Rewards from Rankings},
+          author={Myers, Vivek and Biyik, Erdem and Anari, Nima and Sadigh, Dorsa},
+          booktitle={Proceedings of the 5th Conference on Robot Learning (CoRL)},
+          year={2021},
+          month=nov
+          }'  
 
 - title: 'Learning Reward Functions from Scale Feedback'
   authors: Nils Wilde*, Erdem Bıyık*, Dorsa Sadigh, Stephen L. Smith
@@ -591,12 +591,12 @@
       display: Video
       url: https://youtu.be/5dJ7bGCnjOM
   bibtex: '@inproceedings{wilde2021learning,
-  title={Learning Reward Functions from Scale Feedback},
-  author={Wilde, Nils and Biyik, Erdem and Sadigh, Dorsa and Smith, Stephen L.},
-  booktitle={Proceedings of the 5th Conference on Robot Learning (CoRL)},
-  year={2021},
-  month=nov
-}'
+          title={Learning Reward Functions from Scale Feedback},
+          author={Wilde, Nils and Biyik, Erdem and Sadigh, Dorsa and Smith, Stephen L.},
+          booktitle={Proceedings of the 5th Conference on Robot Learning (CoRL)},
+          year={2021},
+          month=nov
+          }'
 
 - title: 'Learning Reward Functions from Diverse Sources of Human Feedback: Optimally Integrating Demonstrations and Preferences'
   authors: Erdem Bıyık, Dylan P. Losey, Malayandi Palan, Nicholas C. Landolfi, Gleb Shevchuk, Dorsa Sadigh
@@ -616,12 +616,12 @@
       display: DOI
       url: https://doi.org/10.1177/02783649211041652
   bibtex: '@article{biyik2021learning,
-  title={Learning Reward Functions from Diverse Sources of Human Feedback: Optimally Integrating Demonstrations and Preferences},
-  author={Biyik, Erdem and Losey, Dylan P. and Palan, Malayandi and Landolfi, Nicholas C. and Shevchuk, Gleb and Sadigh, Dorsa},
-  journal={The International Journal of Robotics Research (IJRR)},
-  year={2021},
-  doi={10.1177/02783649211041652}
-}'
+          title={Learning Reward Functions from Diverse Sources of Human Feedback: Optimally Integrating Demonstrations and Preferences},
+          author={Biyik, Erdem and Losey, Dylan P. and Palan, Malayandi and Landolfi, Nicholas C. and Shevchuk, Gleb and Sadigh, Dorsa},
+          journal={The International Journal of Robotics Research (IJRR)},
+          year={2021},
+          doi={10.1177/02783649211041652}
+          }'
 
 - title: 'Learning How to Dynamically Route Autonomous Vehicles on Shared Roads'
   authors: Daniel A. Lazar*, Erdem Bıyık*, Dorsa Sadigh, Ramtin Pedarsani
@@ -645,17 +645,17 @@
       display: DOI
       url: https://doi.org/10.1016/j.trc.2021.103258
   bibtex: '@article{lazar2021learning,
-  title={Learning How to Dynamically Route Autonomous Vehicles on Shared Roads},
-  author={Lazar, Daniel A. and Biyik, Erdem and Sadigh, Dorsa and Pedarsani, Ramtin},
-  journal={Transportation Research Part C: Emerging Technologies},
-  volume = {130},
-  pages = {103258},
-  year = {2021},
-  month = sep,
-  issn = {0968-090X},
-  publisher={Elsevier},
-  doi={10.1016/j.trc.2021.103258}
-}'
+          title={Learning How to Dynamically Route Autonomous Vehicles on Shared Roads},
+          author={Lazar, Daniel A. and Biyik, Erdem and Sadigh, Dorsa and Pedarsani, Ramtin},
+          journal={Transportation Research Part C: Emerging Technologies},
+          volume = {130},
+          pages = {103258},
+          year = {2021},
+          month = sep,
+          issn = {0968-090X},
+          publisher={Elsevier},
+          doi={10.1016/j.trc.2021.103258}
+          }'
 
 - title: 'Emergent Prosociality in Multi-Agent Games Through Gifting'
   authors: Woodrow Z. Wang*, Mark Beliaev*, Erdem Bıyık*, Daniel A. Lazar, Ramtin Pedarsani, Dorsa Sadigh
@@ -679,13 +679,13 @@
       display: DOI
       url: https://doi.org/10.24963/ijcai.2021/61
   bibtex: '@inproceedings{wang2021emergent,
-  title = {Emergent Prosociality in Multi-Agent Games Through Gifting},
-  author = {Wang, Woodrow Z. and Beliaev, Mark and Biyik, Erdem and Lazar, Daniel A. and Pedarsani, Ramtin and Sadigh, Dorsa},
-  booktitle={30th International Joint Conference on Artificial Intelligence (IJCAI)},
-  year = {2021},
-  month = aug,
-  doi = {10.24963/ijcai.2021/61}
-}'
+          title = {Emergent Prosociality in Multi-Agent Games Through Gifting},
+          author = {Wang, Woodrow Z. and Beliaev, Mark and Biyik, Erdem and Lazar, Daniel A. and Pedarsani, Ramtin and Sadigh, Dorsa},
+          booktitle={30th International Joint Conference on Artificial Intelligence (IJCAI)},
+          year = {2021},
+          month = aug,
+          doi = {10.24963/ijcai.2021/61}
+          }'
 
 - title: "Incentivizing Efficient Equilibria in Traffic Networks with Mixed Autonomy"
   authors: Erdem Bıyık*, Daniel A. Lazar*, Ramtin Pedarsani, Dorsa Sadigh
@@ -700,12 +700,12 @@
       display: DOI
       url: https://doi.org/10.1109/TCNS.2021.3084045
   bibtex: "@article{biyik2021incentivizing,
-  title={Incentivizing Efficient Equilibria in Traffic Networks with Mixed Autonomy},
-  author={Biyik, Erdem and Lazar, Daniel A. and Pedarsani, Ramtin and Sadigh, Dorsa},
-  journal={IEEE Transactions on Control of Network Systems (TCNS)},
-  year={2021},
-  doi={10.1109/TCNS.2021.3084045}
-}"
+          title={Incentivizing Efficient Equilibria in Traffic Networks with Mixed Autonomy},
+          author={Biyik, Erdem and Lazar, Daniel A. and Pedarsani, Ramtin and Sadigh, Dorsa},
+          journal={IEEE Transactions on Control of Network Systems (TCNS)},
+          year={2021},
+          doi={10.1109/TCNS.2021.3084045}
+          }"
 
 - title: 'ROIAL: Region of Interest Active Learning for Characterizing Exoskeleton Gait Preference Landscapes'
   authors: Kejun Li, Maegan Tucker, Erdem Bıyık, Ellen Novoseller, Joel W. Burdick, Yanan Sui, Dorsa Sadigh, Yisong Yue, Aaron D. Ames
@@ -735,13 +735,13 @@
       display: DOI
       url: https://doi.org/10.1109/ICRA48506.2021.9560840
   bibtex: '@inproceedings{li2021roial,
-  title = {ROIAL: Region of Interest Active Learning for Characterizing Exoskeleton Gait Preference Landscapes},
-  author = {Li, Kejun and Tucker, Maegan and Biyik, Erdem and Novoseller, Ellen and Burdick, Joel W. and Sui, Yanan and Sadigh, Dorsa and Yue, Yisong and Ames, Aaron D.},
-  booktitle={International Conference on Robotics and Automation (ICRA)},
-  year = {2021},
-  month = may,
-  doi = {10.1109/ICRA48506.2021.9560840}
-}'
+          title = {ROIAL: Region of Interest Active Learning for Characterizing Exoskeleton Gait Preference Landscapes},
+          author = {Li, Kejun and Tucker, Maegan and Biyik, Erdem and Novoseller, Ellen and Burdick, Joel W. and Sui, Yanan and Sadigh, Dorsa and Yue, Yisong and Ames, Aaron D.},
+          booktitle={International Conference on Robotics and Automation (ICRA)},
+          year = {2021},
+          month = may,
+          doi = {10.1109/ICRA48506.2021.9560840}
+          }'
 
 - title: 'Incentivizing Routing Choices for Safe and Efficient Transportation in the Face of the COVID-19 Pandemic'
   authors: Mark Beliaev, Erdem Bıyık, Daniel A. Lazar, Woodrow Z. Wang, Dorsa Sadigh, Ramtin Pedarsani
@@ -762,13 +762,13 @@
       display: DOI
       url: https://doi.org/10.1145/3450267.3450546
   bibtex: '@inproceedings{beliaev2021incentivizing,
-  title = {Incentivizing Routing Choices for Safe and Efficient Transportation in the Face of the COVID-19 Pandemic},
-  author = {Beliaev, Mark and Biyik, Erdem and Lazar, Daniel A. and Wang, Woodrow Z. and Sadigh, Dorsa and Pedarsani, Ramtin},
-  booktitle={12th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)},
-  year = {2021},
-  month = may,
-  doi = {10.1145/3450267.3450546}
-}'
+          title = {Incentivizing Routing Choices for Safe and Efficient Transportation in the Face of the COVID-19 Pandemic},
+          author = {Beliaev, Mark and Biyik, Erdem and Lazar, Daniel A. and Wang, Woodrow Z. and Sadigh, Dorsa and Pedarsani, Ramtin},
+          booktitle={12th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)},
+          year = {2021},
+          month = may,
+          doi = {10.1145/3450267.3450546}
+          }'
 
 - title: 'Multi-Agent Safe Planning with Gaussian Processes'
   authors: Zheqing Zhu, Erdem Bıyık, Dorsa Sadigh
@@ -792,13 +792,13 @@
       display: DOI
       url: https://doi.org/10.1109/IROS45743.2020.9341169
   bibtex: '@inproceedings{zhu2020multi,
-  title={Multi-Agent Safe Planning with Gaussian Processes},
-  author={Zhu, Zheqing and Biyik, Erdem and Sadigh, Dorsa},
-  booktitle={Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  year={2020},
-  month=oct,
-  doi={10.1109/IROS45743.2020.9341169}
-}'
+          title={Multi-Agent Safe Planning with Gaussian Processes},
+          author={Zhu, Zheqing and Biyik, Erdem and Sadigh, Dorsa},
+          booktitle={Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+          year={2020},
+          month=oct,
+          doi={10.1109/IROS45743.2020.9341169}
+          }'
 
 - title: 'Active Preference-Based Gaussian Process Regression for Reward Learning'
   authors: Erdem Bıyık*, Nicolas Huynh*, Mykel J. Kochenderfer, Dorsa Sadigh
@@ -825,13 +825,13 @@
       display: DOI
       url: https://doi.org/10.15607/rss.2020.xvi.041
   bibtex: '@inproceedings{biyik2020active,
-  title={Active Preference-Based Gaussian Process Regression for Reward Learning},
-  author={Biyik, Erdem and Huynh, Nicolas and Kochenderfer, Mykel J. and Sadigh, Dorsa},
-  booktitle={Proceedings of Robotics: Science and Systems (RSS)},
-  year={2020},
-  month=jul,
-  doi={10.15607/rss.2020.xvi.041}
-}'
+          title={Active Preference-Based Gaussian Process Regression for Reward Learning},
+          author={Biyik, Erdem and Huynh, Nicolas and Kochenderfer, Mykel J. and Sadigh, Dorsa},
+          booktitle={Proceedings of Robotics: Science and Systems (RSS)},
+          year={2020},
+          month=jul,
+          doi={10.15607/rss.2020.xvi.041}
+          }'
 
 - title: 'Reinforcement Learning based Control of Imitative Policies for Near-Accident Driving'
   authors: Zhangjie Cao*, Erdem Bıyık*, Woodrow Z. Wang, Allan Raventos, Adrien Gaidon, Guy Rosman, Dorsa Sadigh
@@ -855,13 +855,13 @@
       display: DOI
       url: https://doi.org/10.15607/rss.2020.xvi.039
   bibtex: '@inproceedings{cao2020reinforcement,
-  title={Reinforcement Learning based Control of Imitative Policies for Near-Accident Driving},
-  author={Cao, Zhangjie and Biyik, Erdem and Wang, Woodrow Z. and Raventos, Allan and Gaidon, Adrien and Rosman, Guy and Sadigh, Dorsa},
-  booktitle={Proceedings of Robotics: Science and Systems (RSS)},
-  year={2020},
-  month=jul,
-  doi={10.15607/rss.2020.xvi.039}
-}'
+          title={Reinforcement Learning based Control of Imitative Policies for Near-Accident Driving},
+          author={Cao, Zhangjie and Biyik, Erdem and Wang, Woodrow Z. and Raventos, Allan and Gaidon, Adrien and Rosman, Guy and Sadigh, Dorsa},
+          booktitle={Proceedings of Robotics: Science and Systems (RSS)},
+          year={2020},
+          month=jul,
+          doi={10.15607/rss.2020.xvi.039}
+          }'
 
 - title: 'Emergent Correlated Equilibrium through Synchronized Exploration'
   authors: Mark Beliaev*, Woodrow Z. Wang*, Daniel A. Lazar, Erdem Bıyık, Dorsa Sadigh, Ramtin Pedarsani
@@ -876,12 +876,12 @@
       display: Talk
       url: https://youtu.be/t1dsHHaeHDQ
   bibtex: '@inproceedings{beliaev2020emergent,
-  title = {Emergent Correlated Equilibrium through Synchronized Exploration},
-  author = {Beliaev, Mark and Wang, Woodrow Z., and Lazar, Daniel A. and Biyik, Erdem and Sadigh, Dorsa and Pedarsani, Ramtin},
-  booktitle = {RSS 2020 Workshop on Emergent Behaviors in Human-Robot Systems},
-  year = {2020},
-  month = jul
-}'
+          title = {Emergent Correlated Equilibrium through Synchronized Exploration},
+          author = {Beliaev, Mark and Wang, Woodrow Z., and Lazar, Daniel A. and Biyik, Erdem and Sadigh, Dorsa and Pedarsani, Ramtin},
+          booktitle = {RSS 2020 Workshop on Emergent Behaviors in Human-Robot Systems},
+          year = {2020},
+          month = jul
+          }'
 
 - title: "When Humans Aren't Optimal: Robots that Collaborate with Risk-Aware Humans"
   authors: Minae Kwon, Erdem Bıyık, Aditi Talati, Karan Bhasin, Dylan P. Losey, Dorsa Sadigh
@@ -906,13 +906,13 @@
       display: DOI
       url: https://doi.org/10.1145/3319502.3374832
   bibtex: "@inproceedings{kwon2020when,
-  title={When Humans Aren\\'t Optimal: Robots that Collaborate with Risk-Aware Humans},
-  author={Kwon, Minae and Biyik, Erdem and Talati, Aditi and Bhasin, Karan and Losey, Dylan P. and Sadigh, Dorsa},
-  booktitle={ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
-  year={2020},
-  month=mar,
-  doi={10.1145/3319502.3374832}
-}"
+          title={When Humans Aren\\'t Optimal: Robots that Collaborate with Risk-Aware Humans},
+          author={Kwon, Minae and Biyik, Erdem and Talati, Aditi and Bhasin, Karan and Losey, Dylan P. and Sadigh, Dorsa},
+          booktitle={ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
+          year={2020},
+          month=mar,
+          doi={10.1145/3319502.3374832}
+          }"
 
 - title: 'The Green Choice: Learning and Influencing Human Decisions on Shared Roads'
   authors: Erdem Bıyık, Daniel A. Lazar, Dorsa Sadigh, Ramtin Pedarsani
@@ -930,13 +930,13 @@
       display: DOI
       url: https://doi.org/10.1109/CDC40024.2019.9030169
   bibtex: '@inproceedings{biyik2019green,
-  title={The Green Choice: Learning and Influencing Human Decisions on Shared Roads},
-  author={Biyik, Erdem and Lazar, Daniel A. and Sadigh, Dorsa and Pedarsani, Ramtin},
-  booktitle={Proceedings of the 58th IEEE Conference on Decision and Control (CDC)},
-  year={2019},
-  month=dec,
-  doi={10.1109/CDC40024.2019.9030169}
-}'
+          title={The Green Choice: Learning and Influencing Human Decisions on Shared Roads},
+          author={Biyik, Erdem and Lazar, Daniel A. and Sadigh, Dorsa and Pedarsani, Ramtin},
+          booktitle={Proceedings of the 58th IEEE Conference on Decision and Control (CDC)},
+          year={2019},
+          month=dec,
+          doi={10.1109/CDC40024.2019.9030169}
+          }'
 
 - title: 'Active Learning of Reward Dynamics from Hierarchical Queries'
   authors: Chandrayee Basu, Erdem Bıyık, Zhixun He, Mukesh Singhal, Dorsa Sadigh
@@ -951,13 +951,13 @@
       display: DOI
       url: https://doi.org/10.1109/IROS40897.2019.8968522
   bibtex: '@inproceedings{basu2019active,
-  title={Active Learning of Reward Dynamics from Hierarchical Queries},
-  author={Basu, Chandrayee and Biyik, Erdem and He, Zhixun and Singhal, Mukesh and Sadigh, Dorsa},
-  booktitle={Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  year={2019},
-  month=nov,
-  doi={10.1109/IROS40897.2019.8968522}
-}'
+          title={Active Learning of Reward Dynamics from Hierarchical Queries},
+          author={Basu, Chandrayee and Biyik, Erdem and He, Zhixun and Singhal, Mukesh and Sadigh, Dorsa},
+          booktitle={Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+          year={2019},
+          month=nov,
+          doi={10.1109/IROS40897.2019.8968522}
+          }'
 
 - title: 'Asking Easy Questions: A User-Friendly Approach to Active Reward Learning'
   authors: Erdem Bıyık, Malayandi Palan, Nicholas C. Landolfi, Dylan P. Losey, Dorsa Sadigh
@@ -981,12 +981,12 @@
       display: Talk
       url: https://youtu.be/1hbJvz9a6Ns
   bibtex: '@inproceedings{biyik2019asking,
-  title={Asking Easy Questions: A User-Friendly Approach to Active Reward Learning},
-  author={Biyik, Erdem and Palan, Malayandi and Landolfi, Nicholas C. and Losey, Dylan P. and Sadigh, Dorsa},
-  booktitle={Proceedings of the 3rd Conference on Robot Learning (CoRL)},
-  year={2019},
-  month=oct
-}'
+          title={Asking Easy Questions: A User-Friendly Approach to Active Reward Learning},
+          author={Biyik, Erdem and Palan, Malayandi and Landolfi, Nicholas C. and Losey, Dylan P. and Sadigh, Dorsa},
+          booktitle={Proceedings of the 3rd Conference on Robot Learning (CoRL)},
+          year={2019},
+          month=oct
+          }'
 
 - title: 'Efficient and Safe Exploration in Deterministic Markov Decision Processes with Unknown Transition Models'
   authors: Erdem Bıyık*, Jonathan Margoliash*, Shahrouz R. Alimo, Dorsa Sadigh
@@ -1004,13 +1004,13 @@
       display: DOI
       url: https://doi.org/10.23919/ACC.2019.8815276
   bibtex: '@inproceedings{biyik2019efficient,
-  title={Efficient and Safe Exploration in Deterministic Markov Decision Processes with Unknown Transition Models},
-  author={Biyik, Erdem and Margoliash, Jonathan and Alimo, Shahrouz R. and Sadigh, Dorsa},
-  booktitle={Proceedings of the American Control Conference (ACC)},
-  year={2019},
-  month=jul,
-  doi = {10.23919/ACC.2019.8815276}
-}'
+          title={Efficient and Safe Exploration in Deterministic Markov Decision Processes with Unknown Transition Models},
+          author={Biyik, Erdem and Margoliash, Jonathan and Alimo, Shahrouz R. and Sadigh, Dorsa},
+          booktitle={Proceedings of the American Control Conference (ACC)},
+          year={2019},
+          month=jul,
+          doi = {10.23919/ACC.2019.8815276}
+          }'
 
 - title: 'Batch Active Learning Using Determinantal Point Processes'
   authors: Erdem Bıyık, Kenneth Wang, Nima Anari, Dorsa Sadigh
@@ -1025,11 +1025,11 @@
       display: Code
       url: https://github.com/Stanford-ILIAD/DPP-Batch-Active-Learning
   bibtex: '@article{biyik2019batch,
-  title={Batch Active Learning Using Determinantal Point Processes},
-  author={Biyik, Erdem and Wang, Kenneth and Anari, Nima and Sadigh, Dorsa},
-  journal={arXiv preprint arXiv:1906.07975},
-  year={2019}
-}'
+          title={Batch Active Learning Using Determinantal Point Processes},
+          author={Biyik, Erdem and Wang, Kenneth and Anari, Nima and Sadigh, Dorsa},
+          journal={arXiv preprint arXiv:1906.07975},
+          year={2019}
+          }'
 
 - title: 'Altruistic Autonomy: Beating Congestion on Shared Roads'
   authors: 'Erdem Bıyık*, Daniel A. Lazar*, Ramtin Pedarsani, Dorsa Sadigh'
@@ -1050,13 +1050,13 @@
       display: DOI
       url: https://doi.org/10.1007/978-3-030-44051-0_51
   bibtex: '@inproceedings{biyik2018altruistic,
-  title={Altruistic Autonomy: Beating Congestion on Shared Roads},
-  author={Biyik, Erdem and Lazar, Daniel A and Pedarsani, Ramtin and Sadigh, Dorsa},
-  booktitle={Workshop on Algorithmic Foundations of Robotics (WAFR)},
-  year={2018},
-  month=dec,
-  doi={10.1007/978-3-030-44051-0\_51}
-}'
+          title={Altruistic Autonomy: Beating Congestion on Shared Roads},
+          author={Biyik, Erdem and Lazar, Daniel A and Pedarsani, Ramtin and Sadigh, Dorsa},
+          booktitle={Workshop on Algorithmic Foundations of Robotics (WAFR)},
+          year={2018},
+          month=dec,
+          doi={10.1007/978-3-030-44051-0\_51}
+          }'
 
 - title: Batch Active Preference-Based Learning of Reward Functions
   authors: Erdem Bıyık, Dorsa Sadigh
@@ -1083,16 +1083,16 @@
       url: https://youtu.be/j5gZ9JEjJlg
   specialnote: 'Oral presentation.'
   bibtex: '@inproceedings{biyik2018batch,
-  title={Batch Active Preference-Based Learning of Reward Functions},
-  author={Biyik, Erdem and Sadigh, Dorsa},
-  booktitle={Proceedings of the 2nd Conference on Robot Learning (CoRL)},
-  year={2018},
-  pages={519--528},
-  volume={87},
-  series={Proceedings of Machine Learning Research},
-  publisher={PMLR},
-  month=oct
-}'
+          title={Batch Active Preference-Based Learning of Reward Functions},
+          author={Biyik, Erdem and Sadigh, Dorsa},
+          booktitle={Proceedings of the 2nd Conference on Robot Learning (CoRL)},
+          year={2018},
+          pages={519--528},
+          volume={87},
+          series={Proceedings of Machine Learning Research},
+          publisher={PMLR},
+          month=oct
+          }'
 
 - title: Real-Time Detection, Tracking and Classification of Multiple Moving Objects in UAV Videos
   authors: Hüseyin C. Baykara*, Erdem Bıyık*, Gamze Gül*, Deniz Onural*, Ahmet S. Öztürk*, İlkay Yıldız*
@@ -1110,12 +1110,12 @@
       url: https://doi.org/10.1109/ICTAI.2017.00145
   note: '* denotes equal contribution.'
   bibtex: '@inproceedings{baykara2017real,
-  title={Real-Time Detection, Tracking and Classification of Multiple Moving Objects in UAV Videos},
-  author={Baykara, Huseyin C. and Biyik, Erdem and Gul, Gamze and Onural, Deniz and Ozturk, Ahmet S. and Yildiz, Ilkay},
-  booktitle={2017 IEEE 29th International Conference on Tools with Artificial Intelligence (ICTAI)},
-  pages={945--950},
-  year={2017},
-  organization={IEEE},
-  month=nov,
-  doi={10.1109/ICTAI.2017.00145}
-}'
+          title={Real-Time Detection, Tracking and Classification of Multiple Moving Objects in UAV Videos},
+          author={Baykara, Huseyin C. and Biyik, Erdem and Gul, Gamze and Onural, Deniz and Ozturk, Ahmet S. and Yildiz, Ilkay},
+          booktitle={2017 IEEE 29th International Conference on Tools with Artificial Intelligence (ICTAI)},
+          pages={945--950},
+          year={2017},
+          organization={IEEE},
+          month=nov,
+          doi={10.1109/ICTAI.2017.00145}
+          }'

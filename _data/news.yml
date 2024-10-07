@@ -1,3 +1,9 @@
+- date: 2023-09-25
+  content: "Our paper titled \"DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning\" got accepted to the 38th Conference on Neural Information Processing Systems (NeurIPS)."
+
+- date: 2024-09-04
+  content: "Our 2 papers got accepted to the 2024 Conference on Robot Learning (CoRL):<br>- Trajectory Improvement and Reward Learning from Comparative Language Feedback<br>- EXTRACT: Efficient Policy Learning by Extracting Transferable Robot Skills from Offline Data"
+
 - date: 2024-06-30
   content: "Our paper titled \"ViSaRL: Visual Reinforcement Learning Guided by Human Saliency\" got accepted to the 2024 International Conference on Intelligent Robots and Systems (IROS)."
 
@@ -18,9 +24,6 @@
 
 - date: 2023-09-21
   content: "Our paper titled \"RoboCLIP: One Demonstration is Enough to Learn Robot Policies\" got accepted to the 37th Conference on Neural Information Processing Systems (NeurIPS)."
-
-- date: 2023-05-06
-  content: "Our paper titled \"ViSaRL: Visual Reinforcement Learning Guided by Human Saliency\" got accepted to the Pretraining for Robotics Workshop at ICRA 2023."
 
 - date: 2023-01-30
   content: "Our paper titled \"Active Reward Learning from Online Preferences\" got accepted to the 2023 International Conference on Robotics and Automation (ICRA)."
