@@ -23,6 +23,80 @@
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
+- title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
+  authors: Anthony Liang, Guy Tennenholtz, Chih-wei Hsu, Yinlam Chow, Erdem Bıyık, Craig Boutilier
+  venue: Conference on Neural Information Processing Systems (NeurIPS), December 2024
+  picture: /images/publications/liang2024dynamiterl.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/liang2024dynamiterl.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2402.15957
+  bibtex: '@inproceedings{liang2024dynamiterl,
+          title={DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning}, 
+          author={Anthony Liang and Guy Tennenholtz and Chih-wei Hsu and Yinlam Chow and Erdem Bıyık and Craig Boutilier},
+          booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
+          year={2024},
+          month=dec
+          }'
+
+- title: 'Trajectory Improvement and Reward Learning from Comparative Language Feedback'
+  authors: Zhaojing Yang, Miru Jun, Jeremy Tien, Stuart J. Russell, Anca Dragan, Erdem Bıyık
+  venue: Proceedings of the 8th Conference on Robot Learning (CoRL), November 2024
+  picture: /images/publications/yang2024trajectory.png
+  note: Also presented at HRI Human-Interactive Robot Learning Workshop, March 2024 (<a href="/pdfs/publications/tien2024optimizing.pdf">PDF</a>).
+  links:
+    # - type: pdf
+    #   display: PDF
+    #   url: /pdfs/publications/yang2024trajectory.pdf
+  bibtex: '@inproceedings{yang2024trajectory,
+          title={Trajectory Improvement and Reward Learning from Comparative Language Feedback}, 
+          author={Zhaojing Yang and Miru Jun and Jeremy Tien and Stuart J. Russell and Anca Dragan and Erdem Bıyık},
+          booktitle={Conference on Robot Learning (CoRL)},
+          year={2024},
+          month=nov
+          }' 
+
+- title: 'EXTRACT: Efficient Policy Learning by Extracting Transferable Robot Skills from Offline Data'
+  authors: Jesse Zhang, Minho Heo, Zuxin Liu, Erdem Bıyık, Joseph J Lim, Yao Liu, Rasool Fakoor
+  venue: Proceedings of the 8th Conference on Robot Learning (CoRL), November 2024
+  picture: /images/publications/zhang2024extract.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/zhang2024extract.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2406.17768
+    - type: website
+      display: Website
+      url: https://www.jessezhang.net/projects/extract/
+  bibtex: '@inproceedings{zhang2024extract,
+          title={{EXTRACT}: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data},
+          author={Jesse Zhang and Minho Heo and Zuxin Liu and Erdem B{\i}y{\i}k and Joseph J Lim and Yao Liu and Rasool Fakoor},
+          booktitle={Conference on Robot Learning (CoRL)},
+          year={2024},
+          month=nov
+          }'
+
+- title: 'Accurate and Data-Efficient Toxicity Prediction when Annotators Disagree'
+  authors: Harbani Jaggi*, Kashyap Murali*, Eve Fleisig, Erdem Bıyık
+  venue: Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2024
+  note: '* denotes equal contribution.
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/jaggi2024accurate.pdf
+  bibtex: '@article{jaggi2024accurate,
+          author    = {Jaggi, Harbani and Murali, Kashyap and Fleisig, Eve and B{\i}y{\i}k, Erdem},
+          title     = {Accurate and Data-Efficient Toxicity Prediction when Annotators Disagree},
+          journal   = {Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+          year      = {2024},
+          month     = nov
+          }'
+
 - title: 'ViSaRL: Visual Reinforcement Learning Guided by Human Saliency'
   authors: Anthony Liang, Jesse Thomason, Erdem Bıyık
   venue: International Conference on Intelligent Robots and Systems (IROS), October 2024
@@ -42,12 +116,12 @@
       display: Code
       url: https://github.com/aliang8/visarl
   bibtex: '@article{liang2024visarl,
-  author    = {Liang, Anthony and Thomason, Jesse and B{\i}y{\i}k, Erdem},
-  title     = {ViSaRL: Visual Reinforcement Learning Guided by Human Saliency},
-  journal   = {International Conference on Intelligent Robots and Systems (IROS)},
-  year      = {2024},
-  month     = oct
-}'
+          author    = {Liang, Anthony and Thomason, Jesse and B{\i}y{\i}k, Erdem},
+          title     = {ViSaRL: Visual Reinforcement Learning Guided by Human Saliency},
+          journal   = {International Conference on Intelligent Robots and Systems (IROS)},
+          year      = {2024},
+          month     = oct
+          }'
 
 - title: 'RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback'
   authors: Yufei Wang*, Zhanyi Sun*, Jesse Zhang, Zhou Xian, Erdem Bıyık, David Held†, Zackory Erickson†
@@ -68,12 +142,12 @@
       display: Code
       url: https://github.com/yufeiwang63/RL-VLM-F
   bibtex: '@inproceedings{wang2024rlvlmf,
-      title={RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback}, 
-      author={Yufei Wang and Zhanyi Sun and Jesse Zhang and Zhou Xian and Erdem Bıyık and David Held and Zackory Erickson},
-      booktitle={International Conference on Machine Learning (ICML)},
-      year={2024},
-      month=jul
-}'
+          title={RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback}, 
+          author={Yufei Wang and Zhanyi Sun and Jesse Zhang and Zhou Xian and Erdem Bıyık and David Held and Zackory Erickson},
+          booktitle={International Conference on Machine Learning (ICML)},
+          year={2024},
+          month=jul
+          }'
 
 - title: 'Coprocessor Actor Critic: A Model-Based Reinforcement Learning Approach For Adaptive Brain Stimulation'
   authors: Michelle Pan*, Mariah Schrum*, Vivek Myers, Erdem Bıyık, Anca Dragan
@@ -91,12 +165,12 @@
       display: Code
       url: https://github.com/michelllepan/neural-coprocessors
   bibtex: '@inproceedings{pan2024coprocessor,
-      title={Coprocessor Actor Critic: A Model-Based Reinforcement Learning Approach For Adaptive Brain Stimulation},
-      author={Michelle Pan and Mariah Schrum and Vivek Myers and Erdem Bıyık and Anca Dragan},
-      booktitle={International Conference on Machine Learning (ICML)},
-      year={2024},
-      month=jul
-}'
+          title={Coprocessor Actor Critic: A Model-Based Reinforcement Learning Approach For Adaptive Brain Stimulation},
+          author={Michelle Pan and Mariah Schrum and Vivek Myers and Erdem Bıyık and Anca Dragan},
+          booktitle={International Conference on Machine Learning (ICML)},
+          year={2024},
+          month=jul
+          }'
 
 - title: 'Foundation Models for Embodied AI'
   authors: Sumedh Anand Sontakke
@@ -108,48 +182,13 @@
       display: PDF
       url: /pdfs/publications/sontakke2024foundation.pdf
   bibtex: '@phdthesis{sontakke2024foundation,
-  title={Foundation Models for Embodied AI},
-  author={Sontakke, Sumedh Anand},
-  school = {CS Department, University of Southern California},
-  year={2024},
-  month=may
-}'
-
-- title: 'Optimizing Robot Behavior via Comparative Language Feedback'
-  authors: Jeremy Tien*, Zhaojing Yang*, Miru Jun, Stuart J. Russell, Anca Dragan, Erdem Bıyık
-  venue: 3rd Workshop on Human-Interactive Robot Learning (HIRL) at ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2024
-  picture: /images/publications/tien2024optimizing.png
-  note: '* denotes equal contribution.'
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/tien2024optimizing.pdf
-  bibtex: '@inproceedings{tien2024optimizing,
-      title={Optimizing Robot Behavior via Comparative Language Feedback}, 
-      author={Jeremy Tien and Zhaojing Yang and Miru Jun and Stuart J. Russell and Anca Dragan and Erdem Bıyık},
-      booktitle={3rd Workshop on Human-Interactive Robot Learning (HIRL) at ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
-      year={2024},
-      month=mar
-}'  
+          title={Foundation Models for Embodied AI},
+          author={Sontakke, Sumedh Anand},
+          school = {CS Department, University of Southern California},
+          year={2024},
+          month=may
+          }' 
   
-- title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
-  authors: Anthony Liang, Guy Tennenholtz, Chih-wei Hsu, Yinlam Chow, Erdem Bıyık, Craig Boutilier
-  venue: arXiv preprint, February 2024
-  picture: /images/publications/liang2024dynamiterl.png
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/liang2024dynamiterl.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2402.15957
-  bibtex: '@article{liang2024dynamiterl,
-      title={DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning}, 
-      author={Anthony Liang and Guy Tennenholtz and Chih-wei Hsu and Yinlam Chow and Erdem Bıyık and Craig Boutilier},
-      year={2024},
-      journal={arXiv preprint arXiv:2402.15957}
-}'
-
 - title: 'Batch Active Learning of Reward Functions from Human Preferences'
   authors: Erdem Bıyık, Nima Anari, Dorsa Sadigh
   venue: ACM Transactions on Human-Robot Interaction (THRI), 2024
@@ -168,12 +207,11 @@
       display: Video 2
       url: https://youtu.be/cQ7vvUg9rU4
   bibtex: '@article{biyik2024batch,
-  title={Batch Active Learning of Reward Functions from Human Preferences},
-  author={Biyik, Erdem and Anari, Nima and Sadigh, Dorsa},
-  journal={ACM Transactions on Human-Robot Interaction (THRI)},
-  year={2024},
-}'
-
+          title={Batch Active Learning of Reward Functions from Human Preferences},
+          author={Biyik, Erdem and Anari, Nima and Sadigh, Dorsa},
+          journal={ACM Transactions on Human-Robot Interaction (THRI)},
+          year={2024},
+          }'
 
 - title: 'A Generalized Acquisition Function for Preference-based Reward Learning'
   authors: Evan Ellis, Gaurav R. Ghosal, Stuart J. Russell, Anca Dragan, Erdem Bıyık
@@ -186,12 +224,12 @@
       display: arXiv
       url: https://arxiv.org/abs/2403.06003
   bibtex: '@inproceedings{ellis2024generalized,
-  title={A Generalized Acquisition Function for Preference-based Reward Learning},
-  author={Ellis, Evan and Ghosal, Gaurav R. and Russell, Stuart J. and Dragan, Anca and Biyik, Erdem},
-  booktitle={International Conference on Robotics and Automation (ICRA)},
-  year={2024},
-  month=may
-}'
+          title={A Generalized Acquisition Function for Preference-based Reward Learning},
+          author={Ellis, Evan and Ghosal, Gaurav R. and Russell, Stuart J. and Dragan, Anca and Biyik, Erdem},
+          booktitle={International Conference on Robotics and Automation (ICRA)},
+          year={2024},
+          month=may
+          }'
 
 - title: 'Active Preference-Based Gaussian Process Regression for Reward Learning and Optimization'
   authors: Erdem Bıyık, Nicolas Huynh, Mykel J. Kochenderfer, Dorsa Sadigh
@@ -211,15 +249,15 @@
       display: DOI
       url: https://doi.org/10.1177/02783649231208729
   bibtex: '@article{biyik2024active,
-  title={Active Preference-Based Gaussian Process Regression for Reward Learning and Optimization},
-  author={Biyik, Erdem and Huynh, Nicolas and Kochenderfer, Mykel J. and Sadigh, Dorsa},
-  journal={The International Journal of Robotics Research},
-  volume={43},
-  number={5},
-  pages={665-684},
-  year={2024},
-  doi={10.1177/02783649231208729}
-}'
+          title={Active Preference-Based Gaussian Process Regression for Reward Learning and Optimization},
+          author={Biyik, Erdem and Huynh, Nicolas and Kochenderfer, Mykel J. and Sadigh, Dorsa},
+          journal={The International Journal of Robotics Research},
+          volume={43},
+          number={5},
+          pages={665-684},
+          year={2024},
+          doi={10.1177/02783649231208729}
+          }'
 
 - title: 'Preference Elicitation with Soft Attributes in Interactive Recommendation'
   authors: Erdem Bıyık, Fan Yao, Yinlam Chow, Alex Haig, Chih-wei Hsu, Mohammad Ghavamzadeh, Craig Boutilier
@@ -232,11 +270,11 @@
       display: arXiv
       url: https://arxiv.org/abs/2311.02085
   bibtex: '@article{biyik2023preference,
-      title={Preference Elicitation with Soft Attributes in Interactive Recommendation}, 
-      author={Erdem Biyik and Fan Yao and Yinlam Chow and Alex Haig and Chih-wei Hsu and Mohammad Ghavamzadeh and Craig Boutilier},
-      year={2023},
-      journal={arXiv preprint arXiv:2311.02085}
-}'
+          title={Preference Elicitation with Soft Attributes in Interactive Recommendation}, 
+          author={Erdem Biyik and Fan Yao and Yinlam Chow and Alex Haig and Chih-wei Hsu and Mohammad Ghavamzadeh and Craig Boutilier},
+          year={2023},
+          journal={arXiv preprint arXiv:2311.02085}
+          }'
 
 - title: 'RoboCLIP: One Demonstration is Enough to Learn Robot Policies'
   authors: Sumedh A. Sontakke, Jesse Zhang, Sébastien M. R. Arnold, Karl Pertsch, Erdem Bıyık, Dorsa Sadigh, Chelsea Finn, Laurent Itti
@@ -256,12 +294,12 @@
       display: Code
       url: https://github.com/sumedh7/RoboCLIP/
   bibtex: '@inproceedings{sontakke2023roboclip,
-  title={RoboCLIP: One Demonstration is Enough to Learn Robot Policies},
-  author={Sumedh A Sontakke and Jesse Zhang and Sébastien M. R. Arnold and Karl Pertsch and Erdem Biyik and Dorsa Sadigh and Chelsea Finn and Laurent Itti},
-  booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
-  year={2023},
-  month=dec
-}'
+          title={RoboCLIP: One Demonstration is Enough to Learn Robot Policies},
+          author={Sumedh A Sontakke and Jesse Zhang and Sébastien M. R. Arnold and Karl Pertsch and Erdem Biyik and Dorsa Sadigh and Chelsea Finn and Laurent Itti},
+          booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
+          year={2023},
+          month=dec
+          }'
 
 - title: 'Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback'
   authors: Stephen Casper*, Xander Davies*, et al.
@@ -276,11 +314,11 @@
       display: arXiv
       url: https://arxiv.org/abs/2307.15217
   bibtex: '@article{casper2023open,
-  title={Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback},
-  author={Casper, Stephen and Davies, Xander and Shi, Claudia and Gilbert, Thomas Krendl and Scheurer, Jeremy and Rando, Javier and Freedman, Rachel and Korbak, Tomasz and Lindner, David and Freire, Pedro and Wang, Tony and Marks, Samuel and Segerie, Charbel-Raphaël and Carroll, Micah and Peng, Andi and Christoffersen, Phillip and Damani, Mehul and Slocum, Stewart and Anwar, Usman and Siththaranjan, Anand and Nadeau, Max and Michaud, Eric J. and Pfau, Jacob and Krasheninnikov, Dmitrii and Chen, Xin and Langosco, Lauro and Hase, Peter and Biyik, Erdem and Dragan, Anca and Krueger, David and Sadigh, Dorsa and Hadfield-Menell, Dylan},
-  journal={Transactions on Machine Learning Research (TMLR)},
-  year={2023},
-}'
+          title={Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback},
+          author={Casper, Stephen and Davies, Xander and Shi, Claudia and Gilbert, Thomas Krendl and Scheurer, Jeremy and Rando, Javier and Freedman, Rachel and Korbak, Tomasz and Lindner, David and Freire, Pedro and Wang, Tony and Marks, Samuel and Segerie, Charbel-Raphaël and Carroll, Micah and Peng, Andi and Christoffersen, Phillip and Damani, Mehul and Slocum, Stewart and Anwar, Usman and Siththaranjan, Anand and Nadeau, Max and Michaud, Eric J. and Pfau, Jacob and Krasheninnikov, Dmitrii and Chen, Xin and Langosco, Lauro and Hase, Peter and Biyik, Erdem and Dragan, Anca and Krueger, David and Sadigh, Dorsa and Hadfield-Menell, Dylan},
+          journal={Transactions on Machine Learning Research (TMLR)},
+          year={2023},
+          }'
 
 - title: 'Active Reward Learning from Online Preferences'
   authors: Vivek Myers, Erdem Bıyık, Dorsa Sadigh
@@ -303,13 +341,13 @@
       display: DOI
       url: https://doi.org/10.1109/ICRA48891.2023.10160439
   bibtex: '@inproceedings{myers2023active,
-  title={Active Reward Learning from Online Preferences},
-  author={Myers, Vivek and Biyik, Erdem and Sadigh, Dorsa},
-  booktitle={International Conference on Robotics and Automation (ICRA)},
-  year={2023},
-  month=may,
-  doi={10.1109/ICRA48891.2023.10160439}
-}'
+          title={Active Reward Learning from Online Preferences},
+          author={Myers, Vivek and Biyik, Erdem and Sadigh, Dorsa},
+          booktitle={International Conference on Robotics and Automation (ICRA)},
+          year={2023},
+          month=may,
+          doi={10.1109/ICRA48891.2023.10160439}
+          }'
 
 - title: 'Assistive Teaching of Motor Control Tasks to Humans'
   authors: Megha Srivastava, Erdem Bıyık, Suvir Mirchandani, Noah Goodman, Dorsa Sadigh
@@ -326,12 +364,12 @@
       display: Talk
       url: https://youtu.be/nS0ftKe9i80
   bibtex: '@inproceedings{srivastava2022assistive,
-  title={Assistive Teaching of Motor Control Tasks to Humans},
-  author={Srivastava, Megha and Biyik, Erdem and Mirchandani, Suvir and Goodman, Noah and Sadigh, Dorsa},
-  booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
-  year={2022},
-  month=nov
-}'
+          title={Assistive Teaching of Motor Control Tasks to Humans},
+          author={Srivastava, Megha and Biyik, Erdem and Mirchandani, Suvir and Goodman, Noah and Sadigh, Dorsa},
+          booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
+          year={2022},
+          month=nov
+          }'
 
 - title: 'How do People Incorporate Advice from Artificial Agents when Making Physical Judgments?'
   authors: Erik Brockbank*, Haoliang Wang*, Justin Yang, Suvir Mirchandani, Erdem Bıyık, Dorsa Sadigh, Judith Fan
@@ -350,12 +388,12 @@
       url: https://youtu.be/KrD-OaZ0pYA
   specialnote: 'Oral presentation.'
   bibtex: '@inproceedings{brockbank2022people,
-  title={How do People Incorporate Advice from Artificial Agents when Making Physical Judgments?},
-  author={Brockbank, Erik and Wang, Haoliang and Yang, Justin and Mirchandani, Suvir and Biyik, Erdem and Sadigh, Dorsa and Fan, Judith},
-  booktitle={Cognitive Science Society Conference (CogSci)},
-  year={2022},
-  month=jul
-}'
+          title={How do People Incorporate Advice from Artificial Agents when Making Physical Judgments?},
+          author={Brockbank, Erik and Wang, Haoliang and Yang, Justin and Mirchandani, Suvir and Biyik, Erdem and Sadigh, Dorsa and Fan, Judith},
+          booktitle={Cognitive Science Society Conference (CogSci)},
+          year={2022},
+          month=jul
+          }'
 
 - title: 'Learning Preferences For Interactive Autonomy'
   authors: Erdem Bıyık
@@ -370,12 +408,12 @@
       display: arXiv
       url: https://arxiv.org/abs/2210.10899
   bibtex: '@phdthesis{biyik2022learning,
-  title={Learning Preferences For Interactive Autonomy},
-  author={Biyik, Erdem},
-  school = {EE Department, Stanford University},
-  year={2022},
-  month=may
-}'
+          title={Learning Preferences For Interactive Autonomy},
+          author={Biyik, Erdem},
+          school = {EE Department, Stanford University},
+          year={2022},
+          month=may
+          }'
 
 - title: 'Leveraging Smooth Attention Prior for Multi-Agent Trajectory Prediction'
   authors: Zhangjie Cao, Erdem Bıyık, Guy Rosman, Dorsa Sadigh
@@ -398,13 +436,13 @@
       display: DOI
       url: https://doi.org/10.1109/ICRA46639.2022.9811718
   bibtex: '@inproceedings{cao2022leveraging,
-  title={Leveraging Smooth Attention Prior for Multi-Agent Trajectory Prediction},
-  author={Cao, Zhangjie and Biyik, Erdem and Rosman, Guy and Sadigh, Dorsa},
-  booktitle={International Conference on Robotics and Automation (ICRA)},
-  year={2022},
-  month=may,
-  doi={10.1109/ICRA46639.2022.9811718}
-}'
+          title={Leveraging Smooth Attention Prior for Multi-Agent Trajectory Prediction},
+          author={Cao, Zhangjie and Biyik, Erdem and Rosman, Guy and Sadigh, Dorsa},
+          booktitle={International Conference on Robotics and Automation (ICRA)},
+          year={2022},
+          month=may,
+          doi={10.1109/ICRA46639.2022.9811718}
+          }'
 
 - title: 'APReL: A Library for Active Preference-based Reward Learning Algorithms'
   authors: Erdem Bıyık, Aditi Talati, Dorsa Sadigh
@@ -434,13 +472,13 @@
       display: DOI
       url: https://doi.org/10.1109/hri53351.2022.9889650 
   bibtex: '@inproceedings{biyik2022aprel,
-  title={APReL: A Library for Active Preference-based Reward Learning Algorithms},
-  author={Biyik, Erdem and Talati, Aditi and Sadigh, Dorsa},
-  booktitle={17th ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
-  year={2022},
-  month=mar,
-  doi={10.1109/hri53351.2022.9889650},
-}'
+          title={APReL: A Library for Active Preference-based Reward Learning Algorithms},
+          author={Biyik, Erdem and Talati, Aditi and Sadigh, Dorsa},
+          booktitle={17th ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
+          year={2022},
+          month=mar,
+          doi={10.1109/hri53351.2022.9889650},
+          }'
 
 - title: 'Learning from Humans for Adaptive Interaction'
   authors: Erdem Bıyık
@@ -457,13 +495,13 @@
       display: DOI
       url: https://doi.org/10.1109/hri53351.2022.9889436
   bibtex: '@inproceedings{biyik2022pioneers,
-  title={Learning from Humans for Adaptive Interaction},
-  author={Biyik, Erdem},
-  booktitle={The 17th Annual Human-Robot Interaction Pioneers Workshop (HRI Pioneers)},
-  year={2022},
-  month=mar,
-  doi={10.1109/hri53351.2022.9889436},
-}'
+          title={Learning from Humans for Adaptive Interaction},
+          author={Biyik, Erdem},
+          booktitle={The 17th Annual Human-Robot Interaction Pioneers Workshop (HRI Pioneers)},
+          year={2022},
+          month=mar,
+          doi={10.1109/hri53351.2022.9889436},
+          }'
 
 - title: 'Partner-Aware Algorithms in Decentralized Cooperative Bandit Teams'
   authors: Erdem Bıyık, Anusha Lalitha, Rajarshi Saha, Andrea Goldsmith, Dorsa Sadigh
@@ -494,13 +532,13 @@
       url: https://doi.org/10.1609/aaai.v36i9.21158
   specialnote: 'Oral presentation.'
   bibtex: '@inproceedings{biyik2022partner,
-  title={Partner-Aware Algorithms in Decentralized Cooperative Bandit Teams},
-  author={Biyik, Erdem and Lalitha, Anusha and Saha, Rajarshi and Goldsmith, Andrea and Sadigh, Dorsa},
-  booktitle={Proceedings of the 36th AAAI Conference on Artificial Intelligence},
-  year={2022},
-  month=feb,
-  doi={10.1609/aaai.v36i9.21158}
-}'
+          title={Partner-Aware Algorithms in Decentralized Cooperative Bandit Teams},
+          author={Biyik, Erdem and Lalitha, Anusha and Saha, Rajarshi and Goldsmith, Andrea and Sadigh, Dorsa},
+          booktitle={Proceedings of the 36th AAAI Conference on Artificial Intelligence},
+          year={2022},
+          month=feb,
+          doi={10.1609/aaai.v36i9.21158}
+          }'
 
 - title: 'Learning Multimodal Rewards from Rankings'
   authors: Vivek Myers, Erdem Bıyık, Nima Anari, Dorsa Sadigh
