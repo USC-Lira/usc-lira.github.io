@@ -22,7 +22,6 @@
   #   - type: doi
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
-
 - title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
   authors: Anthony Liang, Guy Tennenholtz, Chih-wei Hsu, Yinlam Chow, Erdem Bıyık, Craig Boutilier
   venue: Conference on Neural Information Processing Systems (NeurIPS), December 2024
@@ -46,8 +45,8 @@
   authors: Zhaojing Yang, Miru Jun, Jeremy Tien, Stuart J. Russell, Anca Dragan, Erdem Bıyık
   venue: Proceedings of the 8th Conference on Robot Learning (CoRL), November 2024
   picture: /images/publications/yang2024trajectory.png
-  note: Also presented at HRI Human-Interactive Robot Learning Workshop, March 2024 (<a href="/pdfs/publications/tien2024optimizing.pdf">PDF</a>).
-  links:
+  note: Also presented at HRI Human-Interactive Robot Learning Workshop, March 2024 (<a href=“/pdfs/publications/tien2024optimizing.pdf”>PDF</a>).
+  # links:
     # - type: pdf
     #   display: PDF
     #   url: /pdfs/publications/yang2024trajectory.pdf
@@ -57,7 +56,7 @@
   booktitle={Conference on Robot Learning (CoRL)},
   year={2024},
   month=nov
-}' 
+}'
 
 - title: 'EXTRACT: Efficient Policy Learning by Extracting Transferable Robot Skills from Offline Data'
   authors: Jesse Zhang, Minho Heo, Zuxin Liu, Erdem Bıyık, Joseph J Lim, Yao Liu, Rasool Fakoor
@@ -142,11 +141,11 @@
       display: Code
       url: https://github.com/yufeiwang63/RL-VLM-F
   bibtex: '@inproceedings{wang2024rlvlmf,
-  title={RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback}, 
-  author={Yufei Wang and Zhanyi Sun and Jesse Zhang and Zhou Xian and Erdem Bıyık and David Held and Zackory Erickson},
-  booktitle={International Conference on Machine Learning (ICML)},
-  year={2024},
-  month=jul
+      title={RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback}, 
+      author={Yufei Wang and Zhanyi Sun and Jesse Zhang and Zhou Xian and Erdem Bıyık and David Held and Zackory Erickson},
+      booktitle={International Conference on Machine Learning (ICML)},
+      year={2024},
+      month=jul
 }'
 
 - title: 'Coprocessor Actor Critic: A Model-Based Reinforcement Learning Approach For Adaptive Brain Stimulation'
@@ -165,11 +164,11 @@
       display: Code
       url: https://github.com/michelllepan/neural-coprocessors
   bibtex: '@inproceedings{pan2024coprocessor,
-  title={Coprocessor Actor Critic: A Model-Based Reinforcement Learning Approach For Adaptive Brain Stimulation},
-  author={Michelle Pan and Mariah Schrum and Vivek Myers and Erdem Bıyık and Anca Dragan},
-  booktitle={International Conference on Machine Learning (ICML)},
-  year={2024},
-  month=jul
+      title={Coprocessor Actor Critic: A Model-Based Reinforcement Learning Approach For Adaptive Brain Stimulation},
+      author={Michelle Pan and Mariah Schrum and Vivek Myers and Erdem Bıyık and Anca Dragan},
+      booktitle={International Conference on Machine Learning (ICML)},
+      year={2024},
+      month=jul
 }'
 
 - title: 'Foundation Models for Embodied AI'
@@ -187,8 +186,43 @@
   school = {CS Department, University of Southern California},
   year={2024},
   month=may
-}' 
+}'
+
+- title: 'Optimizing Robot Behavior via Comparative Language Feedback'
+  authors: Jeremy Tien*, Zhaojing Yang*, Miru Jun, Stuart J. Russell, Anca Dragan, Erdem Bıyık
+  venue: 3rd Workshop on Human-Interactive Robot Learning (HIRL) at ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2024
+  picture: /images/publications/tien2024optimizing.png
+  note: '* denotes equal contribution.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/tien2024optimizing.pdf
+  bibtex: '@inproceedings{tien2024optimizing,
+      title={Optimizing Robot Behavior via Comparative Language Feedback}, 
+      author={Jeremy Tien and Zhaojing Yang and Miru Jun and Stuart J. Russell and Anca Dragan and Erdem Bıyık},
+      booktitle={3rd Workshop on Human-Interactive Robot Learning (HIRL) at ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
+      year={2024},
+      month=mar
+}'  
   
+- title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
+  authors: Anthony Liang, Guy Tennenholtz, Chih-wei Hsu, Yinlam Chow, Erdem Bıyık, Craig Boutilier
+  venue: arXiv preprint, February 2024
+  picture: /images/publications/liang2024dynamiterl.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/liang2024dynamiterl.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2402.15957
+  bibtex: '@article{liang2024dynamiterl,
+      title={DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning}, 
+      author={Anthony Liang and Guy Tennenholtz and Chih-wei Hsu and Yinlam Chow and Erdem Bıyık and Craig Boutilier},
+      year={2024},
+      journal={arXiv preprint arXiv:2402.15957}
+}'
+
 - title: 'Batch Active Learning of Reward Functions from Human Preferences'
   authors: Erdem Bıyık, Nima Anari, Dorsa Sadigh
   venue: ACM Transactions on Human-Robot Interaction (THRI), 2024
@@ -212,6 +246,7 @@
   journal={ACM Transactions on Human-Robot Interaction (THRI)},
   year={2024},
 }'
+
 
 - title: 'A Generalized Acquisition Function for Preference-based Reward Learning'
   authors: Evan Ellis, Gaurav R. Ghosal, Stuart J. Russell, Anca Dragan, Erdem Bıyık
@@ -270,10 +305,10 @@
       display: arXiv
       url: https://arxiv.org/abs/2311.02085
   bibtex: '@article{biyik2023preference,
-  title={Preference Elicitation with Soft Attributes in Interactive Recommendation}, 
-  author={Erdem Biyik and Fan Yao and Yinlam Chow and Alex Haig and Chih-wei Hsu and Mohammad Ghavamzadeh and Craig Boutilier},
-  year={2023},
-  journal={arXiv preprint arXiv:2311.02085}
+      title={Preference Elicitation with Soft Attributes in Interactive Recommendation}, 
+      author={Erdem Biyik and Fan Yao and Yinlam Chow and Alex Haig and Chih-wei Hsu and Mohammad Ghavamzadeh and Craig Boutilier},
+      year={2023},
+      journal={arXiv preprint arXiv:2311.02085}
 }'
 
 - title: 'RoboCLIP: One Demonstration is Enough to Learn Robot Policies'
@@ -567,7 +602,7 @@
   booktitle={Proceedings of the 5th Conference on Robot Learning (CoRL)},
   year={2021},
   month=nov
-}'  
+}'
 
 - title: 'Learning Reward Functions from Scale Feedback'
   authors: Nils Wilde*, Erdem Bıyık*, Dorsa Sadigh, Stephen L. Smith
