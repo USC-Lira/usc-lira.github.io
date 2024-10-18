@@ -47,10 +47,22 @@
   venue: Proceedings of the 8th Conference on Robot Learning (CoRL), November 2024
   picture: /images/publications/yang2024trajectory.png
   note: 'Also presented at HRI Human-Interactive Robot Learning Workshop, March 2024 (<a href=“/pdfs/publications/tien2024optimizing.pdf”>PDF</a>).'
-  # links:
-    # - type: pdf
-    #   display: PDF
-    #   url: /pdfs/publications/yang2024trajectory.pdf
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/yang2024trajectory.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2410.06401
+    - type: website
+      display: Website
+      url: https://liralab.usc.edu/comparative-language-feedback/
+    - type: code
+      display: Code
+      url: https://github.com/USC-Lira/language-preference-learning
+    - type: video
+      display: Video
+      url: https://www.youtube.com/watch?v=8xyuCQlTXEg
   bibtex: '@inproceedings{yang2024trajectory,
   title={Trajectory Improvement and Reward Learning from Comparative Language Feedback}, 
   author={Zhaojing Yang and Miru Jun and Jeremy Tien and Stuart J. Russell and Anca Dragan and Erdem Bıyık},
