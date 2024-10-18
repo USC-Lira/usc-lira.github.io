@@ -1,5 +1,5 @@
-# youtube_code is the video id of the youtube video. For example, if the video link is https://www.youtube.com/watch?v=0N3bNT4AppI, then the code is "0N3bNT4AppI".
+# youtube_code is the video id of the youtube video. For example, if the video link is https://www.youtube.com/watch?v=2qQlOwp2v2A, then the code is "2qQlOwp2v2A".
 
-#- date: 2020-11-19
-#  description: "Dorsa's keynote talk at the 4th Conference on Robot Learning (CoRL) on \"Walking the Boundary of Learning and Interaction\""
-#  youtube_code: "0N3bNT4AppI"
+- date: 2024-10-11
+  description: "Erdem's seminar talk at the University of Washington on \"Robot Learning with Minimal Human Feedback\""
+  youtube_code: "2qQlOwp2v2A"
