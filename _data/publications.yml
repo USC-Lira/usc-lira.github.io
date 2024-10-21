@@ -135,6 +135,26 @@
   month     = oct
 }'
 
+
+- title: 'Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions'
+  authors: Ayush Jain, Norio Kosaka, Xinhu Li, Kyung-Min Kim, Erdem Bıyık, Joseph J. Lim
+  venue: arXiv preprint, October 2024
+  picture: /images/publications/jain2024mitigating.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/jain2024mitigating.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2410.11833
+  bibtex: '@article{jain2024mitigating,
+      title={Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions}, 
+      author={Jain, Ayush and Kosaka, Norio and Li, Xinhu and Kim, Kyung-Min and Bıyık, Erdem and Lim, Joseph J.},
+      year={2024},
+      journal={arXiv preprint arXiv:2410.11833}
+}'
+
+
 - title: 'RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback'
   authors: Yufei Wang*, Zhanyi Sun*, Jesse Zhang, Zhou Xian, Erdem Bıyık, David Held†, Zackory Erickson†
   venue: International Conference on Machine Learning (ICML), July 2024
@@ -201,40 +221,6 @@
   month=may
 }'
 
-# - title: 'Optimizing Robot Behavior via Comparative Language Feedback'
-#   authors: Jeremy Tien*, Zhaojing Yang*, Miru Jun, Stuart J. Russell, Anca Dragan, Erdem Bıyık
-#   venue: 3rd Workshop on Human-Interactive Robot Learning (HIRL) at ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 2024
-#   picture: /images/publications/tien2024optimizing.png
-#   note: '* denotes equal contribution.'
-#   links:
-#     - type: pdf
-#       display: PDF
-#       url: /pdfs/publications/tien2024optimizing.pdf
-#   bibtex: '@inproceedings{tien2024optimizing,
-#       title={Optimizing Robot Behavior via Comparative Language Feedback}, 
-#       author={Jeremy Tien and Zhaojing Yang and Miru Jun and Stuart J. Russell and Anca Dragan and Erdem Bıyık},
-#       booktitle={3rd Workshop on Human-Interactive Robot Learning (HIRL) at ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
-#       year={2024},
-#       month=mar
-# }'  
-  
-# - title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
-#   authors: Anthony Liang, Guy Tennenholtz, Chih-wei Hsu, Yinlam Chow, Erdem Bıyık, Craig Boutilier
-#   venue: arXiv preprint, February 2024
-#   picture: /images/publications/liang2024dynamiterl.png
-#   links:
-#     - type: pdf
-#       display: PDF
-#       url: /pdfs/publications/liang2024dynamiterl.pdf
-#     - type: arxiv
-#       display: arXiv
-#       url: https://arxiv.org/abs/2402.15957
-#   bibtex: '@article{liang2024dynamiterl,
-#       title={DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning}, 
-#       author={Anthony Liang and Guy Tennenholtz and Chih-wei Hsu and Yinlam Chow and Erdem Bıyık and Craig Boutilier},
-#       year={2024},
-#       journal={arXiv preprint arXiv:2402.15957}
-# }'
 
 - title: 'Batch Active Learning of Reward Functions from Human Preferences'
   authors: Erdem Bıyık, Nima Anari, Dorsa Sadigh
