@@ -1,8 +1,11 @@
-- date: 2023-09-25
+- date: 2024-09-25
   content: "Our paper titled \"DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning\" got accepted to the 38th Conference on Neural Information Processing Systems (NeurIPS)."
 
+- date: 2024-09-20
+  content: "Our paper titled \"Accurate and Data-Efficient Toxicity Prediction when Annotators Disagree\" got accepted to the Conference on Empirical Methods in Natural Language Processing (EMNLP)."
+
 - date: 2024-09-04
-  content: "Our 2 papers got accepted to the 2024 Conference on Robot Learning (CoRL):<br>- Trajectory Improvement and Reward Learning from Comparative Language Feedback<br>- EXTRACT: Efficient Policy Learning by Extracting Transferable Robot Skills from Offline Data"
+  content: "Our 2 papers got accepted to the Conference on Robot Learning (CoRL) 2024:<br>- Trajectory Improvement and Reward Learning from Comparative Language Feedback<br>- EXTRACT: Efficient Policy Learning by Extracting Transferable Robot Skills from Offline Data"
 
 - date: 2024-06-30
   content: "Our paper titled \"ViSaRL: Visual Reinforcement Learning Guided by Human Saliency\" got accepted to the 2024 International Conference on Intelligent Robots and Systems (IROS)."
