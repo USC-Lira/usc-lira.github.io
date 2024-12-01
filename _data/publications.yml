@@ -260,6 +260,9 @@
     - type: arxiv
       display: arXiv
       url: https://arxiv.org/abs/2403.06003
+    - type: talk
+      display: Talk
+      url: https://youtu.be/pvUptFwthkI
   bibtex: '@inproceedings{ellis2024generalized,
   title={A Generalized Acquisition Function for Preference-based Reward Learning},
   author={Ellis, Evan and Ghosal, Gaurav R. and Russell, Stuart J. and Dragan, Anca and Biyik, Erdem},
