@@ -88,6 +88,9 @@
     - type: website
       display: Website
       url: https://www.jessezhang.net/projects/extract/
+    - type: code
+      display: Code
+      url: https://github.com/jesbu1/extract
   bibtex: '@inproceedings{zhang2024extract,
   title={{EXTRACT}: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data},
   author={Jesse Zhang and Minho Heo and Zuxin Liu and Erdem Bıyık and Joseph J Lim and Yao Liu and Rasool Fakoor},
@@ -104,6 +107,9 @@
     - type: pdf
       display: PDF
       url: /pdfs/publications/jaggi2024accurate.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2410.12217
   bibtex: '@inproceedings{jaggi2024accurate,
   author    = {Jaggi, Harbani and Murali, Kashyap and Fleisig, Eve and Bıyık, Erdem},
   title     = {Accurate and Data-Efficient Toxicity Prediction when Annotators Disagree},
@@ -233,6 +239,9 @@
     - type: pdf
       display: PDF
       url: /pdfs/publications/biyik2024batch.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2402.15757
     - type: code
       display: Code
       url: https://bit.ly/381brBK
@@ -346,6 +355,7 @@
   venue: Transactions on Machine Learning Research (TMLR), 2023
   picture: /images/publications/casper2023open.png
   note: '* denotes equal contribution.'
+  specialnote: 'Outstanding paper finalist.'
   links:
     - type: pdf
       display: PDF
@@ -736,6 +746,9 @@
     - type: pdf
       display: PDF
       url: /pdfs/publications/biyik2021incentivizing.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2106.04678
     - type: doi
       display: DOI
       url: https://doi.org/10.1109/TCNS.2021.3084045
