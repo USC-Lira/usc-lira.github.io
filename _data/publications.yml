@@ -36,7 +36,7 @@
       display: arXiv
       url: https://arxiv.org/abs/2402.15957
   bibtex: '@article{cheng2024navila,
-      title={&#123;NaVILA&#125;: Legged Robot Vision-Language-Action Model for Navigation}, 
+      title={NaVILA: Legged Robot Vision-Language-Action Model for Navigation}, 
       author={An-Chieh Cheng and Yandong Ji and Zhaojing Yang and Xueyan Zou and Jan Kautz and Erdem Bıyık and Hongxu Yin and Sifei Liu and Xiaolong Wang},
       year={2024},
       journal={arXiv preprint arXiv:2412.04453}
@@ -54,7 +54,7 @@
       display: arXiv
       url: https://arxiv.org/abs/2402.15957
   bibtex: '@inproceedings{liang2024dynamiterl,
-      title={&#123;DynaMITE-RL&#125;: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning}, 
+      title={DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning}, 
       author={Anthony Liang and Guy Tennenholtz and Chih-wei Hsu and Yinlam Chow and Erdem Bıyık and Craig Boutilier},
       booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
       year={2024},
@@ -111,7 +111,7 @@
       display: Code
       url: https://github.com/jesbu1/extract
   bibtex: '@inproceedings{zhang2024extract,
-      title={&#123;EXTRACT&#125;: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data},
+      title={EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data},
       author={Jesse Zhang and Minho Heo and Zuxin Liu and Erdem Bıyık and Joseph J Lim and Yao Liu and Rasool Fakoor},
       booktitle={Conference on Robot Learning (CoRL)},
       year={2024},
@@ -202,7 +202,7 @@
       display: Code
       url: https://github.com/yufeiwang63/RL-VLM-F
   bibtex: '@inproceedings{wang2024rlvlmf,
-      title={&#123;RL-VLM-F&#125;: Reinforcement Learning from Vision Language Foundation Model Feedback}, 
+      title={RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback}, 
       author={Yufei Wang and Zhanyi Sun and Jesse Zhang and Zhou Xian and Erdem Bıyık and David Held and Zackory Erickson},
       booktitle={International Conference on Machine Learning (ICML)},
       year={2024},
@@ -362,7 +362,7 @@
       display: Code
       url: https://github.com/sumedh7/RoboCLIP/
   bibtex: '@inproceedings{sontakke2023roboclip,
-  title={&#123;RoboCLIP&#125;: One Demonstration is Enough to Learn Robot Policies},
+  title={RoboCLIP: One Demonstration is Enough to Learn Robot Policies},
   author={Sumedh A Sontakke and Jesse Zhang and Sébastien M. R. Arnold and Karl Pertsch and Erdem Biyik and Dorsa Sadigh and Chelsea Finn and Laurent Itti},
   booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
   year={2023},
