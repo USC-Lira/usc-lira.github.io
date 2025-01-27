@@ -23,6 +23,48 @@
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
   
+  
+- title: 'MILE: Model-based Intervention Learning'
+  authors: Yigit Korkmaz, Erdem Bıyık
+  venue: International Conference on Robotics and Automation (ICRA), May 2025
+  picture: /images/publications/korkmaz2025mile.png
+  links:
+    - type: website
+      display: Website
+      url: https://liralab.usc.edu/mile/
+    - type: code
+      display: Code
+      url: https://github.com/USC-Lira/mile-code
+    - type: video
+      display: Video
+      url: https://youtu.be/jmykh0uniII
+  bibtex: '@inproceedings{korkmaz2025mile,
+      title={MILE: Model-based Intervention Learning}, 
+      author={Yigit Korkmaz and Erdem Bıyık},
+      booktitle={International Conference on Robotics and Automation (ICRA)},
+      year={2025},
+      month=may
+}'
+
+- title: 'Multi-Agent Inverse Q-Learning from Demonstrations'
+  authors: Nathaniel Haynam, Adam Khoja, Dhruv Kumar, Vivek Myers, Erdem Bıyık
+  venue: International Conference on Robotics and Automation (ICRA), May 2025
+  picture: /images/publications/haynam2025multi.png
+  links:
+    - type: website
+      display: Website
+      url: https://sites.google.com/view/mamql/
+    - type: code
+      display: Code
+      url: https://github.com/USC-Lira/MAMQL
+  bibtex: '@inproceedings{haynam2025multi,
+      title={Multi-Agent Inverse Q-Learning from Demonstrations}, 
+      author={Nathaniel Haynam and Adam Khoja and Dhruv Kumar and Vivek Myers and Erdem Bıyık},
+      booktitle={International Conference on Robotics and Automation (ICRA)},
+      year={2025},
+      month=may
+}'
+  
 - title: 'NaVILA: Legged Robot Vision-Language-Action Model for Navigation'
   authors: An-Chieh Cheng*, Yandong Ji*, Zhaojing Yang*, Xueyan Zou, Jan Kautz, Erdem Bıyık, Hongxu Yin, Sifei Liu, Xiaolong Wang
   venue: arXiv preprint, December 2024
