@@ -23,6 +23,14 @@
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
   
+- title: 'Human-Interactive Robot Learning: Definition, Challenges, and Recommendations'
+  authors: Kim Baraka, Ifrah Idrees, et al.
+  venue: Submitted to the ACM Transactions on Human-Robot Interaction (THRI), 2025
+  picture: /images/publications/baraka2025human.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/baraka2025human.pdf
   
 - title: 'MILE: Model-based Intervention Learning'
   authors: Yigit Korkmaz, Erdem Bıyık
