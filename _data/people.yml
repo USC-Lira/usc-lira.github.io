@@ -120,6 +120,13 @@
       url: https://github.com/matthewh6
     - type: twitter
       url: https://x.com/matthewh6_
+      
+- name: Yusen Luo
+  picture: 
+  description: Yusen is an MS student in the Computer Science Department.
+  rank: ms
+  links:
+
 
 # Undergraduates
 - name: Jaiv Doshi
