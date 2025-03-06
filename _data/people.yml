@@ -15,20 +15,6 @@
       url: https://twitter.com/ebiyik_
 
 # Phd students
-- name: Ayush Jain
-  picture: /images/people/ayush.png
-  home_url: https://ayushj240.github.io/
-  description: Ayush is a PhD student in the Computer Science Department. He works on reinforcement learning algorithms and architectures that learn under complex action spaces that are large, unseen, varying, or difficult to optimize.
-  rank: phd
-  coadvisor: Joseph Lim
-  links:
-    - type: scholar
-      url: https://scholar.google.com/citations?user=-zEc_sAAAAAJ&hl=en
-    - type: github
-      url: https://github.com/ayushj240/
-    - type: twitter
-      url: https://twitter.com/Ayushj240
-
 - name: Jesse Zhang
   picture: /images/people/jesse.jpg
   home_url: http://jesbu1.github.io/
@@ -136,14 +122,6 @@
       url: https://x.com/matthewh6_
 
 # Undergraduates
-- name: Miru Jun
-  picture: /images/people/miru.png
-  description: Miru is an undergraduate in the Computer Science Department.
-  rank: ug
-  links:
-    - type: github
-      url: https://github.com/lemonlemonde
-
 - name: Jaiv Doshi
   picture: /images/people/jaiv.png
   description: Jaiv is an undergraduate in the Computer Science Department.
@@ -161,6 +139,18 @@
   links:
     - type: github
       url: https://github.com/urvib3
+      
+- name: Kevin Kim
+  picture:
+  description: Kevin is an undergrduate in the Electrical and Computer Engineering Department.
+  rank: ug
+  links:
+      
+- name: Ashley Lan
+  picture:
+  description: Ashley is an undergraduate in the Computer Science and Business Administration Departments.
+  rank: ug
+  links:
 
 # Visiting researchers
 - name: Xinhu Li
@@ -181,10 +171,24 @@
       url: https://github.com/yang-zj1026
 
 # Alumni PhDs
+- name: Ayush Jain
+  picture: /images/people/ayush.png
+  home_url: https://ayushj240.github.io/
+  description: 'PhD student, CS (Next: Research Scientist at Meta)'
+  rank: alumnidrs
+  coadvisor: Joseph Lim
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=-zEc_sAAAAAJ&hl=en
+    - type: github
+      url: https://github.com/ayushj240/
+    - type: twitter
+      url: https://twitter.com/Ayushj240
+
 - name: Sumedh Sontakke
   picture: /images/people/sumedh.png
   home_url: https://sumedh7.github.io/
-  description: 'PhD student, CS (Next: Amazon Robotics)'
+  description: 'PhD student, CS (Next: Applied Scientist at Amazon Robotics)'
   rank: alumnidrs
   coadvisor: Laurent Itti
   links:
@@ -196,6 +200,14 @@
       url: https://twitter.com/SOTA_kke
 
 # Other alumni
+- name: Miru Jun
+  picture: /images/people/miru.png
+  description: 'Undergraduate, CS (Next: Data Engineer at US Navy)'
+  rank: alumni
+  links:
+    - type: github
+      url: https://github.com/lemonlemonde
+
 - name: Thomas Reeves
   picture: /images/people/thomas.png
   home_url: https://reevest29.github.io/
