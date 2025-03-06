@@ -20,12 +20,10 @@ tags: people
 		  {% if rank.keyword == person.rank %}
           <tr>
             <td width="105">
-			{% if person.home_url.size > 0 %}
-			  {% if person.rank!='alumni' %}<a href="{{ person.home_url }}" class="people"><img src="{{ person.picture | default: '/images/people/default-white.png' }}" width="100" style="border-radius:15%;" /></a>{% endif %}</td>
+			{% if person.home_url.size > 0 and person.rank!='alumni' %}
+			  <a href="{{ person.home_url }}" class="people"><img src="{{ person.picture | default: '/images/people/default-white.png' }}" width="100" style="border-radius:15%;" /></a></td>
 			  <td><a href="{{ person.home_url }}" class="people">{{ person.name }}</a>
 			{% else %}
-              {% comment %}{% if person.rank!='alumni' %}<img src="{{ person.picture | default: '/images/people/default-white.png' }}" width="100" style="border-radius:15%;" />{% endif %}</td>{% endcomment %}
-			  <!-- uncomment the previous line, and comment the next one to disable photos for alumni -->
 			  <img src="{{ person.picture | default: '/images/people/default-white.png' }}" width="100" style="border-radius:15%;" /></td>
 			  <td>{{ person.name }}
 			{% endif %}&nbsp;
