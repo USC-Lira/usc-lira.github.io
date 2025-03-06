@@ -31,12 +31,24 @@
     - type: pdf
       display: PDF
       url: /pdfs/publications/baraka2025human.pdf
+  bibtex: '@article{baraka2025human,
+  title={Human-Interactive Robot Learning: Definition, Challenges, and Recommendations},
+  author={Baraka, Kim and Faulkner, Taylor Kessler and Bıyık, Erdem and Serena, Booth and Chetouani, Mohamed and Grollman, Daniel H and Saran, Akanksha and Senft, Emmanuel and Tulli, Silvia and Vollmer, Anna-Lisa and Andriella, Antonio and Beierling, Helen and Horter, Tiffany and Kober, Jens and Sheidlower, Isaac and Taylor, Matthew E and Waveren, Sanne Van and Xiao, Xuesu},
+  year={2025}
+}
+'
   
 - title: 'MILE: Model-based Intervention Learning'
   authors: Yigit Korkmaz, Erdem Bıyık
   venue: International Conference on Robotics and Automation (ICRA), May 2025
   picture: /images/publications/korkmaz2025mile.png
   links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/korkmaz2025mile.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2502.13519
     - type: website
       display: Website
       url: https://liralab.usc.edu/mile/
@@ -59,6 +71,9 @@
   venue: International Conference on Robotics and Automation (ICRA), May 2025
   picture: /images/publications/haynam2025multi.png
   links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/haynam2025multi.pdf
     - type: website
       display: Website
       url: https://sites.google.com/view/mamql/
