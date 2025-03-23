@@ -22,6 +22,30 @@
   #   - type: doi
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
+
+
+- title: 'IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models'
+  authors: Yiyang Ling*, Karan Owalekar*, Oluwatobiloba Adesanya, Erdem Bıyık, Daniel Seita
+  venue: arXiv preprint, March 2025
+  picture: /images/publications/ling2025impact.png
+  note: '* denotes equal contribution.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/ling2025impact.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2503.10110
+    - type: website
+      display: Website
+      url: https://impact-planning.github.io/
+  bibtex: '@article{ling2025impact,
+      title={IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models}, 
+      author={Ling, Yiyang and Owalekar, Karan and Adesanya, Oluwatobiloba and Bıyık, Erdem and Seita, Daniel},
+      year={2025},
+      journal={arXiv preprint arXiv:2503.10110}
+}'
+
   
 - title: 'Human-Interactive Robot Learning: Definition, Challenges, and Recommendations'
   authors: Kim Baraka, Ifrah Idrees, et al.
@@ -35,8 +59,7 @@
   title={Human-Interactive Robot Learning: Definition, Challenges, and Recommendations},
   author={Baraka, Kim and Faulkner, Taylor Kessler and Bıyık, Erdem and Serena, Booth and Chetouani, Mohamed and Grollman, Daniel H and Saran, Akanksha and Senft, Emmanuel and Tulli, Silvia and Vollmer, Anna-Lisa and Andriella, Antonio and Beierling, Helen and Horter, Tiffany and Kober, Jens and Sheidlower, Isaac and Taylor, Matthew E and Waveren, Sanne Van and Xiao, Xuesu},
   year={2025}
-}
-'
+}'
   
 - title: 'MILE: Model-based Intervention Learning'
   authors: Yigit Korkmaz, Erdem Bıyık
@@ -905,6 +928,25 @@
   year = {2021},
   month = may,
   doi = {10.1145/3450267.3450546}
+}'
+
+- title: 'Preference-based learning of reward function features'
+  authors: Sydney M Katz*, Amir Maleki*, Erdem Bıyık, Mykel J Kochenderfer
+  venue: arXiv preprint, March 2021
+  picture: /images/publications/katz2021preference.png
+  note: '* denotes equal contribution.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/katz2021preference.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2103.02727
+  bibtex: '@article{katz2021preference,
+      title={Preference-based learning of reward function features}, 
+      author={Katz, Sydney M and Maleki, Amir and Bıyık, Erdem and Kochenderfer, Mykel J},
+      year={2021},
+      journal={arXiv preprint arXiv:2103.02727}
 }'
 
 - title: 'Multi-Agent Safe Planning with Gaussian Processes'
