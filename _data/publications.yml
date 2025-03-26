@@ -149,6 +149,23 @@
       month=dec
 }'
 
+- title: 'Decision Making in Complex Action Spaces'
+  authors: Ayush Jain
+  venue: CS Department, University of Southern California, December 2024
+  picture: 
+  note: Ph.D. Dissertation
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/jain2024decision.pdf
+  bibtex: '@phdthesis{jain2024decision,
+  title={Decision Making in Complex Action Spaces},
+  author={Jain, Ayush},
+  school = {CS Department, University of Southern California},
+  year={2024},
+  month=dec
+}'
+
 - title: 'Trajectory Improvement and Reward Learning from Comparative Language Feedback'
   authors: Zhaojing Yang, Miru Jun, Jeremy Tien, Stuart J. Russell, Anca Dragan, Erdem Bıyık
   venue: Proceedings of the 8th Conference on Robot Learning (CoRL), November 2024
