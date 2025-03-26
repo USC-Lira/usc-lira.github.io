@@ -184,6 +184,8 @@
   description: 'PhD student, CS (Next: Research Scientist at Meta)'
   rank: alumnidrs
   coadvisor: Joseph Lim
+  thesis_title: Accurate and Data-Efficient Toxicity Prediction when Annotators Disagree
+  thesis_url: /pdfs/publications/jain2024decision.pdf
   links:
     - type: scholar
       url: https://scholar.google.com/citations?user=-zEc_sAAAAAJ&hl=en
@@ -198,6 +200,8 @@
   description: 'PhD student, CS (Next: Applied Scientist at Amazon Robotics)'
   rank: alumnidrs
   coadvisor: Laurent Itti
+  thesis_title: Foundation Models for Embodied AI
+  thesis_url: /pdfs/publications/sontakke2024foundation.pdf
   links:
     - type: scholar
       url: https://scholar.google.com/citations?user=sUb_eyUAAAAJ

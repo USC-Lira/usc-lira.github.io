@@ -38,6 +38,12 @@ tags: people
 			{% endif %}
 			<br>
             {{ person.description }}
+			{% if person.thesis_title.size > 0 %}
+			  <br>
+			  <i>Thesis: "
+				<a href="{{ person.thesis_url | default: '#' }}" class="people">{{ person.thesis_title }}</a>
+			  "</i>
+			{% endif %}
 			</td>
           </tr>
 		  {% endif %}
