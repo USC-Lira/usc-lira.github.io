@@ -184,7 +184,7 @@
   description: 'PhD student, CS (Next: Research Scientist at Meta)'
   rank: alumnidrs
   coadvisor: Joseph Lim
-  thesis_title: Accurate and Data-Efficient Toxicity Prediction when Annotators Disagree
+  thesis_title: Decision Making in Complex Action Spaces
   thesis_url: /pdfs/publications/jain2024decision.pdf
   links:
     - type: scholar
