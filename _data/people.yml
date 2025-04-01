@@ -122,10 +122,14 @@
       url: https://x.com/matthewh6_
       
 - name: Yusen Luo
-  picture: 
+  picture: /images/people/yusen.png
   description: Yusen is an MS student in the Computer Science Department.
   rank: ms
   links:
+    - type: github
+      url: https://github.com/AndreasL9z
+    - type: twitter
+      url: https://x.com/yusen_2001
 
 
 # Undergraduates
@@ -148,16 +152,24 @@
       url: https://github.com/urvib3
       
 - name: Kevin Kim
-  picture:
-  description: Kevin is an undergrduate in the Electrical and Computer Engineering Department.
+  picture: /images/people/kevin.png
+  home_url: https://jundyque.life/
+  description: Kevin is an undergrduate in the Computer Science and Mathematics Departments.
   rank: ug
   links:
+    - type: github
+      url: https://github.com/minjunkevink
+    - type: twitter
+      url: https://x.com/minjunkevink
       
 - name: Ashley Lan
-  picture:
+  picture: /images/people/ashley.png
+  home_url: https://www.linkedin.com/in/ashleylan/
   description: Ashley is an undergraduate in the Computer Science and Business Administration Departments.
   rank: ug
   links:
+    - type: github
+      url: https://github.com/ashleylan111
 
 # Visiting researchers
 - name: Xinhu Li
