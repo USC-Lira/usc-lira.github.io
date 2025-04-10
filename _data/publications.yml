@@ -46,6 +46,26 @@
       journal={arXiv preprint arXiv:2503.10110}
 }'
 
+
+- title: 'RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks'
+  authors: Yimin Tang*, Xiao Xiong*, Jingyi Xi, Jiaoyang Li, Erdem Bıyık, Sven Koenig
+  venue: arXiv preprint, March 2025
+  picture: /images/publications/tang2025railgun.png
+  note: '* denotes equal contribution.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/tang2025railgun.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2503.02992
+  bibtex: '@article{tang2025railgun,
+      title={RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks}, 
+      author={Tang, Yimin and Xiong, Xiao and Xi, Jingyi and Li, Jiaoyang and Bıyık, Erdem and Koenig, Sven},
+      year={2025},
+      journal={arXiv preprint arXiv:2503.02992}
+}'
+
   
 - title: 'Human-Interactive Robot Learning: Definition, Challenges, and Recommendations'
   authors: Kim Baraka, Ifrah Idrees, et al.
@@ -97,6 +117,9 @@
     - type: pdf
       display: PDF
       url: /pdfs/publications/haynam2025multi.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2503.04679
     - type: website
       display: Website
       url: https://sites.google.com/view/mamql/
