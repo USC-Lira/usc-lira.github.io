@@ -180,14 +180,6 @@
     - type: github
       url: https://github.com/xhlsgit
 
-- name: Zhaojing Yang
-  picture: /images/people/zhaojing.png
-  description: Zhaojing is a visiting researcher in Lira Lab.
-  rank: visiting
-  coadvisor: Xiaolong Wang
-  links:
-    - type: github
-      url: https://github.com/yang-zj1026
 
 # Alumni PhDs
 - name: Ayush Jain
@@ -223,6 +215,30 @@
       url: https://twitter.com/SOTA_kke
 
 # Other alumni
+- name: Zhaojing Yang
+  picture: /images/people/zhaojing.png
+  home_url: https://yang-zj1026.github.io/
+  description: 'MS Student, CS (Next: PhD at UC San Diego)'
+  rank: alumni
+  links:
+    - type: github
+      url: https://github.com/yang-zj1026
+    - type: scholar
+      url: https://scholar.google.com/citations?user=Olo1IfYAAAAJ&hl=en
+    - type: twitter
+      url: https://x.com/zhaojingy_1026
+      
+- name: Jiahui Zhang
+  picture: /images/people/jiahui.png
+  home_url: https://jiahui-3205.github.io/
+  description: 'MS Student, EE (Next: PhD at UT Dallas)'
+  rank: alumni
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?hl=en&user=vnoxtkKTVsoC
+    - type: twitter
+      url: https://x.com/JiahuiZhang__32
+
 - name: Miru Jun
   picture: /images/people/miru.png
   description: 'Undergraduate, CS (Next: Data Engineer at US Navy)'
