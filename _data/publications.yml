@@ -74,7 +74,7 @@
 
 - title: 'CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations'
   authors: Anthony Liang*, Pavel Czempin*, Matthew Hong, Yutai Zhou, Erdem Bıyık†, Stephen Tu†
-  venue: 2nd Reinforcement Learning Conference (RLC), August 2025
+  venue: arXiv preprint, May 2025
   picture: /images/publications/liang2025clam.png
   note: '* denotes equal contribution. † denotes equal advising.'
   links:
