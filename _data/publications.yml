@@ -24,6 +24,73 @@
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
 
+- title: 'Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions'
+  authors: Ayush Jain, Norio Kosaka, Xinhu Li, Kyung-Min Kim, Erdem Bıyık, Joseph J. Lim
+  venue: 2nd Reinforcement Learning Conference (RLC), August 2025
+  picture: /images/publications/jain2025mitigating.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/jain2025mitigating.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2410.11833
+  bibtex: '@inproceedings{jain2025mitigating,
+      title={Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions}, 
+      author={Jain, Ayush and Kosaka, Norio and Li, Xinhu and Kim, Kyung-Min and Bıyık, Erdem and Lim, Joseph J.},
+      year={2025},
+      month=aug,
+      booktitle={2nd Reinforcement Learning Conference (RLC)}
+}'
+
+- title: 'NaVILA: Legged Robot Vision-Language-Action Model for Navigation'
+  authors: An-Chieh Cheng*, Yandong Ji*, Zhaojing Yang*, Xueyan Zou, Jan Kautz, Erdem Bıyık, Hongxu Yin, Sifei Liu, Xiaolong Wang
+  venue: 'Proceedings of Robotics: Science and Systems (RSS), June 2025'
+  picture: /images/publications/cheng2025navila.png
+  note: '* denotes equal contribution.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/cheng2025navila.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2412.04453
+    - type: website
+      display: Website
+      url: https://navila-bot.github.io/
+    - type: code
+      display: Code 1
+      url: https://github.com/yang-zj1026/legged-loco
+    - type: code
+      display: Code 2
+      url: https://github.com/yang-zj1026/VLN-CE-Isaac
+  bibtex: '@inproceedings{cheng2025navila,
+      title={NaVILA: Legged Robot Vision-Language-Action Model for Navigation}, 
+      author={An-Chieh Cheng and Yandong Ji and Zhaojing Yang and Xueyan Zou and Jan Kautz and Erdem Bıyık and Hongxu Yin and Sifei Liu and Xiaolong Wang},
+      year={2024},
+      month=jun,
+      booktitle={Proceedings of Robotics: Science and Systems (RSS)}
+}'
+
+- title: 'CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations'
+  authors: Anthony Liang*, Pavel Czempin*, Matthew Hong, Yutai Zhou, Erdem Bıyık†, Stephen Tu†
+  venue: 2nd Reinforcement Learning Conference (RLC), August 2025
+  picture: /images/publications/liang2025clam.png
+  note: '* denotes equal contribution. † denotes equal advising.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/liang2025clam.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2505.04999
+  bibtex: '@article{liang2025clam,
+      title={CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations}, 
+      author={Liang, Anthony and Czempin, Pavel and Hong, Matthew and Zhou, Yutai and Bıyık, Erdem and Tu, Stephen},
+      year={2025},
+      journal={arXiv preprint arXiv:2505.04999}
+}'
+
 - title: 'IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models'
   authors: Yiyang Ling*, Karan Owalekar*, Oluwatobiloba Adesanya, Erdem Bıyık, Daniel Seita
   venue: arXiv preprint, March 2025
@@ -132,25 +199,6 @@
       booktitle={International Conference on Robotics and Automation (ICRA)},
       year={2025},
       month=may
-}'
-  
-- title: 'NaVILA: Legged Robot Vision-Language-Action Model for Navigation'
-  authors: An-Chieh Cheng*, Yandong Ji*, Zhaojing Yang*, Xueyan Zou, Jan Kautz, Erdem Bıyık, Hongxu Yin, Sifei Liu, Xiaolong Wang
-  venue: arXiv preprint, December 2024
-  picture: /images/publications/cheng2024navila.png
-  note: '* denotes equal contribution.'
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/cheng2024navila.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2402.15957
-  bibtex: '@article{cheng2024navila,
-      title={NaVILA: Legged Robot Vision-Language-Action Model for Navigation}, 
-      author={An-Chieh Cheng and Yandong Ji and Zhaojing Yang and Xueyan Zou and Jan Kautz and Erdem Bıyık and Hongxu Yin and Sifei Liu and Xiaolong Wang},
-      year={2024},
-      journal={arXiv preprint arXiv:2412.04453}
 }'
   
 - title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
@@ -291,24 +339,6 @@
       month     = oct
 }'
 
-
-- title: 'Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions'
-  authors: Ayush Jain, Norio Kosaka, Xinhu Li, Kyung-Min Kim, Erdem Bıyık, Joseph J. Lim
-  venue: arXiv preprint, October 2024
-  picture: /images/publications/jain2024mitigating.png
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/jain2024mitigating.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2410.11833
-  bibtex: '@article{jain2024mitigating,
-      title={Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions}, 
-      author={Jain, Ayush and Kosaka, Norio and Li, Xinhu and Kim, Kyung-Min and Bıyık, Erdem and Lim, Joseph J.},
-      year={2024},
-      journal={arXiv preprint arXiv:2410.11833}
-}'
 
 
 - title: 'RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback'

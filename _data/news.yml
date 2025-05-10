@@ -1,3 +1,12 @@
+- date: 2025-05-09
+  content: "Our paper titled \"Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions\" got accepted to the Reinforcement Learning Conference (RLC) 2025."
+
+- date: 2025-04-29
+  content: "Matthew Hong has received the Best MS Research Award of Thomas Lord Department of Computer Science. This award is given to only two students every year."
+
+- date: 2025-04-10
+  content: "Our paper titled \"NaVILA: Legged Robot Vision-Language-Action Model for Navigation\" got accepted to the Robotics: Science and Systems (RSS) 2025 conference."
+
 - date: 2025-03-21
   content: "We are organizing a workshop on human-in-the-loop robot learning at RSS 2025. Check it out <a href=\"https://hitl-robot-learning.github.io/\">here</a> for more details."
 
