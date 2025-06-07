@@ -24,6 +24,50 @@
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
 
+- title: 'HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval'
+  authors: Matthew Hong*, Anthony Liang*, Kevin Kim, Harshitha Rajaprakash, Jesse Thomason†, Erdem Bıyık†, Jesse Zhang†
+  venue: arXiv preprint, May 2025
+  picture: /images/publications/hong2025hand.png
+  note: '* denotes equal contribution. † denotes equal advising.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/hong2025hand.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2505.20455
+    - type: website
+      display: Website
+      url: https://liralab.usc.edu/handretrieval/
+  bibtex: '@article{hong2025hand,
+      title={HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval}, 
+      author={Hong, Matthew and Liang, Anthony and Kim, Kevin and Rajaprakash, Harshitha and Thomason, Jesse and Bıyık, Erdem and Zhang, Jesse},
+      year={2025},
+      journal={arXiv preprint arXiv:2505.20455}
+}'
+
+- title: 'ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations'
+  authors: Jiahui Zhang*, Yusen Luo*, Abrar Anwar*, Sumedh A. Sontakke, Joseph J. Lim, Jesse Thomason, Erdem Bıyık, Jesse Zhang
+  venue: arXiv preprint, May 2025
+  picture: /images/publications/zhang2025rewind.png
+  note: '* denotes equal contribution.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/zhang2025rewind.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2505.10911
+    - type: website
+      display: Website
+      url: https://rewind-reward.github.io/
+  bibtex: '@article{zhang2025rewind,
+      title={ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations}, 
+      author={Zhang, Jiahui and Luo, Yusen and Anwar, Abrar and Sontakke, Sumedh A. and Lim, Joseph J. and Thomason, Jesse and Bıyık, Erdem and Zhang, Jesse},
+      year={2025},
+      journal={arXiv preprint arXiv:2505.10911}
+}'
+
 - title: 'Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions'
   authors: Ayush Jain, Norio Kosaka, Xinhu Li, Kyung-Min Kim, Erdem Bıyık, Joseph J. Lim
   venue: 2nd Reinforcement Learning Conference (RLC), August 2025
@@ -241,7 +285,7 @@
   authors: Zhaojing Yang, Miru Jun, Jeremy Tien, Stuart J. Russell, Anca Dragan, Erdem Bıyık
   venue: Proceedings of the 8th Conference on Robot Learning (CoRL), November 2024
   picture: /images/publications/yang2024trajectory.png
-  note: 'Also presented at HRI Human-Interactive Robot Learning Workshop, March 2024 (<a href=“/pdfs/publications/tien2024optimizing.pdf”>PDF</a>).'
+  note: 'Also presented at HRI Human-Interactive Robot Learning Workshop, March 2024 (<a href="/pdfs/publications/tien2024optimizing.pdf">PDF</a>).'
   links:
     - type: pdf
       display: PDF
