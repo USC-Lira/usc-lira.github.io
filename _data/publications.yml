@@ -111,7 +111,7 @@
   bibtex: '@inproceedings{cheng2025navila,
       title={NaVILA: Legged Robot Vision-Language-Action Model for Navigation}, 
       author={An-Chieh Cheng and Yandong Ji and Zhaojing Yang and Xueyan Zou and Jan Kautz and Erdem Bıyık and Hongxu Yin and Sifei Liu and Xiaolong Wang},
-      year={2024},
+      year={2025},
       month=jun,
       booktitle={Proceedings of Robotics: Science and Systems (RSS)}
 }'
