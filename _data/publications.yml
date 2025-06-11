@@ -116,6 +116,23 @@
       booktitle={Proceedings of Robotics: Science and Systems (RSS)}
 }'
 
+- title: 'Scaling Robot Adaptation with Large Model Guidance'
+  authors: Jesse Zhang
+  venue: CS Department, University of Southern California, June 2025
+  picture: /images/publications/zhang2025scaling.png
+  note: Ph.D. Dissertation
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/zhang2025scaling.pdf
+  bibtex: '@phdthesis{zhang2025scaling,
+  title={Scaling Robot Adaptation with Large Model Guidance},
+  author={Zhang, Jesse},
+  school = {CS Department, University of Southern California},
+  year={2025},
+  month=jun
+}'
+
 - title: 'CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations'
   authors: Anthony Liang*, Pavel Czempin*, Matthew Hong, Yutai Zhou, Erdem Bıyık†, Stephen Tu†
   venue: arXiv preprint, May 2025

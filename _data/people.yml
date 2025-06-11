@@ -14,21 +14,7 @@
     - type: twitter
       url: https://twitter.com/ebiyik_
 
-# Phd students
-- name: Jesse Zhang
-  picture: /images/people/jesse.jpg
-  home_url: http://jesbu1.github.io/
-  description: Jesse is a PhD student in the Computer Science Department. He is interested in large pre-trained models for sample-efficient agent adaptation.
-  rank: phd
-  coadvisor: Joseph Lim and Jesse Thomason
-  links:
-    - type: scholar
-      url: https://scholar.google.com/citations?user=fSXCOfEAAAAJ&hl=en
-    - type: github
-      url: https://github.com/jesbu1
-    - type: twitter
-      url: https://twitter.com/Jesse_Y_Zhang
-      
+# Phd students      
 - name: Anthony Liang
   picture: /images/people/anthony.jpg
   home_url: http://aliang8.github.io
@@ -182,10 +168,26 @@
 
 
 # Alumni PhDs
+- name: Jesse Zhang
+  picture: /images/people/jesse.jpg
+  home_url: http://jesbu1.github.io/
+  description: 'PhD, CS (Next: Postdoc at University of Washington)'
+  rank: alumnidrs
+  coadvisor: Joseph Lim and Jesse Thomason
+  thesis_title: Scaling Robot Adaptation with Large Model Guidance
+  thesis_url: /pdfs/publications/zhang2025scaling.pdf
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=fSXCOfEAAAAJ&hl=en
+    - type: github
+      url: https://github.com/jesbu1
+    - type: twitter
+      url: https://twitter.com/Jesse_Y_Zhang
+
 - name: Ayush Jain
   picture: /images/people/ayush.png
   home_url: https://ayushj240.github.io/
-  description: 'PhD student, CS (Next: Research Scientist at Meta)'
+  description: 'PhD, CS (Next: Research Scientist at Meta)'
   rank: alumnidrs
   coadvisor: Joseph Lim
   thesis_title: Decision Making in Complex Action Spaces
@@ -201,7 +203,7 @@
 - name: Sumedh Sontakke
   picture: /images/people/sumedh.png
   home_url: https://sumedh7.github.io/
-  description: 'PhD student, CS (Next: Applied Scientist at Amazon Robotics)'
+  description: 'PhD, CS (Next: Applied Scientist at Amazon Robotics)'
   rank: alumnidrs
   coadvisor: Laurent Itti
   thesis_title: Foundation Models for Embodied AI
@@ -218,7 +220,7 @@
 - name: Zhaojing Yang
   picture: /images/people/zhaojing.png
   home_url: https://yang-zj1026.github.io/
-  description: 'MS Student, CS (Next: PhD at UC San Diego)'
+  description: 'MS, CS (Next: PhD at UC San Diego)'
   rank: alumni
   links:
     - type: github
@@ -231,7 +233,7 @@
 - name: Jiahui Zhang
   picture: /images/people/jiahui.png
   home_url: https://jiahui-3205.github.io/
-  description: 'MS Student, EE (Next: PhD at UT Dallas)'
+  description: 'MS, EE (Next: PhD at UT Dallas)'
   rank: alumni
   links:
     - type: scholar
@@ -250,7 +252,7 @@
 - name: Thomas Reeves
   picture: /images/people/thomas.png
   home_url: https://reevest29.github.io/
-  description: 'MS Student, CS (Next: PhD at USC)'
+  description: 'MS, CS (Next: PhD at USC)'
   rank: alumni
   links:
     - type: github
