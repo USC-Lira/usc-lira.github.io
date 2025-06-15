@@ -366,12 +366,16 @@
     - type: arxiv
       display: arXiv
       url: https://arxiv.org/abs/2410.12217
+    - type: doi
+      display: DOI
+      url: https://doi.org/10.18653/v1/2024.emnlp-main.1221
   bibtex: '@inproceedings{jaggi2024accurate,
       author    = {Jaggi, Harbani and Murali, Kashyap and Fleisig, Eve and Bıyık, Erdem},
       title     = {Accurate and Data-Efficient Toxicity Prediction when Annotators Disagree},
       booktitle   = {Conference on Empirical Methods in Natural Language Processing (EMNLP)},
       year      = {2024},
-      month     = nov
+      month     = nov,
+      doi = {10.18653/v1/2024.emnlp-main.1221}
 }'
 
 - title: 'ViSaRL: Visual Reinforcement Learning Guided by Human Saliency'
@@ -392,12 +396,16 @@
     - type: code
       display: Code
       url: https://github.com/aliang8/visarl
+    - type: doi
+      display: DOI
+      url: https://doi.org/10.1109/iros58592.2024.10801388 
   bibtex: '@inproceedings{liang2024visarl,
       author    = {Liang, Anthony and Thomason, Jesse and Bıyık, Erdem},
       title     = {ViSaRL: Visual Reinforcement Learning Guided by Human Saliency},
       booktitle   = {International Conference on Intelligent Robots and Systems (IROS)},
       year      = {2024},
-      month     = oct
+      month     = oct,
+      doi = {10.1109/iros58592.2024.10801388}
 }'
 
 
@@ -489,11 +497,15 @@
     - type: video
       display: Video 2
       url: https://youtu.be/cQ7vvUg9rU4
+    - type: doi
+      display: DOI
+      url: https://doi.org/10.1145/3649885
   bibtex: '@article{biyik2024batch,
   title={Batch Active Learning of Reward Functions from Human Preferences},
   author={Biyik, Erdem and Anari, Nima and Sadigh, Dorsa},
   journal={ACM Transactions on Human-Robot Interaction (THRI)},
   year={2024},
+  doi={10.1145/3649885}
 }'
 
 
@@ -510,12 +522,16 @@
     - type: talk
       display: Talk
       url: https://youtu.be/pvUptFwthkI
+    - type: doi
+      display: DOI
+      url: https://doi.org/10.1109/icra57147.2024.10611472
   bibtex: '@inproceedings{ellis2024generalized,
   title={A Generalized Acquisition Function for Preference-based Reward Learning},
   author={Ellis, Evan and Ghosal, Gaurav R. and Russell, Stuart J. and Dragan, Anca and Biyik, Erdem},
   booktitle={International Conference on Robotics and Automation (ICRA)},
   year={2024},
-  month=may
+  month=may,
+  doi={10.1109/icra57147.2024.10611472}
 }'
 
 - title: 'Active Preference-Based Gaussian Process Regression for Reward Learning and Optimization'
