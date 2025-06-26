@@ -99,6 +99,7 @@
 
 - name: Matthew Hong
   picture: /images/people/matthew.png
+  home_url: https://matthewh6.github.io/
   description: Matthew is an MS student in the Computer Science Department.
   rank: ms
   links:
