@@ -1,8 +1,14 @@
+- date: 2025-07-10
+  contact: "Yutai Zhou has been named a Capital One Fellow!"
+
+- date: 2025-06-15
+  content: "Our 2 papers got accepted to the 2025 International Conference on Intelligent Robots and Systems (IROS).:<br>- GABRIL: Gaze-Based Regularization for Mitigating Causal Confusion in Imitation Learning<br>- RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks"
+
 - date: 2025-05-09
   content: "Our paper titled \"Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions\" got accepted to the Reinforcement Learning Conference (RLC) 2025."
 
 - date: 2025-04-29
-  content: "Matthew Hong has received the Best MS Research Award of Thomas Lord Department of Computer Science. This award is given to only two students every year."
+  content: "Matthew Hong has received the Best MS Research Award of Thomas Lord Department of Computer Science! This award is given to only two students every year."
 
 - date: 2025-04-10
   content: "Our paper titled \"NaVILA: Legged Robot Vision-Language-Action Model for Navigation\" got accepted to the Robotics: Science and Systems (RSS) 2025 conference."

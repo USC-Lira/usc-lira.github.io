@@ -24,6 +24,40 @@
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
 
+- title: 'GABRIL: Gaze-Based Regularization for Mitigating Causal Confusion in Imitation Learning'
+  authors: Amin Banayeeanzade*, Fatemeh Bahrani*, Yutai Zhou, Erdem Bıyık 
+  venue: International Conference on Intelligent Robots and Systems (IROS), October 2025
+  picture: /images/publications/banayeeanzade2025gabril.png
+  note: '* denotes equal contribution.'
+  links:
+  bibtex: '@inproceedings{banayeeanzade2025gabril,
+      title={GABRIL: Gaze-Based Regularization for Mitigating Causal Confusion in Imitation Learning}, 
+      author={Banayeeanzade, Amin and Bahrani, Fatemeh and Zhou, Yutai and Bıyık, Erdem},
+      booktitle={International Conference on Intelligent Robots and Systems (IROS)},
+      year={2025},
+      month=oct
+}'
+
+- title: 'RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks'
+  authors: Yimin Tang*, Xiao Xiong*, Jingyi Xi, Jiaoyang Li, Erdem Bıyık, Sven Koenig
+  venue: International Conference on Intelligent Robots and Systems (IROS), October 2025
+  picture: /images/publications/tang2025railgun.png
+  note: '* denotes equal contribution.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/tang2025railgun.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2503.02992
+  bibtex: '@inproceedings{tang2025railgun,
+      title={RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks},
+      author={Tang, Yimin and Xiong, Xiao and Xi, Jingyi and Li, Jiaoyang and Bıyık, Erdem and Koenig, Sven},
+      booktitle={International Conference on Intelligent Robots and Systems (IROS)},
+      year={2025},
+      month=oct
+}'
+
 - title: 'HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval'
   authors: Matthew Hong*, Anthony Liang*, Kevin Kim, Harshitha Rajaprakash, Jesse Thomason†, Erdem Bıyık†, Jesse Zhang†
   venue: arXiv preprint, May 2025
@@ -172,26 +206,6 @@
       author={Ling, Yiyang and Owalekar, Karan and Adesanya, Oluwatobiloba and Bıyık, Erdem and Seita, Daniel},
       year={2025},
       journal={arXiv preprint arXiv:2503.10110}
-}'
-
-
-- title: 'RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks'
-  authors: Yimin Tang*, Xiao Xiong*, Jingyi Xi, Jiaoyang Li, Erdem Bıyık, Sven Koenig
-  venue: arXiv preprint, March 2025
-  picture: /images/publications/tang2025railgun.png
-  note: '* denotes equal contribution.'
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/tang2025railgun.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2503.02992
-  bibtex: '@article{tang2025railgun,
-      title={RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks}, 
-      author={Tang, Yimin and Xiong, Xiao and Xi, Jingyi and Li, Jiaoyang and Bıyık, Erdem and Koenig, Sven},
-      year={2025},
-      journal={arXiv preprint arXiv:2503.02992}
 }'
 
   
