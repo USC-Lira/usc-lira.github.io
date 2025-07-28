@@ -33,6 +33,15 @@
     - type: pdf
       display: PDF
       url: /pdfs/publications/banayeeanzade2025gabril.pdf
+    - type: website
+      display: Website
+      url: https://liralab.usc.edu/gabril/
+    - type: code
+      display: Code 1
+      url: https://github.com/nfbahrani/GABRIL-Atari
+    - type: code
+      display: Code 2
+      url: https://github.com/aminbana/GABRIL-CARLA
   bibtex: '@inproceedings{banayeeanzade2025gabril,
       title={GABRIL: Gaze-Based Regularization for Mitigating Causal Confusion in Imitation Learning}, 
       author={Banayeeanzade, Amin and Bahrani, Fatemeh and Zhou, Yutai and Bıyık, Erdem},
