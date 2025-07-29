@@ -33,6 +33,9 @@
     - type: pdf
       display: PDF
       url: /pdfs/publications/banayeeanzade2025gabril.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2507.19647
     - type: website
       display: Website
       url: https://liralab.usc.edu/gabril/
