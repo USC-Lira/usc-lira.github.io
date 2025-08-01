@@ -73,31 +73,9 @@
       month=oct
 }'
 
-- title: 'HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval'
-  authors: Matthew Hong*, Anthony Liang*, Kevin Kim, Harshitha Rajaprakash, Jesse Thomason†, Erdem Bıyık†, Jesse Zhang†
-  venue: arXiv preprint, May 2025
-  picture: /images/publications/hong2025hand.png
-  note: '* denotes equal contribution. † denotes equal advising.'
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/hong2025hand.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2505.20455
-    - type: website
-      display: Website
-      url: https://liralab.usc.edu/handretrieval/
-  bibtex: '@article{hong2025hand,
-      title={HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval}, 
-      author={Hong, Matthew and Liang, Anthony and Kim, Kevin and Rajaprakash, Harshitha and Thomason, Jesse and Bıyık, Erdem and Zhang, Jesse},
-      year={2025},
-      journal={arXiv preprint arXiv:2505.20455}
-}'
-
 - title: 'ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations'
   authors: Jiahui Zhang*, Yusen Luo*, Abrar Anwar*, Sumedh A. Sontakke, Joseph J. Lim, Jesse Thomason, Erdem Bıyık, Jesse Zhang
-  venue: arXiv preprint, May 2025
+  venue: Proceedings of the 9th Conference on Robot Learning (CoRL), September 2025
   picture: /images/publications/zhang2025rewind.png
   note: '* denotes equal contribution.'
   links:
@@ -110,12 +88,13 @@
     - type: website
       display: Website
       url: https://rewind-reward.github.io/
-  bibtex: '@article{zhang2025rewind,
+  bibtex: '@inproceedings{zhang2025rewind,
       title={ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations}, 
       author={Zhang, Jiahui and Luo, Yusen and Anwar, Abrar and Sontakke, Sumedh A. and Lim, Joseph J. and Thomason, Jesse and Bıyık, Erdem and Zhang, Jesse},
       year={2025},
-      journal={arXiv preprint arXiv:2505.10911}
+      booktitle={Conference on Robot Learning (CoRL)}
 }'
+
 
 - title: 'Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions'
   authors: Ayush Jain, Norio Kosaka, Xinhu Li, Kyung-Min Kim, Erdem Bıyık, Joseph J. Lim
@@ -165,6 +144,59 @@
       booktitle={Proceedings of Robotics: Science and Systems (RSS)}
 }'
 
+- title: 'MILE: Model-based Intervention Learning'
+  authors: Yigit Korkmaz, Erdem Bıyık
+  venue: International Conference on Robotics and Automation (ICRA), May 2025
+  picture: /images/publications/korkmaz2025mile.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/korkmaz2025mile.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2502.13519
+    - type: website
+      display: Website
+      url: https://liralab.usc.edu/mile/
+    - type: code
+      display: Code
+      url: https://github.com/USC-Lira/mile-code
+    - type: video
+      display: Video
+      url: https://youtu.be/jmykh0uniII
+  bibtex: '@inproceedings{korkmaz2025mile,
+      title={MILE: Model-based Intervention Learning}, 
+      author={Yigit Korkmaz and Erdem Bıyık},
+      booktitle={International Conference on Robotics and Automation (ICRA)},
+      year={2025},
+      month=may
+}'
+
+- title: 'Multi-Agent Inverse Q-Learning from Demonstrations'
+  authors: Nathaniel Haynam, Adam Khoja, Dhruv Kumar, Vivek Myers, Erdem Bıyık
+  venue: International Conference on Robotics and Automation (ICRA), May 2025
+  picture: /images/publications/haynam2025multi.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/haynam2025multi.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2503.04679
+    - type: website
+      display: Website
+      url: https://sites.google.com/view/mamql/
+    - type: code
+      display: Code
+      url: https://github.com/USC-Lira/MAMQL
+  bibtex: '@inproceedings{haynam2025multi,
+      title={Multi-Agent Inverse Q-Learning from Demonstrations}, 
+      author={Nathaniel Haynam and Adam Khoja and Dhruv Kumar and Vivek Myers and Erdem Bıyık},
+      booktitle={International Conference on Robotics and Automation (ICRA)},
+      year={2025},
+      month=may
+}'
+
 - title: 'Scaling Robot Adaptation with Large Model Guidance'
   authors: Jesse Zhang
   venue: CS Department, University of Southern California, June 2025
@@ -181,6 +213,29 @@
   year={2025},
   month=jun
 }'
+
+- title: 'HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval'
+  authors: Matthew Hong*, Anthony Liang*, Kevin Kim, Harshitha Rajaprakash, Jesse Thomason†, Erdem Bıyık†, Jesse Zhang†
+  venue: arXiv preprint, May 2025
+  picture: /images/publications/hong2025hand.png
+  note: '* denotes equal contribution. † denotes equal advising.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/hong2025hand.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2505.20455
+    - type: website
+      display: Website
+      url: https://liralab.usc.edu/handretrieval/
+  bibtex: '@article{hong2025hand,
+      title={HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval}, 
+      author={Hong, Matthew and Liang, Anthony and Kim, Kevin and Rajaprakash, Harshitha and Thomason, Jesse and Bıyık, Erdem and Zhang, Jesse},
+      year={2025},
+      journal={arXiv preprint arXiv:2505.20455}
+}'
+
 
 - title: 'CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations'
   authors: Anthony Liang*, Pavel Czempin*, Matthew Hong, Yutai Zhou, Erdem Bıyık†, Stephen Tu†
@@ -236,59 +291,6 @@
   title={Human-Interactive Robot Learning: Definition, Challenges, and Recommendations},
   author={Baraka, Kim and Faulkner, Taylor Kessler and Bıyık, Erdem and Serena, Booth and Chetouani, Mohamed and Grollman, Daniel H and Saran, Akanksha and Senft, Emmanuel and Tulli, Silvia and Vollmer, Anna-Lisa and Andriella, Antonio and Beierling, Helen and Horter, Tiffany and Kober, Jens and Sheidlower, Isaac and Taylor, Matthew E and Waveren, Sanne Van and Xiao, Xuesu},
   year={2025}
-}'
-  
-- title: 'MILE: Model-based Intervention Learning'
-  authors: Yigit Korkmaz, Erdem Bıyık
-  venue: International Conference on Robotics and Automation (ICRA), May 2025
-  picture: /images/publications/korkmaz2025mile.png
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/korkmaz2025mile.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2502.13519
-    - type: website
-      display: Website
-      url: https://liralab.usc.edu/mile/
-    - type: code
-      display: Code
-      url: https://github.com/USC-Lira/mile-code
-    - type: video
-      display: Video
-      url: https://youtu.be/jmykh0uniII
-  bibtex: '@inproceedings{korkmaz2025mile,
-      title={MILE: Model-based Intervention Learning}, 
-      author={Yigit Korkmaz and Erdem Bıyık},
-      booktitle={International Conference on Robotics and Automation (ICRA)},
-      year={2025},
-      month=may
-}'
-
-- title: 'Multi-Agent Inverse Q-Learning from Demonstrations'
-  authors: Nathaniel Haynam, Adam Khoja, Dhruv Kumar, Vivek Myers, Erdem Bıyık
-  venue: International Conference on Robotics and Automation (ICRA), May 2025
-  picture: /images/publications/haynam2025multi.png
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/haynam2025multi.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2503.04679
-    - type: website
-      display: Website
-      url: https://sites.google.com/view/mamql/
-    - type: code
-      display: Code
-      url: https://github.com/USC-Lira/MAMQL
-  bibtex: '@inproceedings{haynam2025multi,
-      title={Multi-Agent Inverse Q-Learning from Demonstrations}, 
-      author={Nathaniel Haynam and Adam Khoja and Dhruv Kumar and Vivek Myers and Erdem Bıyık},
-      booktitle={International Conference on Robotics and Automation (ICRA)},
-      year={2025},
-      month=may
 }'
   
 - title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
