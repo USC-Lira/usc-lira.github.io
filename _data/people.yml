@@ -12,7 +12,7 @@
     - type: github
       url: https://github.com/erdem-biyik
     - type: twitter
-      url: https://twitter.com/ebiyik_
+      url: https://x.com/ebiyik_
 
 # Phd students      
 - name: Anthony Liang
@@ -27,7 +27,7 @@
     - type: github
       url: https://github.com/aliang8/
     - type: twitter
-      url: https://twitter.com/Anthony66108836/
+      url: https://x.com/Anthony66108836/
 
 - name: Pavel Czempin
   picture: /images/people/pavel.jpg
@@ -40,7 +40,7 @@
     - type: github
       url: https://github.com/PavelCz
     - type: twitter
-      url: https://twitter.com/pczempin
+      url: https://x.com/pczempin
       
 - name: Yigit Korkmaz
   picture: /images/people/yigit.png
@@ -53,7 +53,21 @@
     - type: github
       url: https://github.com/ygtkorkmaz
     - type: twitter
-      url: https://twitter.com/yigitkkorkmaz
+      url: https://x.com/yigitkkorkmaz
+      
+- name: Yimin Tang
+  picture: /images/people/yimin.jpg
+  home_url: https://sites.google.com/view/yimintang
+  description: Yimin is a PhD student in the Computer Science Department. His research is focused on Multi-Agent Path Finding (MAPF). He is also interested in foundation models, world models, and deep reinforcement learning.
+  rank: phd
+  coadvisor: Sven Koenig
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=OrBSEjAAAAAJ&hl=en
+    - type: github
+      url: https://github.com/TachikakaMin
+    - type: twitter
+      url: https://x.com/YIMINTANG4
 
 - name: Yutai Zhou
   picture: /images/people/yutai.png
@@ -65,7 +79,7 @@
     - type: github
       url: https://github.com/yutaizhou
     - type: twitter
-      url: https://twitter.com/yutai95
+      url: https://x.com/yutai95
       
 - name: Ayano Hiranaka
   picture: /images/people/ayano.jpg
@@ -128,7 +142,7 @@
     - type: github
       url: https://github.com/jaivdoshiatusc
     - type: twitter
-      url: https://twitter.com/jaivdoshi   
+      url: https://x.com/jaivdoshi   
 
 - name: Urvi Bhuwania
   picture: /images/people/urvi.jpg
@@ -183,7 +197,7 @@
     - type: github
       url: https://github.com/jesbu1
     - type: twitter
-      url: https://twitter.com/Jesse_Y_Zhang
+      url: https://x.com/Jesse_Y_Zhang
 
 - name: Ayush Jain
   picture: /images/people/ayush.png
@@ -199,7 +213,7 @@
     - type: github
       url: https://github.com/ayushj240/
     - type: twitter
-      url: https://twitter.com/Ayushj240
+      url: https://x.com/Ayushj240
 
 - name: Sumedh Sontakke
   picture: /images/people/sumedh.png
@@ -215,7 +229,7 @@
     - type: github
       url: https://github.com/sumedh7
     - type: twitter
-      url: https://twitter.com/SOTA_kke
+      url: https://x.com/SOTA_kke
 
 # Other alumni
 - name: Zhaojing Yang
@@ -241,6 +255,47 @@
       url: https://scholar.google.com/citations?hl=en&user=vnoxtkKTVsoC
     - type: twitter
       url: https://x.com/JiahuiZhang__32
+
+- name: Sunny Agrawal
+  picture: /images/people/sunny.jpg
+  description: 'Research Intern (Next: Continuing studies at Ohio State University)'
+  rank: alumni
+  links:
+
+- name: Eisuke Hirota
+  picture: /images/people/eisuke.png
+  home_url: https://ei5uke.github.io/
+  description: 'Research Intern (Next: MIT Lincoln Laboratory)'
+  rank: alumni
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=NBvMsAMAAAAJ&hl=en
+    - type: github
+      url: https://github.com/ei5uke
+      
+- name: Megumi Ondo
+  picture: /images/people/megumi.jpg
+  description: 'Research Intern (Next: Continuing studies at UC Santa Barbara)'
+  rank: alumni
+  links:
+      
+- name: Shreya Ramanujam
+  picture: /images/people/shreya.jpg
+  description: 'Research Intern (Next: MS at Stanford University)'
+  rank: alumni
+  links:
+  
+- name: Zijian Zhang
+  picture: /images/people/zijian.jpg
+  description: 'Research Intern (Next: Continuing studies at Tsinghua University)'
+  rank: alumni
+  links:
+
+- name: James Qian
+  picture: /images/people/james.png
+  description: 'Undergraduate, CS (Next: Transferred to Stanford University)'
+  rank: alumni
+  links:
 
 - name: Miru Jun
   picture: /images/people/miru.png
