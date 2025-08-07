@@ -77,7 +77,8 @@
   authors: Jiahui Zhang*, Yusen Luo*, Abrar Anwar*, Sumedh A. Sontakke, Joseph J. Lim, Jesse Thomason, Erdem Bıyık, Jesse Zhang
   venue: Proceedings of the 9th Conference on Robot Learning (CoRL), September 2025
   picture: /images/publications/zhang2025rewind.png
-  note: '* denotes equal contribution.'
+  note: '* denotes equal contribution. Also presented at various workshops at RSS 2025 and RLC 2025.'
+  specialnote: 'Best Paper Award at the OOD workshop at RSS 2025.'
   links:
     - type: pdf
       display: PDF
@@ -100,6 +101,7 @@
   authors: Ayush Jain, Norio Kosaka, Xinhu Li, Kyung-Min Kim, Erdem Bıyık, Joseph J. Lim
   venue: 2nd Reinforcement Learning Conference (RLC), August 2025
   picture: /images/publications/jain2025mitigating.png
+  specialnote: 'Outstanding Paper Award on Empirical Reinforcement Learning Research.'
   links:
     - type: pdf
       display: PDF

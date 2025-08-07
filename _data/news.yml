@@ -1,8 +1,14 @@
+- date: 2025-08-07
+  content: "Our paper \"Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions\" received the \"Outstanding Paper Award on Empirical Reinforcement Learning Research\" at RLC 2025."
+
 - date: 2025-08-01
   content: "Our paper titled \"ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations\" got accepted to the Conference on Robot Learning (CoRL) 2025."
   
 - date: 2025-07-10
   content: "Yutai Zhou has been named a Capital One Fellow!"
+
+- date: 2025-06-26
+  content: "Our paper \"ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations\" received the best paper award among ~50 papers at the \"2nd Workshop on Out-of-Distribution Generalization in Robotics\" at RSS 2025."
 
 - date: 2025-06-15
   content: "Our 2 papers got accepted to the 2025 International Conference on Intelligent Robots and Systems (IROS).:<br>- GABRIL: Gaze-Based Regularization for Mitigating Causal Confusion in Imitation Learning<br>- RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks"
