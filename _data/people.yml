@@ -95,6 +95,19 @@
     - type: twitter
       url: https://x.com/ayano_hiranaka
 
+- name: Bo-Ruei Huang
+  picture: /images/people/boruei.png
+  home_url: https://borueihuang.com/
+  description: Bo-Ruei is a PhD student in the Computer Science Department.
+  rank: phd
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=EN01AeQAAAAJ
+    - type: github
+      url: https://github.com/rayray2002
+    - type: twitter
+      url: https://x.com/borueihuang
+
 - name: Raida Karim
   picture: /images/people/raida.jpg
   description: Raida is an incoming PhD student in the Computer Science Department.
