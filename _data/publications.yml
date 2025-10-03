@@ -24,6 +24,36 @@
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
 
+
+- title: 'Actor-Free Continuous Control via Structurally Maximizable Q-Functions'
+  authors: Yigit Korkmaz*, Urvi Bhuwania*, Ayush Jain†, Erdem Bıyık†
+  venue: Conference on Neural Information Processing Systems (NeurIPS), December 2025
+  picture: 
+  note: '* denotes equal contribution. † denotes equal advising.'
+  links:
+  bibtex: '@inproceedings{korkmaz2025actor,
+      title={Actor-Free Continuous Control via Structurally Maximizable Q-Functions}, 
+      author={Korkmaz, Yigit and Bhuwania, Urvi and Jain, Ayush and Bıyık, Erdem},
+      booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
+      year={2025},
+      month=dec
+}'
+
+- title: 'Training Robots with Natural and Lightweight Human Feedback'
+  authors: Erdem Bıyık
+  venue: AI Magazine, 2025
+  picture: /images/publications/biyik2025training.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/biyik2025training.pdf
+  bibtex: '@article{biyik2025training,
+      title={Training Robots with Natural and Lightweight Human Feedback}, 
+      author={Bıyık, Erdem},
+      journal={AI Magazine},
+      year={2025}
+}'
+
 - title: 'GABRIL: Gaze-Based Regularization for Mitigating Causal Confusion in Imitation Learning'
   authors: Amin Banayeeanzade*, Fatemeh Bahrani*, Yutai Zhou, Erdem Bıyık 
   venue: International Conference on Intelligent Robots and Systems (IROS), October 2025
