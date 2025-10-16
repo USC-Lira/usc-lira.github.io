@@ -73,6 +73,9 @@
   picture: /images/publications/zhang2025peek.png
   note: '* denotes equal contribution. † denotes equal advising.'
   links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/zhang2025peek.pdf
     - type: arxiv
       display: arXiv
       url: https://arxiv.org/abs/2509.18282
