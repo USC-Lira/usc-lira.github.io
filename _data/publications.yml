@@ -31,6 +31,12 @@
   picture: 
   note: '* denotes equal contribution. † denotes equal advising.'
   links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/korkmaz2025actor.pdf
+    - type: code
+      display: Code
+      url: https://github.com/USC-Lira/Q3C
   bibtex: '@inproceedings{korkmaz2025actor,
       title={Actor-Free Continuous Control via Structurally Maximizable Q-Functions}, 
       author={Korkmaz, Yigit and Bhuwania, Urvi and Jain, Ayush and Bıyık, Erdem},
