@@ -28,7 +28,7 @@
 - title: 'Actor-Free Continuous Control via Structurally Maximizable Q-Functions'
   authors: Yigit Korkmaz*, Urvi Bhuwania*, Ayush Jain†, Erdem Bıyık†
   venue: Conference on Neural Information Processing Systems (NeurIPS), December 2025
-  picture: 
+  picture: /images/publications/korkmaz2025actor.png
   note: '* denotes equal contribution. † denotes equal advising.'
   links:
     - type: pdf
