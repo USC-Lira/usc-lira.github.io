@@ -45,6 +45,51 @@
       month=dec
 }'
 
+- title: 'When a Robot is More Capable than a Human: Learning from Constrained Demonstrators'
+  authors: Xinhu Li, Ayush Jain, Zhaojing Yang, Yigit Korkmaz, Erdem Bıyık
+  venue: arXiv preprint, October 2025
+  picture: /images/publications/li2025when.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/li2025when.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2510.09096
+    - type: website
+      display: Website
+      url: https://sites.google.com/view/constrainedexpert
+  bibtex: '@article{li2025when,
+      title={When a Robot is More Capable than a Human: Learning from Constrained Demonstrators}, 
+      author={Li, Xinhu and Jain, Ayush and Yang, Zhaojing and Korkmaz, Yigit and Bıyık, Erdem},
+      journal={arXiv preprint arXiv:2510.09096},
+      year={2025},
+      month=oct
+}'
+
+- title: 'PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies'
+  authors: Jesse Zhang*, Marius Memmel*, Kevin Kim, Dieter Fox, Jesse Thomason, Fabio Ramos, Erdem Bıyık, Abhishek Gupta†, Anqi Li†
+  venue: arXiv preprint, September 2025
+  picture: /images/publications/zhang2025peek.png
+  note: '* denotes equal contribution. † denotes equal advising.'
+  links:
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2509.18282
+    - type: website
+      display: Website
+      url: https://peek-robot.github.io/
+    - type: code
+      display: Code
+      url: https://github.com/peek-robot/peek
+  bibtex: '@article{zhang2025peek,
+      title={PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies}, 
+      author={Zhang, Jesse and Memmel, Marius and Kim, Kevin and Fox, Dieter and Thomason, Jesse and Ramos, Fabio and Bıyık, Erdem and Gupta, Abhishek and Li, Anqi},
+      journal={arXiv preprint arXiv:2509.18282},
+      year={2025},
+      month=sep
+}'
+
 - title: 'Training Robots with Natural and Lightweight Human Feedback'
   authors: Erdem Bıyık
   venue: AI Magazine, 2025
