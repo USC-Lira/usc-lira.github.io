@@ -179,14 +179,24 @@
     - type: github
       url: https://github.com/ashleylan111
 
+
 # Visiting researchers
 - name: Xinhu Li
   picture: /images/people/xinhu.png
+  home_url: https://xhlsgit.github.io/
   description: Xinhu is a visiting researcher in Lira Lab.
   rank: visiting
-  links:
     - type: github
       url: https://github.com/xhlsgit
+      
+- name: Fatemeh Bahrani
+  picture: /images/people/fatemeh.jpg
+  home_url: https://nfbahrani.github.io/
+  description: Fatemeh is a visiting researcher in Lira Lab.
+  rank: visiting
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?view_op=list_works&user=3tdMZ68AAAAJ
 
 
 # Alumni PhDs
