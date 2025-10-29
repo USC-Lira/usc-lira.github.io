@@ -186,6 +186,7 @@
   home_url: https://xhlsgit.github.io/
   description: Xinhu is a visiting researcher in Lira Lab.
   rank: visiting
+  links:
     - type: github
       url: https://github.com/xhlsgit
       
