@@ -196,7 +196,7 @@
   rank: visiting
   links:
     - type: scholar
-      url: https://scholar.google.com/citations?view_op=list_works&user=3tdMZ68AAAAJ
+      url: https://scholar.google.com/citations?user=3tdMZ68AAAAJ
 
 
 # Alumni PhDs
@@ -210,7 +210,7 @@
   thesis_url: /pdfs/publications/zhang2025scaling.pdf
   links:
     - type: scholar
-      url: https://scholar.google.com/citations?user=fSXCOfEAAAAJ&hl=en
+      url: https://scholar.google.com/citations?user=fSXCOfEAAAAJ
     - type: github
       url: https://github.com/jesbu1
     - type: twitter

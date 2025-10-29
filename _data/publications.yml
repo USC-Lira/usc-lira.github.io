@@ -60,10 +60,10 @@
       display: Code
       url: https://github.com/USC-Lira/language_active_learning
   bibtex: '@article{hirota2025active,
-  title={Active Reward Learning and Iterative Trajectory Improvement from Comparative Language Feedback},
-  author={Hirota, Eisuke and Yang, Zhaojing and Hiranaka, Ayano and Jun, Miru and Tien, Jeremy and Russell, Stuart J. and Dragan, Anca and Bıyık, Erdem},
-  journal={The International Journal of Robotics Research},
-  year={2025}
+      title={Active Reward Learning and Iterative Trajectory Improvement from Comparative Language Feedback},
+      author={Hirota, Eisuke and Yang, Zhaojing and Hiranaka, Ayano and Jun, Miru and Tien, Jeremy and Russell, Stuart J. and Dragan, Anca and Bıyık, Erdem},
+      journal={The International Journal of Robotics Research},
+      year={2025}
 }'
 
 - title: 'When a Robot is More Capable than a Human: Learning from Constrained Demonstrators'
