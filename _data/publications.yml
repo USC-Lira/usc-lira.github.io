@@ -24,7 +24,6 @@
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
 
-
 - title: 'Actor-Free Continuous Control via Structurally Maximizable Q-Functions'
   authors: Yigit Korkmaz*, Urvi Bhuwania*, Ayush Jain†, Erdem Bıyık†
   venue: Conference on Neural Information Processing Systems (NeurIPS), December 2025
@@ -43,6 +42,28 @@
       booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
       year={2025},
       month=dec
+}'
+
+- title: 'Active Reward Learning and Iterative Trajectory Improvement from Comparative Language Feedback'
+  authors: Eisuke Hirota*, Zhaojing Yang*, Ayano Hiranaka, Miru Jun, Jeremy Tien, Stuart J. Russell, Anca Dragan, Erdem Bıyık
+  venue: International Journal of Robotics Research (IJRR), 2025
+  picture: /images/publications/hirota2025active.png
+  note: '* denotes equal contribution.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/hirota2025active.pdf
+    - type: website
+      display: Website
+      url: https://liralab.usc.edu/comparative-language-feedback/
+    - type: code
+      display: Code
+      url: https://github.com/USC-Lira/language_active_learning
+  bibtex: '@article{hirota2025active,
+  title={Active Reward Learning and Iterative Trajectory Improvement from Comparative Language Feedback},
+  author={Hirota, Eisuke and Yang, Zhaojing and Hiranaka, Ayano and Jun, Miru and Tien, Jeremy and Russell, Stuart J. and Dragan, Anca and Bıyık, Erdem},
+  journal={The International Journal of Robotics Research},
+  year={2025}
 }'
 
 - title: 'When a Robot is More Capable than a Human: Learning from Constrained Demonstrators'
