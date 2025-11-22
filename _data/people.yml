@@ -324,8 +324,8 @@
 
 - name: Jaiv Doshi
   picture: /images/people/jaiv.png
-  description: 'Undergraduate, CS (Next: Research Scientist at Tangible Robotics)'
-  rank: ug
+  description: 'Undergraduate, CS (Next: Research Engineer at Tangible Robotics)'
+  rank: alumni
   links:
     - type: github
       url: https://github.com/jaivdoshiatusc
