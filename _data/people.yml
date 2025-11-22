@@ -169,16 +169,6 @@
 
 
 # Undergraduates
-- name: Jaiv Doshi
-  picture: /images/people/jaiv.png
-  description: Jaiv is an undergraduate in the Computer Science Department.
-  rank: ug
-  links:
-    - type: github
-      url: https://github.com/jaivdoshiatusc
-    - type: twitter
-      url: https://x.com/jaivdoshi   
-
 - name: Urvi Bhuwania
   picture: /images/people/urvi.jpg
   description: Urvi is an undergraduate in the Computer Science Department.
@@ -331,6 +321,16 @@
       url: https://scholar.google.com/citations?hl=en&user=vnoxtkKTVsoC
     - type: twitter
       url: https://x.com/JiahuiZhang__32
+
+- name: Jaiv Doshi
+  picture: /images/people/jaiv.png
+  description: 'Undergraduate, CS (Next: Research Scientist at Tangible Robotics)'
+  rank: ug
+  links:
+    - type: github
+      url: https://github.com/jaivdoshiatusc
+    - type: twitter
+      url: https://x.com/jaivdoshi   
 
 - name: Sunny Agrawal
   picture: /images/people/sunny.jpg
