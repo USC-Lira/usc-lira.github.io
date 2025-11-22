@@ -139,6 +139,34 @@
     - type: twitter
       url: https://x.com/yusen_2001
 
+- name: Abha Jha
+  picture: /images/people/abha.jpg
+  description: Abha is an MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=3-4adIAAAAAJ&hl=en
+    - type: github
+      url: https://github.com/Abha2001
+
+- name: Asmaa Hassan
+  picture: /images/people/asmaa.jpg
+  home_url: https://www.linkedin.com/in/asmaa-hassan-fulbright/
+  description: Asmaa is an MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: github
+      url: https://github.com/gitasma
+
+- name: Cagan Bakirci
+  picture: /images/people/cagan.jpg
+  home_url: http://caganbakirci.github.io/
+  description: Cagan is an MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: github
+      url: https://github.com/caganbakirci
+
 
 # Undergraduates
 - name: Jaiv Doshi
@@ -179,6 +207,36 @@
     - type: github
       url: https://github.com/ashleylan111
 
+- name: Alina Du
+  picture: /images/people/alina.jpg
+  home_url: https://www.linkedin.com/in/xintong-du-553134327/
+  description: Alina is an undergrduate in the Computer Science and Applied Mathematics Departments.
+  rank: ug
+  links:
+
+- name: Jingzhen Wang
+  picture: /images/people/jingzhen.jpg
+  home_url: https://www.linkedin.com/in/jingzhen-wang
+  description: Jingzhen is an undergrduate in the Computer Science Department.
+  rank: ug
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=N-gP_6EAAAAJ&hl=en
+    - type: github
+      url: https://github.com/Dionysssss
+
+- name: Meredith Li
+  picture: /images/people/meredith.jpg
+  home_url: https://www.linkedin.com/in/meredith-li99
+  description: Meredith is an undergrduate in the Electrical and Computer Engineering Department.
+  rank: ug
+  links:
+
+- name: Phillip Suh
+  picture: /images/people/philip.jpg
+  description: Phillip is an undergrduate in the Computer Science and Business Administration Departments.
+  rank: ug
+  links:
 
 # Visiting researchers
 - name: Xinhu Li
