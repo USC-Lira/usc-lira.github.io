@@ -84,7 +84,7 @@
 - name: Ayano Hiranaka
   picture: /images/people/ayano.jpg
   home_url: https://misoshiruseijin.github.io/
-  description: Ayano is a PhD student in the Computer Science Department.
+  description: Ayano is a PhD student in the Computer Science Department. She is interested in building AI agents that co-evolve with humans, focusing on systems where humans and agents learn from and adapt to one another as they expand their capabilities together.
   rank: phd
   coadvisor: Daniel Seita
   links:
