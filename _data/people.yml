@@ -98,7 +98,7 @@
 - name: Bo-Ruei Huang
   picture: /images/people/boruei.png
   home_url: https://borueihuang.com/
-  description: Bo-Ruei is a PhD student in the Computer Science Department.
+  description: Bo-Ruei is a PhD student in the Computer Science Department. His research goal is to build robots that learn to assist humans in their daily lives. Specifically, he explores how to leverage abstraction to enable dexterous manipulation in unstructured, open-world environments.
   rank: phd
   links:
     - type: scholar
