@@ -1,6 +1,18 @@
+- title: "The First Glimpse of Gemini's Rampaging Incarnation"
+  url: https://www.youtube.com/watch?v=jzkhYGt8mz4
+  publisher: Donga Science
+  date: 2025-11-24
+  excerpt: "We were interviewed by journalists from Donga Science, the longest-running science magazine of South Korea, for our work ReWiND."
+
+- title: "Teaching Robot Policies Without New Demonstrations"
+  url: https://robohub.org/teaching-robot-policies-without-new-demonstrations-interview-with-jiahui-zhang-and-jesse-zhang/
+  publisher: Robohub
+  date: 2025-12-04
+  excerpt: "In their paper ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations, which was presented at CoRL 2025, a team of researchers from USC introduce a framework for learning robot manipulation tasks solely from language instructions without per-task demonstrations."
+
 - title: "Robots, Meet Your New Teacher: Yourselves"
   url: https://viterbischool.usc.edu/news/2025/10/robots-meet-your-new-teacher-yourselves/
-  published: USC Viterbi News
+  publisher: USC Viterbi News
   date: 2025-10-01
   excerpt: "A USC Viterbi graduate student team co-developed a new robotic system that adapts and learns every second. "
 
