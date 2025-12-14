@@ -167,6 +167,14 @@
     - type: github
       url: https://github.com/caganbakirci
 
+- name: Ruopeng Huang
+  picture: /images/people/ruopeng.jpg
+  home_url: https://huangruopeng.github.io/
+  description: Ruopeng is an MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?hl=en&user=b3PTzgcAAAAJ
 
 # Undergraduates
 - name: Urvi Bhuwania
@@ -214,13 +222,6 @@
       url: https://scholar.google.com/citations?user=N-gP_6EAAAAJ&hl=en
     - type: github
       url: https://github.com/Dionysssss
-
-- name: Meredith Li
-  picture: /images/people/meredith.jpg
-  home_url: https://www.linkedin.com/in/meredith-li99
-  description: Meredith is an undergrduate in the Electrical and Computer Engineering Department.
-  rank: ug
-  links:
 
 - name: Phillip Suh
   picture: /images/people/philip.jpg
