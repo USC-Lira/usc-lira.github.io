@@ -110,25 +110,6 @@
 
 
 # MS students      
-- name: Dhanush Varma
-  picture: /images/people/dhanush.png
-  description: Dhanush is an MS student in the Electrical and Computer Engineering Department.
-  rank: ms
-  links:
-    - type: github
-      url: https://github.com/Dhanushvarma
-
-- name: Matthew Hong
-  picture: /images/people/matthew.png
-  home_url: https://matthewh6.github.io/
-  description: Matthew is an MS student in the Computer Science Department.
-  rank: ms
-  links:
-    - type: github
-      url: https://github.com/matthewh6
-    - type: twitter
-      url: https://x.com/matthewh6_
-      
 - name: Yusen Luo
   picture: /images/people/yusen.png
   description: Yusen is an MS student in the Computer Science Department.
@@ -175,6 +156,18 @@
   links:
     - type: scholar
       url: https://scholar.google.com/citations?hl=en&user=b3PTzgcAAAAJ
+      
+- name: Eisuke Hirota
+  picture: /images/people/eisuke.png
+  home_url: https://ei5uke.github.io/
+  description: Eisuke is an MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=NBvMsAMAAAAJ&hl=en
+    - type: github
+      url: https://github.com/ei5uke
+
 
 # Undergraduates
 - name: Urvi Bhuwania
@@ -236,6 +229,8 @@
   description: Xinhu is a visiting researcher in Lira Lab.
   rank: visiting
   links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=hXXnM74AAAAJ&hl=en
     - type: github
       url: https://github.com/xhlsgit
       
@@ -247,6 +242,17 @@
   links:
     - type: scholar
       url: https://scholar.google.com/citations?user=3tdMZ68AAAAJ
+
+- name: Zhaoyang Li
+  picture: /images/people/zhaoyang.png
+  home_url: https://zhaoyangli-1.github.io/
+  description: Zhaoyang is a visiting researcher in Lira Lab.
+  rank: visiting
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=iCpe5u0AAAAJ&hl=en
+    - type: github
+      url: https://github.com/ZhaoyangLi-1
 
 
 # Alumni PhDs
@@ -299,23 +305,29 @@
       url: https://x.com/SOTA_kke
 
 # Other alumni
-- name: Zhaojing Yang
-  picture: /images/people/zhaojing.png
-  home_url: https://yang-zj1026.github.io/
-  description: 'MS, CS (Next: PhD at UC San Diego)'
+- name: Dhanush Varma
+  picture: /images/people/dhanush.png
+  description: 'MS, CS 2025 (Next: PhD at University of Colorado Boulder)'
   rank: alumni
   links:
     - type: github
-      url: https://github.com/yang-zj1026
-    - type: scholar
-      url: https://scholar.google.com/citations?user=Olo1IfYAAAAJ&hl=en
+      url: https://github.com/Dhanushvarma
+
+- name: Matthew Hong
+  picture: /images/people/matthew.png
+  home_url: https://matthewh6.github.io/
+  description: 'MS, CS 2025 (Next: Visiting Researcher at University of Washington)'
+  rank: alumni
+  links:
+    - type: github
+      url: https://github.com/matthewh6
     - type: twitter
-      url: https://x.com/zhaojingy_1026
+      url: https://x.com/matthewh6_
       
 - name: Jiahui Zhang
   picture: /images/people/jiahui.png
   home_url: https://jiahui-3205.github.io/
-  description: 'MS, EE (Next: PhD at UT Dallas)'
+  description: 'Visiting Researcher, EE 2023-2025 (Next: PhD at UT Dallas)'
   rank: alumni
   links:
     - type: scholar
@@ -325,7 +337,7 @@
 
 - name: Jaiv Doshi
   picture: /images/people/jaiv.png
-  description: 'Undergraduate, CS (Next: Research Engineer at Tangible Robotics)'
+  description: 'Undergraduate, CS 2025 (Next: Research Scientist at Tangible Robotics)'
   rank: alumni
   links:
     - type: github
@@ -333,62 +345,75 @@
     - type: twitter
       url: https://x.com/jaivdoshi   
 
-- name: Sunny Agrawal
-  picture: /images/people/sunny.jpg
-  description: 'Research Intern (Next: Continuing studies at Ohio State University)'
+- name: Zhaojing Yang
+  picture: /images/people/zhaojing.png
+  home_url: https://yang-zj1026.github.io/
+  description: 'MS, CS 2024 (Next: PhD at UC San Diego)'
   rank: alumni
   links:
-
-- name: Eisuke Hirota
-  picture: /images/people/eisuke.png
-  home_url: https://ei5uke.github.io/
-  description: 'Research Intern (Next: MIT Lincoln Laboratory)'
-  rank: alumni
-  links:
+    - type: github
+      url: https://github.com/yang-zj1026
     - type: scholar
-      url: https://scholar.google.com/citations?user=NBvMsAMAAAAJ&hl=en
-    - type: github
-      url: https://github.com/ei5uke
-      
-- name: Megumi Ondo
-  picture: /images/people/megumi.jpg
-  description: 'Research Intern (Next: Continuing studies at UC Santa Barbara)'
-  rank: alumni
-  links:
-      
-- name: Shreya Ramanujam
-  picture: /images/people/shreya.jpg
-  description: 'Research Intern (Next: MS at Stanford University)'
-  rank: alumni
-  links:
-  
-- name: Zijian Zhang
-  picture: /images/people/zijian.jpg
-  description: 'Research Intern (Next: Continuing studies at Tsinghua University)'
-  rank: alumni
-  links:
-
-- name: James Qian
-  picture: /images/people/james.png
-  description: 'Undergraduate, CS (Next: Transferred to Stanford University)'
-  rank: alumni
-  links:
-
-- name: Miru Jun
-  picture: /images/people/miru.png
-  description: 'Undergraduate, CS (Next: Data Engineer at US Navy)'
-  rank: alumni
-  links:
-    - type: github
-      url: https://github.com/lemonlemonde
+      url: https://scholar.google.com/citations?user=Olo1IfYAAAAJ&hl=en
+    - type: twitter
+      url: https://x.com/zhaojingy_1026
 
 - name: Thomas Reeves
   picture: /images/people/thomas.png
   home_url: https://reevest29.github.io/
-  description: 'MS, CS (Next: PhD at USC)'
+  description: 'MS, CS 2024 (Next: PhD at USC)'
   rank: alumni
   links:
     - type: github
       url: https://github.com/Reevest29
     - type: scholar
       url: https://scholar.google.com/citations?user=zVDNPpvMya0C
+
+- name: James Qian
+  picture: /images/people/james.png
+  description: 'Undergraduate, CS 2024 (Next: Transferred to Stanford University)'
+  rank: alumni
+  links:
+
+- name: Miru Jun
+  picture: /images/people/miru.png
+  description: 'Undergraduate, CS 2024 (Next: Data Engineer at US Navy)'
+  rank: alumni
+  links:
+    - type: github
+      url: https://github.com/lemonlemonde
+
+- name: Sunny Agrawal
+  picture: /images/people/sunny.jpg
+  description: 'Research Intern 2024 (Next: Continuing studies at Ohio State University)'
+  rank: alumni
+  links:
+
+- name: Eisuke Hirota
+  picture: /images/people/eisuke.png
+  home_url: https://ei5uke.github.io/
+  description: 'Research Intern 2024 (Next: MIT Lincoln Laboratory → MS at USC)'
+  rank: alumni
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=NBvMsAMAAAAJ&hl=en
+    - type: github
+      url: https://github.com/ei5uke
+
+- name: Megumi Ondo
+  picture: /images/people/megumi.jpg
+  description: 'Research Intern 2024 (Next: Continuing studies at UC Santa Barbara)'
+  rank: alumni
+  links:
+      
+- name: Shreya Ramanujam
+  picture: /images/people/shreya.jpg
+  description: 'Research Intern 2024 (Next: MS at Stanford University)'
+  rank: alumni
+  links:
+  
+- name: Zijian Zhang
+  picture: /images/people/zijian.jpg
+  description: 'Research Intern 2024 (Next: Continuing studies at Tsinghua University)'
+  rank: alumni
+  links:
