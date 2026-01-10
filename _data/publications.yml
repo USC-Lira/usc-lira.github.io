@@ -66,6 +66,28 @@
       year={2025}
 }'
 
+- title: 'AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations'
+  authors: Litian Gong, Fatemeh Bahrani, Yutai Zhou, Amin Banayeeanzade, Jiachen Li, Erdem Biyik
+  venue: arXiv preprint, November 2025
+  picture: /images/publications/gong2025autofocus.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/gong2025autofocus.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2511.18617
+    - type: website
+      display: Website
+      url: https://autofocus-il.github.io/
+  bibtex: '@article{gong2025autofocus,
+      title={AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations}, 
+      author={Gong, Litian and Bahrani, Fatemeh and Zhou, Yutai and Banayeeanzade, Amin and Li, Jiachen and Bıyık, Erdem},
+      journal={arXiv preprint arXiv:2511.18617},
+      year={2025},
+      month=nov
+}'
+
 - title: 'When a Robot is More Capable than a Human: Learning from Constrained Demonstrators'
   authors: Xinhu Li, Ayush Jain, Zhaojing Yang, Yigit Korkmaz, Erdem Bıyık
   venue: arXiv preprint, October 2025
@@ -110,6 +132,28 @@
       title={PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies}, 
       author={Zhang, Jesse and Memmel, Marius and Kim, Kevin and Fox, Dieter and Thomason, Jesse and Ramos, Fabio and Bıyık, Erdem and Gupta, Abhishek and Li, Anqi},
       journal={arXiv preprint arXiv:2509.18282},
+      year={2025},
+      month=sep
+}'
+
+- title: 'ORIC: Benchmarking Object Recognition under Contextual Incongruity in Large Vision-Language Models'
+  authors: Zhaoyang Li, Zhan Ling, Yuchen Zhou, Litian Gong, Erdem Bıyık, Hao Su
+  venue: arXiv preprint, September 2025
+  picture: /images/publications/li2025oric.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/li2025oric.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2509.15695
+    - type: website
+      display: Website
+      url: https://sites.google.com/view/constrainedexpert
+  bibtex: '@article{li2025oric,
+      title={ORIC: Benchmarking Object Recognition under Contextual Incongruity in Large Vision-Language Models}, 
+      author={Li, Zhaoyang and Ling, Zhan and Zhou, Yuchen and Gong, Litian and Bıyık, Erdem and Su, Hao},
+      journal={arXiv preprint arXiv:2509.15695},
       year={2025},
       month=sep
 }'
