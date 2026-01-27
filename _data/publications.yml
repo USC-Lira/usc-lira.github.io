@@ -24,6 +24,43 @@
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
 
+
+- title: 'Causally Robust Reward Learning from Reason-Augmented Preference Feedback'
+  authors: Minjune Hwang, Yigit Korkmaz, Daniel Seita†, Erdem Bıyık†
+  venue: International Conference on Learning Representations (ICLR), 2026
+  picture: /images/publications/hwang2026causally.png
+  note: '† denotes equal advising. Also presented at RSS 2025 Workshop on Human-in-the-Loop Robot Learning and Workshop on Continual Robot Learning from Humans, June 2025 (<a href="/pdfs/publications/hwang2025causally.pdf">PDF</a>).'
+  bibtex: '@inproceedings{hwang2026causally,
+      title={Causally Robust Reward Learning from Reason-Augmented Preference Feedback}, 
+      author={Hwang, Minjune and Korkmaz, Yigit and Seita, Daniel and Bıyık, Erdem},
+      booktitle={International Conference on Learning Representations (ICLR)},
+      year={2026},
+      month=apr
+}'
+
+- title: 'When a Robot is More Capable than a Human: Learning from Constrained Demonstrators'
+  authors: Xinhu Li, Ayush Jain, Zhaojing Yang, Yigit Korkmaz, Erdem Bıyık
+  venue: International Conference on Learning Representations (ICLR), 2026
+  picture: /images/publications/li2026when.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/li2026when.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2510.09096
+    - type: website
+      display: Website
+      url: https://sites.google.com/view/constrainedexpert
+  bibtex: '@inproceedings{li2026when,
+      title={When a Robot is More Capable than a Human: Learning from Constrained Demonstrators}, 
+      author={Li, Xinhu and Jain, Ayush and Yang, Zhaojing and Korkmaz, Yigit and Bıyık, Erdem},
+      booktitle={International Conference on Learning Representations (ICLR)},
+      year={2026},
+      month=apr
+}'
+
+
 - title: 'Actor-Free Continuous Control via Structurally Maximizable Q-Functions'
   authors: Yigit Korkmaz*, Urvi Bhuwania*, Ayush Jain†, Erdem Bıyık†
   venue: Conference on Neural Information Processing Systems (NeurIPS), December 2025
@@ -44,6 +81,24 @@
       month=dec
 }'
 
+- title: 'Human-Interactive Robot Learning: Definition, Challenges, and Recommendations'
+  authors: Kim Baraka, Ifrah Idrees, et al.
+  venue: ACM Transactions on Human-Robot Interaction (THRI), 2025
+  picture: /images/publications/baraka2025human.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/baraka2025human.pdf
+    - type: doi
+      display: DOI
+      url: https://doi.org/10.1145/3779297
+  bibtex: '@article{baraka2025human,
+  title={Human-Interactive Robot Learning: Definition, Challenges, and Recommendations},
+  author={Baraka, Kim and Faulkner, Taylor Kessler and Bıyık, Erdem and Serena, Booth and Chetouani, Mohamed and Grollman, Daniel H and Saran, Akanksha and Senft, Emmanuel and Tulli, Silvia and Vollmer, Anna-Lisa and Andriella, Antonio and Beierling, Helen and Horter, Tiffany and Kober, Jens and Sheidlower, Isaac and Taylor, Matthew E and Waveren, Sanne Van and Xiao, Xuesu},
+  month=dec,
+  year={2025}
+}'
+
 - title: 'Active Reward Learning and Iterative Trajectory Improvement from Comparative Language Feedback'
   authors: Eisuke Hirota*, Zhaojing Yang*, Ayano Hiranaka, Miru Jun, Jeremy Tien, Stuart J. Russell, Anca Dragan, Erdem Bıyık
   venue: International Journal of Robotics Research (IJRR), 2025
@@ -59,6 +114,9 @@
     - type: code
       display: Code
       url: https://github.com/USC-Lira/language_active_learning
+    - type: doi
+      display: DOI
+      url: https://doi.org/10.1177/027836492513947
   bibtex: '@article{hirota2025active,
       title={Active Reward Learning and Iterative Trajectory Improvement from Comparative Language Feedback},
       author={Hirota, Eisuke and Yang, Zhaojing and Hiranaka, Ayano and Jun, Miru and Tien, Jeremy and Russell, Stuart J. and Dragan, Anca and Bıyık, Erdem},
@@ -86,28 +144,6 @@
       journal={arXiv preprint arXiv:2511.18617},
       year={2025},
       month=nov
-}'
-
-- title: 'When a Robot is More Capable than a Human: Learning from Constrained Demonstrators'
-  authors: Xinhu Li, Ayush Jain, Zhaojing Yang, Yigit Korkmaz, Erdem Bıyık
-  venue: arXiv preprint, October 2025
-  picture: /images/publications/li2025when.png
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/li2025when.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2510.09096
-    - type: website
-      display: Website
-      url: https://sites.google.com/view/constrainedexpert
-  bibtex: '@article{li2025when,
-      title={When a Robot is More Capable than a Human: Learning from Constrained Demonstrators}, 
-      author={Li, Xinhu and Jain, Ayush and Yang, Zhaojing and Korkmaz, Yigit and Bıyık, Erdem},
-      journal={arXiv preprint arXiv:2510.09096},
-      year={2025},
-      month=oct
 }'
 
 - title: 'PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies'
@@ -427,21 +463,6 @@
       author={Ling, Yiyang and Owalekar, Karan and Adesanya, Oluwatobiloba and Bıyık, Erdem and Seita, Daniel},
       year={2025},
       journal={arXiv preprint arXiv:2503.10110}
-}'
-
-  
-- title: 'Human-Interactive Robot Learning: Definition, Challenges, and Recommendations'
-  authors: Kim Baraka, Ifrah Idrees, et al.
-  venue: Submitted to the ACM Transactions on Human-Robot Interaction (THRI), 2025
-  picture: /images/publications/baraka2025human.png
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/baraka2025human.pdf
-  bibtex: '@article{baraka2025human,
-  title={Human-Interactive Robot Learning: Definition, Challenges, and Recommendations},
-  author={Baraka, Kim and Faulkner, Taylor Kessler and Bıyık, Erdem and Serena, Booth and Chetouani, Mohamed and Grollman, Daniel H and Saran, Akanksha and Senft, Emmanuel and Tulli, Silvia and Vollmer, Anna-Lisa and Andriella, Antonio and Beierling, Helen and Horter, Tiffany and Kober, Jens and Sheidlower, Isaac and Taylor, Matthew E and Waveren, Sanne Van and Xiao, Xuesu},
-  year={2025}
 }'
   
 - title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
