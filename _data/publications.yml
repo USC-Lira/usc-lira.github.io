@@ -167,6 +167,38 @@
       year={2026}
 }'
 
+- title: 'Judgelight: Trajectory-Level Post-Optimization for Multi-Agent Path Finding via Closed-Subwalk Collapsing'
+  authors: Yimin Tang, Sven Koenig, Erdem Bıyık
+  venue: arXiv preprint, January 2026
+  picture: /images/publications/tang2026judgelight.png
+  links:
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2601.19388
+  bibtex: '@article{tang2026judgelight,
+      title={Judgelight: Trajectory-Level Post-Optimization for Multi-Agent Path Finding via Closed-Subwalk Collapsing}, 
+      author={Tang, Yimin and Koenig, Sven and Biyik, Erdem},
+      journal={arXiv preprint arXiv:2601.19388},
+      year={2026},
+      month=jan
+}'
+
+- title: 'SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping'
+  authors: Ruopeng Huang, Boyu Yang, Wenlong Gui, Jeremy Morgan, Erdem Biyik, Jiachen Li
+  venue: arXiv preprint, January 2026
+  picture: /images/publications/huang2026synctwin.png
+  links:
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2601.09920
+  bibtex: '@article{huang2026synctwin,
+      title={SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping}, 
+      author={Huang, Ruopeng and Yang, Boyu and Gui, Wenlong and Morgan, Jeremy and Biyik, Erdem and Li, Jiachen},
+      journal={arXiv preprint arXiv:2601.09920},
+      year={2026},
+      month=jan
+}'
+
 - title: 'Actor-Free Continuous Control via Structurally Maximizable Q-Functions'
   authors: Yigit Korkmaz*, Urvi Bhuwania*, Ayush Jain†, Erdem Bıyık†
   venue: Conference on Neural Information Processing Systems (NeurIPS), December 2025
