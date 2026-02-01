@@ -1,5 +1,17 @@
+- date: 2025-01-31
+  content: "Our 4 papers got accepted to the 2026 International Conference on Robotics and Automation (ICRA):<br>- AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations<br>- HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval<br>- IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models<br>- PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies"
+
+- date: 2025-01-26
+  content: "Our 2 papers got accepted to the 2026 International Conference on Learning Representations (ICLR):<br>- Causally Robust Reward Learning from Reason-Augmented Preference Feedback<br>- When a Robot is More Capable than a Human: Learning from Constrained Demonstrators"
+
+- date: 2025-01-11
+  content: "Our paper titled \"Value Explicit Pretraining for Learning Transferable Representations\" got accepted to the IEEE Robotics and Automation Letters (RA-L)."
+
 - date: 2025-12-01
   content: "We were interviewed by journalists from Donga Science, the longest-running science magazine of South Korea, for our work ReWiND. Access the interview <a href=\"https://www.youtube.com/watch?v=jzkhYGt8mz4\">here</a>."
+
+- date: 2025-10-31
+  content: "Our paper titled \"Human-Interactive Robot Learning: Definition, Challenges, and Recommendations\" got accepted to the ACM Transactions on Human-Robot Interaction (THRI)."
 
 - date: 2025-10-15
   content: "Our paper titled \"Active Reward Learning and Iterative Trajectory Improvement from Comparative Language Feedback\" got accepted to the International Journal of Robotics Research (IJRR)."
@@ -23,7 +35,7 @@
   content: "Our paper \"ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations\" received the best paper award among ~50 papers at the \"2nd Workshop on Out-of-Distribution Generalization in Robotics\" at RSS 2025. It was also nominated for the best paper award at the \"Workshop on Learned Robot Representations\" at RSS 2025."
 
 - date: 2025-06-15
-  content: "Our 2 papers got accepted to the 2025 International Conference on Intelligent Robots and Systems (IROS).:<br>- GABRIL: Gaze-Based Regularization for Mitigating Causal Confusion in Imitation Learning<br>- RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks"
+  content: "Our 2 papers got accepted to the 2025 International Conference on Intelligent Robots and Systems (IROS):<br>- GABRIL: Gaze-Based Regularization for Mitigating Causal Confusion in Imitation Learning<br>- RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks"
 
 - date: 2025-05-09
   content: "Our paper titled \"Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions\" got accepted to the Reinforcement Learning Conference (RLC) 2025."
