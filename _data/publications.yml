@@ -25,6 +25,101 @@
 
 
 
+
+- title: 'AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations'
+  authors: Litian Gong, Fatemeh Bahrani, Yutai Zhou, Amin Banayeeanzade, Jiachen Li, Erdem Bıyık
+  venue: International Conference on Robotics and Automation (ICRA), June 2026
+  picture: /images/publications/gong2026autofocus.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/gong2026autofocus.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2511.18617
+    - type: website
+      display: Website
+      url: https://autofocus-il.github.io/
+  bibtex: '@inproceedings{gong2026autofocus,
+      title={AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations}, 
+      author={Gong, Litian and Bahrani, Fatemeh and Zhou, Yutai and Banayeeanzade, Amin and Li, Jiachen and Bıyık, Erdem},
+      booktitle={International Conference on Robotics and Automation (ICRA)},
+      year={2026},
+      month=jun
+}'
+
+- title: 'HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval'
+  authors: Matthew Hong*, Anthony Liang*, Kevin Kim, Harshitha Rajaprakash, Jesse Thomason†, Erdem Bıyık†, Jesse Zhang†
+  venue: International Conference on Robotics and Automation (ICRA), June 2026
+  picture: /images/publications/hong2026hand.png
+  note: '* denotes equal contribution. † denotes equal advising.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/hong2026hand.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2505.20455
+    - type: website
+      display: Website
+      url: https://liralab.usc.edu/handretrieval/
+  bibtex: '@inproceedings{hong2026hand,
+      title={HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval}, 
+      author={Hong, Matthew and Liang, Anthony and Kim, Kevin and Rajaprakash, Harshitha and Thomason, Jesse and Bıyık, Erdem and Zhang, Jesse},
+      booktitle={International Conference on Robotics and Automation (ICRA)},
+      year={2026},
+      month=jun
+}'
+
+- title: 'IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models'
+  authors: Yiyang Ling*, Karan Owalekar*, Oluwatobiloba Adesanya, Erdem Bıyık, Daniel Seita
+  venue: International Conference on Robotics and Automation (ICRA), June 2026
+  picture: /images/publications/ling2026impact.png
+  note: '* denotes equal contribution.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/ling2026impact.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2503.10110
+    - type: website
+      display: Website
+      url: https://impact-planning.github.io/
+  bibtex: '@inproceedings{ling2026impact,
+      title={IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models}, 
+      author={Ling, Yiyang and Owalekar, Karan and Adesanya, Oluwatobiloba and Bıyık, Erdem and Seita, Daniel},
+      booktitle={International Conference on Robotics and Automation (ICRA)},
+      year={2026},
+      month=jun
+}'
+
+- title: 'PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies'
+  authors: Jesse Zhang*, Marius Memmel*, Kevin Kim, Dieter Fox, Jesse Thomason, Fabio Ramos, Erdem Bıyık, Abhishek Gupta†, Anqi Li†
+  venue: International Conference on Robotics and Automation (ICRA), June 2026
+  picture: /images/publications/zhang2026peek.png
+  note: '* denotes equal contribution. † denotes equal advising.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/zhang2026peek.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2509.18282
+    - type: website
+      display: Website
+      url: https://peek-robot.github.io/
+    - type: code
+      display: Code
+      url: https://github.com/peek-robot/peek
+  bibtex: '@inproceedings{zhang2026peek,
+      title={PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies}, 
+      author={Zhang, Jesse and Memmel, Marius and Kim, Kevin and Fox, Dieter and Thomason, Jesse and Ramos, Fabio and Bıyık, Erdem and Gupta, Abhishek and Li, Anqi},
+      booktitle={International Conference on Robotics and Automation (ICRA)},
+      year={2025},
+      month=jun
+}'
+
 - title: 'Causally Robust Reward Learning from Reason-Augmented Preference Feedback'
   authors: Minjune Hwang, Yigit Korkmaz, Daniel Seita†, Erdem Bıyık†
   venue: International Conference on Learning Representations (ICLR), 2026
@@ -60,6 +155,17 @@
       month=apr
 }'
 
+- title: 'Value Explicit Pretraining for Learning Transferable Representations'
+  authors: Kiran Lekkala, Henghui Bao, Sumedh A. Sontakke, Erdem Bıyık, Laurent Itti
+  venue: IEEE Robotics and Automation Letters (RA-L), 2026
+  picture: /images/publications/lekkala2026value.png
+  links:
+  bibtex: '@article{lekkala2026value,
+      title={Value Explicit Pretraining for Learning Transferable Representations},
+      author={Lekkala, Kiran Lekkala and Bao, Henghui and Sontakke, Sumedh A. and Bıyık, Erdem and Itti, Laurent},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2026}
+}'
 
 - title: 'Actor-Free Continuous Control via Structurally Maximizable Q-Functions'
   authors: Yigit Korkmaz*, Urvi Bhuwania*, Ayush Jain†, Erdem Bıyık†
@@ -93,10 +199,11 @@
       display: DOI
       url: https://doi.org/10.1145/3779297
   bibtex: '@article{baraka2025human,
-  title={Human-Interactive Robot Learning: Definition, Challenges, and Recommendations},
-  author={Baraka, Kim and Faulkner, Taylor Kessler and Bıyık, Erdem and Serena, Booth and Chetouani, Mohamed and Grollman, Daniel H and Saran, Akanksha and Senft, Emmanuel and Tulli, Silvia and Vollmer, Anna-Lisa and Andriella, Antonio and Beierling, Helen and Horter, Tiffany and Kober, Jens and Sheidlower, Isaac and Taylor, Matthew E and Waveren, Sanne Van and Xiao, Xuesu},
-  month=dec,
-  year={2025}
+      title={Human-Interactive Robot Learning: Definition, Challenges, and Recommendations},
+      author={Baraka, Kim and Faulkner, Taylor Kessler and Bıyık, Erdem and Serena, Booth and Chetouani, Mohamed and Grollman, Daniel H and Saran, Akanksha and Senft, Emmanuel and Tulli, Silvia and Vollmer, Anna-Lisa and Andriella, Antonio and Beierling, Helen and Horter, Tiffany and Kober, Jens and Sheidlower, Isaac and Taylor, Matthew E and Waveren, Sanne Van and Xiao, Xuesu},
+      journal={ACM Transactions on Human-Robot Interaction (THRI)},
+      year={2025},
+      month=dec
 }'
 
 - title: 'Active Reward Learning and Iterative Trajectory Improvement from Comparative Language Feedback'
@@ -124,53 +231,6 @@
       year={2025}
 }'
 
-- title: 'AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations'
-  authors: Litian Gong, Fatemeh Bahrani, Yutai Zhou, Amin Banayeeanzade, Jiachen Li, Erdem Biyik
-  venue: arXiv preprint, November 2025
-  picture: /images/publications/gong2025autofocus.png
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/gong2025autofocus.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2511.18617
-    - type: website
-      display: Website
-      url: https://autofocus-il.github.io/
-  bibtex: '@article{gong2025autofocus,
-      title={AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations}, 
-      author={Gong, Litian and Bahrani, Fatemeh and Zhou, Yutai and Banayeeanzade, Amin and Li, Jiachen and Bıyık, Erdem},
-      journal={arXiv preprint arXiv:2511.18617},
-      year={2025},
-      month=nov
-}'
-
-- title: 'PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies'
-  authors: Jesse Zhang*, Marius Memmel*, Kevin Kim, Dieter Fox, Jesse Thomason, Fabio Ramos, Erdem Bıyık, Abhishek Gupta†, Anqi Li†
-  venue: arXiv preprint, September 2025
-  picture: /images/publications/zhang2025peek.png
-  note: '* denotes equal contribution. † denotes equal advising.'
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/zhang2025peek.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2509.18282
-    - type: website
-      display: Website
-      url: https://peek-robot.github.io/
-    - type: code
-      display: Code
-      url: https://github.com/peek-robot/peek
-  bibtex: '@article{zhang2025peek,
-      title={PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies}, 
-      author={Zhang, Jesse and Memmel, Marius and Kim, Kevin and Fox, Dieter and Thomason, Jesse and Ramos, Fabio and Bıyık, Erdem and Gupta, Abhishek and Li, Anqi},
-      journal={arXiv preprint arXiv:2509.18282},
-      year={2025},
-      month=sep
-}'
 
 - title: 'ORIC: Benchmarking Object Recognition under Contextual Incongruity in Large Vision-Language Models'
   authors: Zhaoyang Li, Zhan Ling, Yuchen Zhou, Litian Gong, Erdem Bıyık, Hao Su
@@ -401,28 +461,6 @@
   month=jun
 }'
 
-- title: 'HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval'
-  authors: Matthew Hong*, Anthony Liang*, Kevin Kim, Harshitha Rajaprakash, Jesse Thomason†, Erdem Bıyık†, Jesse Zhang†
-  venue: arXiv preprint, May 2025
-  picture: /images/publications/hong2025hand.png
-  note: '* denotes equal contribution. † denotes equal advising.'
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/hong2025hand.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2505.20455
-    - type: website
-      display: Website
-      url: https://liralab.usc.edu/handretrieval/
-  bibtex: '@article{hong2025hand,
-      title={HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval}, 
-      author={Hong, Matthew and Liang, Anthony and Kim, Kevin and Rajaprakash, Harshitha and Thomason, Jesse and Bıyık, Erdem and Zhang, Jesse},
-      year={2025},
-      journal={arXiv preprint arXiv:2505.20455}
-}'
-
 
 - title: 'CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations'
   authors: Anthony Liang*, Pavel Czempin*, Matthew Hong, Yutai Zhou, Erdem Bıyık†, Stephen Tu†
@@ -441,28 +479,6 @@
       author={Liang, Anthony and Czempin, Pavel and Hong, Matthew and Zhou, Yutai and Bıyık, Erdem and Tu, Stephen},
       year={2025},
       journal={arXiv preprint arXiv:2505.04999}
-}'
-
-- title: 'IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models'
-  authors: Yiyang Ling*, Karan Owalekar*, Oluwatobiloba Adesanya, Erdem Bıyık, Daniel Seita
-  venue: arXiv preprint, March 2025
-  picture: /images/publications/ling2025impact.png
-  note: '* denotes equal contribution.'
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/ling2025impact.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2503.10110
-    - type: website
-      display: Website
-      url: https://impact-planning.github.io/
-  bibtex: '@article{ling2025impact,
-      title={IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models}, 
-      author={Ling, Yiyang and Owalekar, Karan and Adesanya, Oluwatobiloba and Bıyık, Erdem and Seita, Daniel},
-      year={2025},
-      journal={arXiv preprint arXiv:2503.10110}
 }'
   
 - title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
