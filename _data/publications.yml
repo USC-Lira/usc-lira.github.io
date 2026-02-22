@@ -25,6 +25,24 @@
 
 
 
+- title: 'ORIC: Benchmarking Object Recognition under Contextual Incongruity in Large Vision-Language Models'
+  authors: Zhaoyang Li, Zhan Ling, Yuchen Zhou, Litian Gong, Erdem Bıyık, Hao Su
+  venue: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2026
+  picture: /images/publications/li2026oric.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/li2026oric.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2509.15695
+  bibtex: '@inproceedings{li2026oric,
+      title={ORIC: Benchmarking Object Recognition under Contextual Incongruity in Large Vision-Language Models}, 
+      author={Li, Zhaoyang and Ling, Zhan and Zhou, Yuchen and Gong, Litian and Bıyık, Erdem and Su, Hao},
+      journal={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+      year={2026},
+      month=jun
+}'
 
 - title: 'AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations'
   authors: Litian Gong, Fatemeh Bahrani, Yutai Zhou, Amin Banayeeanzade, Jiachen Li, Erdem Bıyık
@@ -122,7 +140,7 @@
 
 - title: 'Causally Robust Reward Learning from Reason-Augmented Preference Feedback'
   authors: Minjune Hwang, Yigit Korkmaz, Daniel Seita†, Erdem Bıyık†
-  venue: International Conference on Learning Representations (ICLR), 2026
+  venue: International Conference on Learning Representations (ICLR), April 2026
   picture: /images/publications/hwang2026causally.png
   note: '† denotes equal advising. Also presented at RSS 2025 Workshop on Human-in-the-Loop Robot Learning and Workshop on Continual Robot Learning from Humans, June 2025 (<a href="/pdfs/publications/hwang2025causally.pdf">PDF</a>).'
   bibtex: '@inproceedings{hwang2026causally,
@@ -135,7 +153,7 @@
 
 - title: 'When a Robot is More Capable than a Human: Learning from Constrained Demonstrators'
   authors: Xinhu Li, Ayush Jain, Zhaojing Yang, Yigit Korkmaz, Erdem Bıyık
-  venue: International Conference on Learning Representations (ICLR), 2026
+  venue: International Conference on Learning Representations (ICLR), April 2026
   picture: /images/publications/li2026when.png
   links:
     - type: pdf
@@ -261,29 +279,6 @@
       author={Hirota, Eisuke and Yang, Zhaojing and Hiranaka, Ayano and Jun, Miru and Tien, Jeremy and Russell, Stuart J. and Dragan, Anca and Bıyık, Erdem},
       journal={The International Journal of Robotics Research},
       year={2025}
-}'
-
-
-- title: 'ORIC: Benchmarking Object Recognition under Contextual Incongruity in Large Vision-Language Models'
-  authors: Zhaoyang Li, Zhan Ling, Yuchen Zhou, Litian Gong, Erdem Bıyık, Hao Su
-  venue: arXiv preprint, September 2025
-  picture: /images/publications/li2025oric.png
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/li2025oric.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2509.15695
-    - type: website
-      display: Website
-      url: https://sites.google.com/view/constrainedexpert
-  bibtex: '@article{li2025oric,
-      title={ORIC: Benchmarking Object Recognition under Contextual Incongruity in Large Vision-Language Models}, 
-      author={Li, Zhaoyang and Ling, Zhan and Zhou, Yuchen and Gong, Litian and Bıyık, Erdem and Su, Hao},
-      journal={arXiv preprint arXiv:2509.15695},
-      year={2025},
-      month=sep
 }'
 
 - title: 'Training Robots with Natural and Lightweight Human Feedback'
