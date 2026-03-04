@@ -39,7 +39,7 @@
   bibtex: '@inproceedings{li2026oric,
       title={ORIC: Benchmarking Object Recognition under Contextual Incongruity in Large Vision-Language Models}, 
       author={Li, Zhaoyang and Ling, Zhan and Zhou, Yuchen and Gong, Litian and Bıyık, Erdem and Su, Hao},
-      journal={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+      booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
       year={2026},
       month=jun
 }'
@@ -171,6 +171,29 @@
       booktitle={International Conference on Learning Representations (ICLR)},
       year={2026},
       month=apr
+}'
+
+- title: 'Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons'
+  authors: Anthony Liang*, Yigit Korkmaz*, Jiahui Zhang, Minyoung Hwang, Abrar Anwar, Sidhant Kaushik, Aditya Shah, Alex S. Huang, Luke Zettlemoyer, Dieter Fox, Yu Xiang, Anqi Li, Andreea Bobu, Abhishek Gupta, Stephen Tu†, Erdem Bıyık†, Jesse Zhang†
+  venue: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2026
+  picture: /images/publications/liang2026robometer.png
+  note: '* denotes equal contribution. † denotes equal advising.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/liang2026robometer.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2603.02115
+    - type: website
+      display: Website
+      url: https://robometer.github.io/
+  bibtex: '@article{liang2026robometer,
+      title={Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons}, 
+      author={Liang, Anthony and Korkmaz, Yigit and Zhang, Jiahui and Hwang, Minyoung and Anwar, Abrar and Kaushik, Sidhant and Shah, Aditya and Huang, Alex S. and Zettlemoyer, Luke and Fox, Dieter and Xiang, Yu and Li, Anqi and Bobu, Andreea and Gupta, Abhishek and Tu, Stephen and Bıyık, Erdem and Zhang, Jesse},
+      journal={arXiv preprint arXiv:2603.02115},
+      year={2026},
+      month=mar
 }'
 
 - title: 'Value Explicit Pretraining for Learning Transferable Representations'
