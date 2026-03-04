@@ -175,7 +175,7 @@
 
 - title: 'Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons'
   authors: Anthony Liang*, Yigit Korkmaz*, Jiahui Zhang, Minyoung Hwang, Abrar Anwar, Sidhant Kaushik, Aditya Shah, Alex S. Huang, Luke Zettlemoyer, Dieter Fox, Yu Xiang, Anqi Li, Andreea Bobu, Abhishek Gupta, Stephen Tu†, Erdem Bıyık†, Jesse Zhang†
-  venue: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2026
+  venue: arXiv preprint, March 2026
   picture: /images/publications/liang2026robometer.jpeg
   note: '* denotes equal contribution. † denotes equal advising.'
   links:
