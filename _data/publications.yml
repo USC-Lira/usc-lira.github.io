@@ -214,6 +214,9 @@
   venue: IEEE Robotics and Automation Letters (RA-L), 2026
   picture: /images/publications/lekkala2026value.png
   links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/lekkala2026value.pdf
   bibtex: '@article{lekkala2026value,
       title={Value Explicit Pretraining for Learning Transferable Representations},
       author={Lekkala, Kiran Lekkala and Bao, Henghui and Sontakke, Sumedh A. and Bıyık, Erdem and Itti, Laurent},
@@ -226,6 +229,9 @@
   venue: arXiv preprint, January 2026
   picture: /images/publications/tang2026judgelight.png
   links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/tang2026judgelight.pdf
     - type: arxiv
       display: arXiv
       url: https://arxiv.org/abs/2601.19388
