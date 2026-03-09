@@ -143,6 +143,16 @@
   venue: International Conference on Learning Representations (ICLR), April 2026
   picture: /images/publications/hwang2026causally.png
   note: '† denotes equal advising. Also presented at RSS 2025 Workshop on Human-in-the-Loop Robot Learning and Workshop on Continual Robot Learning from Humans, June 2025 (<a href="/pdfs/publications/hwang2025causally.pdf">PDF</a>).'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/hwang2026causally.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2603.04861
+    - type: code
+      display: Code
+      url: https://github.com/mj-hwang/ReCouPLe
   bibtex: '@inproceedings{hwang2026causally,
       title={Causally Robust Reward Learning from Reason-Augmented Preference Feedback}, 
       author={Hwang, Minjune and Korkmaz, Yigit and Seita, Daniel and Bıyık, Erdem},
