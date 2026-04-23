@@ -27,9 +27,10 @@
 
 
 - title: 'Vibrotactile Preference Learning: Uncertainty-Aware Preference Learning for Personalized Vibration Feedback'
-  authors: Rongtao Zhang, Xin Zhu, Masoume Pourebadi Khotbehsara, Warren Dao, Erdem Bıyık, Heather Culbertson
+  authors: Rongtao Zhang*, Xin Zhu*, Masoume Pourebadi Khotbehsara, Warren Dao, Erdem Bıyık, Heather Culbertson
   venue: 34th ACM International Conference on User Modeling, Adaptation and Personalization (UMAP), June 2026
   picture: /images/publications/zhang2026vibrotactile.png
+  note: '* denotes equal contribution.'
   links:
     - type: pdf
       display: PDF
@@ -179,6 +180,9 @@
     - type: code
       display: Code
       url: https://github.com/mj-hwang/ReCouPLe
+    - type: video
+      display: Video
+      url: https://youtu.be/bySzRZuJK-Q
   bibtex: '@inproceedings{hwang2026causally,
       title={Causally Robust Reward Learning from Reason-Augmented Preference Feedback}, 
       author={Hwang, Minjune and Korkmaz, Yigit and Seita, Daniel and Bıyık, Erdem},
@@ -201,6 +205,9 @@
     - type: website
       display: Website
       url: https://sites.google.com/view/constrainedexpert
+    - type: talk
+      display: Talk
+      url: https://youtu.be/FpjHkmltoo0
   bibtex: '@inproceedings{li2026when,
       title={When a Robot is More Capable than a Human: Learning from Constrained Demonstrators}, 
       author={Li, Xinhu and Jain, Ayush and Yang, Zhaojing and Korkmaz, Yigit and Bıyık, Erdem},
