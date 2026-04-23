@@ -25,6 +25,32 @@
 
 
 
+
+- title: 'Vibrotactile Preference Learning: Uncertainty-Aware Preference Learning for Personalized Vibration Feedback'
+  authors: Rongtao Zhang, Xin Zhu, Masoume Pourebadi Khotbehsara, Warren Dao, Erdem Bıyık, Heather Culbertson
+  venue: 34th ACM International Conference on User Modeling, Adaptation and Personalization (UMAP), June 2026
+  picture: /images/publications/zhang2026vibrotactile.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/zhang2026vibrotactile.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2604.20210
+    - type: website
+      display: Website
+      url: https://isanshi.github.io/publication/vpl/
+    - type: code
+      display: Code
+      url: https://github.com/HaRVI-Lab/vibrotactile-preference-learning
+  bibtex: '@inproceedings{zhang2026vibrotactile,
+      title={Vibrotactile Preference Learning: Uncertainty-Aware Preference Learning for Personalized Vibration Feedback}, 
+      author={Zhang, Rongtao and Zhu, Xin and Khotbehsara, Masoume Pourebadi and Dao, Warren and Bıyık, Erdem and Culbertson, Heather},
+      booktitle={34th ACM International Conference on User Modeling, Adaptation and Personalization (UMAP)},
+      year={2026},
+      month=jun
+}'
+
 - title: 'ORIC: Benchmarking Object Recognition under Contextual Incongruity in Large Vision-Language Models'
   authors: Zhaoyang Li, Zhan Ling, Yuchen Zhou, Litian Gong, Erdem Bıyık, Hao Su
   venue: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2026
