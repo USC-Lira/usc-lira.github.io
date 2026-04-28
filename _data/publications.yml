@@ -24,7 +24,34 @@
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
 
-
+- title: 'Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons'
+  authors: Anthony Liang*, Yigit Korkmaz*, Jiahui Zhang, Minyoung Hwang, Abrar Anwar, Sidhant Kaushik, Aditya Shah, Alex S. Huang, Luke Zettlemoyer, Dieter Fox, Yu Xiang, Anqi Li, Andreea Bobu, Abhishek Gupta, Stephen Tu†, Erdem Bıyık†, Jesse Zhang†
+  venue: Proceedings of Robotics: Science and Systems (RSS), July 2026
+  picture: /images/publications/liang2026robometer.jpeg
+  note: '* denotes equal contribution. † denotes equal advising.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/liang2026robometer.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2603.02115
+    - type: website
+      display: Website
+      url: https://robometer.github.io/
+    - type: code
+      display: Code
+      url: https://github.com/robometer/robometer
+    - type: video
+      display: Video
+      url: https://youtu.be/W72orqvK0ws
+  bibtex: '@inproceedings{liang2026robometer,
+      title={Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons}, 
+      author={Liang, Anthony and Korkmaz, Yigit and Zhang, Jiahui and Hwang, Minyoung and Anwar, Abrar and Kaushik, Sidhant and Shah, Aditya and Huang, Alex S. and Zettlemoyer, Luke and Fox, Dieter and Xiang, Yu and Li, Anqi and Bobu, Andreea and Gupta, Abhishek and Tu, Stephen and Bıyık, Erdem and Zhang, Jesse},
+      booktitle={Proceedings of Robotics: Science and Systems (RSS)},
+      year={2026},
+      month=jul
+}'
 
 - title: 'Vibrotactile Preference Learning: Uncertainty-Aware Preference Learning for Personalized Vibration Feedback'
   authors: Rongtao Zhang*, Xin Zhu*, Masoume Pourebadi Khotbehsara, Warren Dao, Erdem Bıyık, Heather Culbertson
@@ -214,35 +241,6 @@
       booktitle={International Conference on Learning Representations (ICLR)},
       year={2026},
       month=apr
-}'
-
-- title: 'Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons'
-  authors: Anthony Liang*, Yigit Korkmaz*, Jiahui Zhang, Minyoung Hwang, Abrar Anwar, Sidhant Kaushik, Aditya Shah, Alex S. Huang, Luke Zettlemoyer, Dieter Fox, Yu Xiang, Anqi Li, Andreea Bobu, Abhishek Gupta, Stephen Tu†, Erdem Bıyık†, Jesse Zhang†
-  venue: arXiv preprint, March 2026
-  picture: /images/publications/liang2026robometer.jpeg
-  note: '* denotes equal contribution. † denotes equal advising.'
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/liang2026robometer.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2603.02115
-    - type: website
-      display: Website
-      url: https://robometer.github.io/
-    - type: code
-      display: Code
-      url: https://github.com/robometer/robometer
-    - type: video
-      display: Video
-      url: https://youtu.be/W72orqvK0ws
-  bibtex: '@article{liang2026robometer,
-      title={Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons}, 
-      author={Liang, Anthony and Korkmaz, Yigit and Zhang, Jiahui and Hwang, Minyoung and Anwar, Abrar and Kaushik, Sidhant and Shah, Aditya and Huang, Alex S. and Zettlemoyer, Luke and Fox, Dieter and Xiang, Yu and Li, Anqi and Bobu, Andreea and Gupta, Abhishek and Tu, Stephen and Bıyık, Erdem and Zhang, Jesse},
-      journal={arXiv preprint arXiv:2603.02115},
-      year={2026},
-      month=mar
 }'
 
 - title: 'Value Explicit Pretraining for Learning Transferable Representations'
@@ -494,6 +492,22 @@
       year={2025},
       month=jun,
       booktitle={Proceedings of Robotics: Science and Systems (RSS)}
+}'
+
+- title: 'Improving Reward Learning by Estimating Annotator Expertise'
+  authors: Pavel Czempin, Rachel Freedman, Ellen Novoseller, Vernon Lawhern, Cameron Allen, Erdem Bıyık
+  venue: RSS 2025 Workshop on Continual Robot Learning from Humans, June 2025
+  picture: /images/publications/czempin2025improving.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/czempin2025improving.pdf
+  bibtex: '@inproceedings{czempin2025improving,
+      title={Improving Reward Learning by Estimating Annotator Expertise}, 
+      author={Czempin, Pavel and Freedman, Rachel and Novoseller, Ellen and Lawhern, Vernon and Allen, Cameron and Bıyık, Erdem},
+      booktitle={RSS 2025 Workshop on Continual Robot Learning from Humans},
+      year={2025},
+      month=jun
 }'
 
 - title: 'MILE: Model-based Intervention Learning'
