@@ -251,6 +251,9 @@
     - type: pdf
       display: PDF
       url: /pdfs/publications/lekkala2026value.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2312.12339
   bibtex: '@article{lekkala2026value,
       title={Value Explicit Pretraining for Learning Transferable Representations},
       author={Lekkala, Kiran Lekkala and Bao, Henghui and Sontakke, Sumedh A. and Bıyık, Erdem and Itti, Laurent},
@@ -302,6 +305,9 @@
     - type: pdf
       display: PDF
       url: /pdfs/publications/korkmaz2025actor.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2510.18828
     - type: code
       display: Code
       url: https://github.com/USC-Lira/Q3C
