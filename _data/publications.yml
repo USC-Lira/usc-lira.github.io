@@ -53,6 +53,25 @@
       month=jul
 }'
 
+- title: 'Judgelight: Trajectory-Level Post-Optimization for Multi-Agent Path Finding via Closed-Subwalk Collapsing'
+  authors: Yimin Tang, Sven Koenig, Erdem Bıyık
+  venue: Proceedings of the 17th World Symposium on Algorithmic Foundations of Robotics (WAFR), June 2026
+  picture: /images/publications/tang2026judgelight.png
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/tang2026judgelight.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2601.19388
+  bibtex: '@inproceedings{tang2026judgelight,
+      title={Judgelight: Trajectory-Level Post-Optimization for Multi-Agent Path Finding via Closed-Subwalk Collapsing}, 
+      author={Tang, Yimin and Koenig, Sven and Bıyık, Erdem},
+      booktitle={Proceedings of the 17th World Symposium on Algorithmic Foundations of Robotics (WAFR)},
+      year={2026},
+      month=jun
+}'
+
 - title: 'Vibrotactile Preference Learning: Uncertainty-Aware Preference Learning for Personalized Vibration Feedback'
   authors: Rongtao Zhang*, Xin Zhu*, Masoume Pourebadi Khotbehsara, Warren Dao, Erdem Bıyık, Heather Culbertson
   venue: 34th ACM International Conference on User Modeling, Adaptation and Personalization (UMAP), June 2026
@@ -188,7 +207,24 @@
       title={PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies}, 
       author={Zhang, Jesse and Memmel, Marius and Kim, Kevin and Fox, Dieter and Thomason, Jesse and Ramos, Fabio and Bıyık, Erdem and Gupta, Abhishek and Li, Anqi},
       booktitle={International Conference on Robotics and Automation (ICRA)},
-      year={2025},
+      year={2026},
+      month=jun
+}'
+
+- title: 'Data-efficient Robot Learning using Natural Human Guidance'
+  authors: Anthony Liang
+  venue: CS Department, University of Southern California, June 2026
+  picture: /images/publications/liang2026data.png
+  note: Ph.D. Dissertation
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/liang2026data.pdf
+  bibtex: '@phdthesis{liang2026data,
+      title={Data-efficient Robot Learning using Natural Human Guidance},
+      author={Liang, Anthony},
+      school = {CS Department, University of Southern California},
+      year={2026},
       month=jun
 }'
 
@@ -261,27 +297,8 @@
       year={2026}
 }'
 
-- title: 'Judgelight: Trajectory-Level Post-Optimization for Multi-Agent Path Finding via Closed-Subwalk Collapsing'
-  authors: Yimin Tang, Sven Koenig, Erdem Bıyık
-  venue: arXiv preprint, January 2026
-  picture: /images/publications/tang2026judgelight.png
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/tang2026judgelight.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2601.19388
-  bibtex: '@article{tang2026judgelight,
-      title={Judgelight: Trajectory-Level Post-Optimization for Multi-Agent Path Finding via Closed-Subwalk Collapsing}, 
-      author={Tang, Yimin and Koenig, Sven and Biyik, Erdem},
-      journal={arXiv preprint arXiv:2601.19388},
-      year={2026},
-      month=jan
-}'
-
 - title: 'SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping'
-  authors: Ruopeng Huang, Boyu Yang, Wenlong Gui, Jeremy Morgan, Erdem Biyik, Jiachen Li
+  authors: Ruopeng Huang, Boyu Yang, Wenlong Gui, Jeremy Morgan, Erdem Bıyık, Jiachen Li
   venue: arXiv preprint, January 2026
   picture: /images/publications/huang2026synctwin.png
   links:
@@ -290,7 +307,7 @@
       url: https://arxiv.org/abs/2601.09920
   bibtex: '@article{huang2026synctwin,
       title={SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping}, 
-      author={Huang, Ruopeng and Yang, Boyu and Gui, Wenlong and Morgan, Jeremy and Biyik, Erdem and Li, Jiachen},
+      author={Huang, Ruopeng and Yang, Boyu and Gui, Wenlong and Morgan, Jeremy and Bıyık, Erdem and Li, Jiachen},
       journal={arXiv preprint arXiv:2601.09920},
       year={2026},
       month=jan
