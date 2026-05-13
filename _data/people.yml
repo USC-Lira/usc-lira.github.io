@@ -243,18 +243,6 @@
     - type: scholar
       url: https://scholar.google.com/citations?user=3tdMZ68AAAAJ
 
-- name: Zhaoyang Li
-  picture: /images/people/zhaoyang.png
-  home_url: https://zhaoyangli-1.github.io/
-  description: Zhaoyang is a visiting researcher in Lira Lab.
-  rank: visiting
-  links:
-    - type: scholar
-      url: https://scholar.google.com/citations?user=iCpe5u0AAAAJ&hl=en
-    - type: github
-      url: https://github.com/ZhaoyangLi-1
-
-
 # Alumni PhDs
 - name: Jesse Zhang
   picture: /images/people/jesse.jpg
