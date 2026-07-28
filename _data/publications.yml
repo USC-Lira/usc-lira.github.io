@@ -23,6 +23,54 @@
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
+- title: 'CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations'
+  authors: Anthony Liang*, Pavel Czempin*, Matthew Hong, Yutai Zhou, Erdem Bıyık†, Stephen Tu†
+  venue: International Conference on Intelligent Robots and Systems (IROS), October 2026
+  picture: /images/publications/liang2025clam.png
+  note: '* denotes equal contribution. † denotes equal advising.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/liang2025clam.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2505.04999
+    - type: website
+      display: Website
+      url: https://clamrobot.github.io/
+    - type: code
+      display: Code
+      url: https://github.com/clamrobot/clam
+  bibtex: '@inproceedings{liang2025clam,
+      title={CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations}, 
+      author={Liang, Anthony and Czempin, Pavel and Hong, Matthew and Zhou, Yutai and Bıyık, Erdem and Tu, Stephen},
+      booktitle={International Conference on Intelligent Robots and Systems (IROS)},
+      year={2026},
+      month=oct
+}'
+
+- title: 'Fix the Mind, Not the Move: Interpretable AI Assistance via Knowledge-Gap Localization'
+  authors: Ayano Hiranaka*, Ya-Chuan Hsu*, Stefanos Nikolaidis, Erdem Bıyık†, Daniel Seita†
+  venue: International Conference on Machine Learning (ICML), July 2026
+  picture: /images/publications/hiranaka2026fix.png
+  note: '* denotes equal contribution. † denotes equal advising.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/hiranaka2026fix.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2606.05602
+    - type: website
+      display: Website
+      url: https://misoshiruseijin.github.io/SENSEI/
+  bibtex: '@inproceedings{hiranaka2026fix,
+      title={Fix the Mind, Not the Move: Interpretable AI Assistance via Knowledge-Gap Localization}, 
+      author={Hiranaka, Ayano and Hsu, Ya-Chuan and Nikolaidis, Stefanos and Bıyık, Erdem and Seita, Daniel},
+      booktitle={International Conference on Machine Learning (ICML)},
+      year={2026},
+      month=jul
+}'
 
 - title: 'Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons'
   authors: Anthony Liang*, Yigit Korkmaz*, Jiahui Zhang, Minyoung Hwang, Abrar Anwar, Sidhant Kaushik, Aditya Shah, Alex S. Huang, Luke Zettlemoyer, Dieter Fox, Yu Xiang, Anqi Li, Andreea Bobu, Abhishek Gupta, Stephen Tu†, Erdem Bıyık†, Jesse Zhang†
@@ -603,26 +651,6 @@
   month=jun
 }'
 
-
-- title: 'CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations'
-  authors: Anthony Liang*, Pavel Czempin*, Matthew Hong, Yutai Zhou, Erdem Bıyık†, Stephen Tu†
-  venue: arXiv preprint, May 2025
-  picture: /images/publications/liang2025clam.png
-  note: '* denotes equal contribution. † denotes equal advising.'
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/liang2025clam.pdf
-    - type: arxiv
-      display: arXiv
-      url: https://arxiv.org/abs/2505.04999
-  bibtex: '@article{liang2025clam,
-      title={CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations}, 
-      author={Liang, Anthony and Czempin, Pavel and Hong, Matthew and Zhou, Yutai and Bıyık, Erdem and Tu, Stephen},
-      year={2025},
-      journal={arXiv preprint arXiv:2505.04999}
-}'
-  
 - title: 'DynaMITE-RL: A Dynamic Model for Improved Temporal Meta-Reinforcement Learning'
   authors: Anthony Liang, Guy Tennenholtz, Chih-wei Hsu, Yinlam Chow, Erdem Bıyık, Craig Boutilier
   venue: Conference on Neural Information Processing Systems (NeurIPS), December 2024

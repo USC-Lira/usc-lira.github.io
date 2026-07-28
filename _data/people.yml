@@ -15,24 +15,10 @@
       url: https://x.com/ebiyik_
 
 # Phd students      
-- name: Anthony Liang
-  picture: /images/people/anthony.jpg
-  home_url: http://aliang8.github.io
-  description: Anthony is a PhD student in the Computer Science Department. He is interested in leveraging human and learned priors for improving RL training efficiency and generalization. He is also interested in meta-RL and generative models with applications in robotics.
-  rank: phd
-  coadvisor: Stephen Tu
-  links:
-    - type: scholar
-      url: https://scholar.google.co.il/citations?user=LjmRrbUAAAAJ&hl=en
-    - type: github
-      url: https://github.com/aliang8/
-    - type: twitter
-      url: https://x.com/Anthony66108836/
-
 - name: Pavel Czempin
   picture: /images/people/pavel.jpg
   home_url: https://www.czemp.in/
-  description: Pavel is a PhD student in the Computer Science Department. He works on improving reinforcement learning from human feedback for large pretrained models and unsupervised learning from videos for sequential decision making.
+  description: Pavel is a PhD student in the Computer Science Department. He is interested in generalization and safe off-distribution behavior in reinforcement learning, robot learning, and trustworthy AI.
   rank: phd
   links:
     - type: scholar
@@ -73,6 +59,7 @@
   picture: /images/people/yutai.png
   description: Yutai is a PhD student in the Computer Science Department. He is broadly interested in inverse reinforcement learning from human preferences and imitation learning from partially observable data. He is currently keen on learning more about Bayesian deep learning and JAX.
   rank: phd
+  coadvisor: Stephen Tu
   links:
     - type: scholar
       url: https://scholar.google.com/citations?user=035GLzIAAAAJ&hl=en
@@ -120,25 +107,6 @@
     - type: twitter
       url: https://x.com/yusen_2001
 
-- name: Abha Jha
-  picture: /images/people/abha.jpg
-  description: Abha is an MS student in the Computer Science Department.
-  rank: ms
-  links:
-    - type: scholar
-      url: https://scholar.google.com/citations?user=3-4adIAAAAAJ&hl=en
-    - type: github
-      url: https://github.com/Abha2001
-
-- name: Asmaa Hassan
-  picture: /images/people/asmaa.jpg
-  home_url: https://www.linkedin.com/in/asmaa-hassan-fulbright/
-  description: Asmaa is an MS student in the Computer Science Department.
-  rank: ms
-  links:
-    - type: github
-      url: https://github.com/gitasma
-
 - name: Cagan Bakirci
   picture: /images/people/cagan.jpg
   home_url: http://caganbakirci.github.io/
@@ -148,15 +116,6 @@
     - type: github
       url: https://github.com/caganbakirci
 
-- name: Ruopeng Huang
-  picture: /images/people/ruopeng.jpg
-  home_url: https://huangruopeng.github.io/
-  description: Ruopeng is an MS student in the Computer Science Department.
-  rank: ms
-  links:
-    - type: scholar
-      url: https://scholar.google.com/citations?hl=en&user=b3PTzgcAAAAJ
-      
 - name: Eisuke Hirota
   picture: /images/people/eisuke.png
   home_url: https://ei5uke.github.io/
@@ -189,15 +148,6 @@
     - type: twitter
       url: https://x.com/minjunkevink
       
-- name: Ashley Lan
-  picture: /images/people/ashley.png
-  home_url: https://www.linkedin.com/in/ashleylan/
-  description: Ashley is an undergraduate in the Computer Science and Business Administration Departments.
-  rank: ug
-  links:
-    - type: github
-      url: https://github.com/ashleylan111
-
 - name: Alina Du
   picture: /images/people/alina.jpg
   home_url: https://www.linkedin.com/in/xintong-du-553134327/
@@ -205,35 +155,7 @@
   rank: ug
   links:
 
-- name: Jingzhen Wang
-  picture: /images/people/jingzhen.jpg
-  home_url: https://www.linkedin.com/in/jingzhen-wang
-  description: Jingzhen is an undergrduate in the Computer Science Department.
-  rank: ug
-  links:
-    - type: scholar
-      url: https://scholar.google.com/citations?user=N-gP_6EAAAAJ&hl=en
-    - type: github
-      url: https://github.com/Dionysssss
-
-- name: Phillip Suh
-  picture: /images/people/philip.jpg
-  description: Phillip is an undergrduate in the Computer Science and Business Administration Departments.
-  rank: ug
-  links:
-
 # Visiting researchers
-- name: Xinhu Li
-  picture: /images/people/xinhu.png
-  home_url: https://xhlsgit.github.io/
-  description: Xinhu is a visiting researcher in Lira Lab.
-  rank: visiting
-  links:
-    - type: scholar
-      url: https://scholar.google.com/citations?user=hXXnM74AAAAJ&hl=en
-    - type: github
-      url: https://github.com/xhlsgit
-      
 - name: Fatemeh Bahrani
   picture: /images/people/fatemeh.jpg
   home_url: https://nfbahrani.github.io/
@@ -244,6 +166,20 @@
       url: https://scholar.google.com/citations?user=3tdMZ68AAAAJ
 
 # Alumni PhDs
+- name: Anthony Liang
+  picture: /images/people/anthony.jpg
+  home_url: http://aliang8.github.io
+  description: 'PhD, CS (Next: Research Scientist at Toyota Research Institute)'
+  rank: alumnidrs
+  coadvisor: Stephen Tu
+  links:
+    - type: scholar
+      url: https://scholar.google.co.il/citations?user=LjmRrbUAAAAJ&hl=en
+    - type: github
+      url: https://github.com/aliang8/
+    - type: twitter
+      url: https://x.com/Anthony66108836/
+
 - name: Jesse Zhang
   picture: /images/people/jesse.jpg
   home_url: http://jesbu1.github.io/
@@ -279,7 +215,7 @@
 - name: Sumedh Sontakke
   picture: /images/people/sumedh.png
   home_url: https://sumedh7.github.io/
-  description: 'PhD, CS (Next: Applied Scientist at Amazon Robotics)'
+  description: 'PhD, CS (Next: Member of Technical Staff at Amazon Frontier AI and Robotics)'
   rank: alumnidrs
   coadvisor: Laurent Itti
   thesis_title: Foundation Models for Embodied AI
@@ -293,6 +229,56 @@
       url: https://x.com/SOTA_kke
 
 # Other alumni
+- name: Asmaa Hassan
+  picture: /images/people/asmaa.jpg
+  home_url: https://www.linkedin.com/in/asmaa-hassan-fulbright/
+  description: 'MS, CS 2026 (Next: PhD at USC)'
+  rank: alumni
+  links:
+    - type: github
+      url: https://github.com/gitasma
+
+- name: Abha Jha
+  picture: /images/people/abha.jpg
+  description: 'MS, CS 2026 (Next: Founding Engineer at One Zyme)'
+  rank: alumni
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=3-4adIAAAAAJ&hl=en
+    - type: github
+      url: https://github.com/Abha2001
+
+- name: Ruopeng Huang
+  picture: /images/people/ruopeng.jpg
+  home_url: https://huangruopeng.github.io/
+  description: 'MS, CS 2025 (Next: PhD at UCLA)'
+  rank: alumni
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?hl=en&user=b3PTzgcAAAAJ
+
+- name: Zhaoyang Li
+  picture: /images/people/zhaoyang.png
+  home_url: https://zhaoyangli-1.github.io/
+  description: 'Visiting Researcher (Next: PhD at Rutgers University)'
+  rank: alumni
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=iCpe5u0AAAAJ&hl=en
+    - type: github
+      url: https://github.com/ZhaoyangLi-1
+
+- name: Xinhu Li
+  picture: /images/people/xinhu.png
+  home_url: https://xhlsgit.github.io/
+  description: 'Visiting Researcher (Next: PhD at National University of Singapore)'
+  rank: alumni
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=hXXnM74AAAAJ&hl=en
+    - type: github
+      url: https://github.com/xhlsgit
+
 - name: Dhanush Varma
   picture: /images/people/dhanush.png
   description: 'MS, CS 2025 (Next: PhD at University of Colorado Boulder)'
@@ -304,7 +290,7 @@
 - name: Matthew Hong
   picture: /images/people/matthew.png
   home_url: https://matthewh6.github.io/
-  description: 'MS, CS 2025 (Next: Visiting Researcher at University of Washington)'
+  description: 'MS, CS 2025 (Next: PhD at UT Austin)'
   rank: alumni
   links:
     - type: github
