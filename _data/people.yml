@@ -172,6 +172,17 @@
   description: Julia is an MS student in the Computer Science Department.
   rank: ms
 
+- name: Mousumi Das
+  picture: /images/people/mousumi.png
+  home_url: http://mousumidas625.github.io/
+  description: Mousumi is an MS student in the Electrical and Computer Engineering Department.
+  rank: ms
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=vk9HwnEAAAAJ&hl=en
+    - type: github
+      url: https://github.com/MousumiDas625
+
 - name: Yusen Luo
   picture: /images/people/yusen.png
   description: Yusen is an MS student in the Computer Science Department.
