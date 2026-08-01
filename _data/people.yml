@@ -185,9 +185,12 @@
 
 - name: Yusen Luo
   picture: /images/people/yusen.png
+  home_url: https://andreasl9z.github.io/yusenluo.github.io/
   description: Yusen is an MS student in the Computer Science Department.
   rank: ms
   links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=pwe906kAAAAJ&hl=en&authuser=1
     - type: github
       url: https://github.com/AndreasL9z
     - type: twitter
@@ -233,7 +236,7 @@
 - name: Yifan Song
   picture: /images/people/yifan.png
   home_url: https://www.linkedin.com/in/yifan-song-54793b291
-  description: Yifan is an undergrduate in the Computer Science andApplied Mathematics Departments.
+  description: Yifan is an undergrduate in the Computer Science an Applied Mathematics Departments.
   rank: ug
 
 
