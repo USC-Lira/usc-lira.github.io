@@ -58,7 +58,8 @@
 
 - name: Yutai Zhou
   picture: /images/people/yutai.png
-  description: Yutai is a PhD student in the Computer Science Department. He is broadly interested in inverse reinforcement learning from human preferences and imitation learning from partially observable data. He is currently keen on learning more about Bayesian deep learning and JAX.
+  home_url: https://yutaizhou.github.io/
+  description: Yutai is a PhD student in the Computer Science Department. He is broadly interested reinforcement learning from preference feedback, disentangled representation learning, and offline robotic policy evaluation.
   rank: phd
   coadvisor: Stephen Tu
   links:
