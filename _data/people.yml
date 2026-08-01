@@ -14,6 +14,7 @@
     - type: twitter
       url: https://x.com/ebiyik_
 
+
 # Phd students      
 - name: Pavel Czempin
   picture: /images/people/pavel.jpg
@@ -97,15 +98,23 @@
 
 
 # MS students      
-- name: Yusen Luo
-  picture: /images/people/yusen.png
-  description: Yusen is an MS student in the Computer Science Department.
+- name: Abhinav Srivatsa
+  picture: /images/people/abhinav.png
+  home_url: https://www.linkedin.com/in/adsrivatsa
+  description: Abhinav is an MS student in the Computer Science Department.
   rank: ms
   links:
     - type: github
-      url: https://github.com/AndreasL9z
-    - type: twitter
-      url: https://x.com/yusen_2001
+      url: https://github.com/adsrivatsa
+
+- name: Aditeya Kamlesh Prajapati
+  picture: /images/people/aditeya.png
+  home_url: https://www.linkedin.com/in/aditeyaprajapati/
+  description: Aditeya is an MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=WuXQ9nkAAAAJ
 
 - name: Cagan Bakirci
   picture: /images/people/cagan.jpg
@@ -127,16 +136,60 @@
     - type: github
       url: https://github.com/ei5uke
 
-
-# Undergraduates
-- name: Urvi Bhuwania
-  picture: /images/people/urvi.jpg
-  description: Urvi is an undergraduate in the Computer Science Department.
-  rank: ug
+- name: Haiyun Lyu
+  picture: /images/people/haiyun.png
+  home_url: https://onceinabluemoon1.github.io/
+  description: Haiyun is an MS student in the Computer Science Department.
+  rank: ms
   links:
     - type: github
-      url: https://github.com/urvib3
-      
+      url: https://github.com/Onceinabluemoon1
+
+- name: Haobai Zhan
+  picture: /images/people/haobai.png
+  home_url: https://www.linkedin.com/in/haobai-zhan-901686374
+  description: Haobai is an MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: github
+      url: https://github.com/Jack20030123
+
+- name: Hugo Albert Bonet
+  picture: /images/people/hugo.png
+  home_url: https://linkedin.com/in/hugoalbert
+  description: Hugo is an MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?user=EhPcpxwAAAAJ&hl=en
+    - type: github
+      url: https://github.com/HugoAlbertBonet
+
+- name: Julia Chun
+  picture: /images/people/julia.jpg
+  home_url: https://www.linkedin.com/in/julia-chun-73a430386/
+  description: Julia is an MS student in the Computer Science Department.
+  rank: ms
+
+- name: Yusen Luo
+  picture: /images/people/yusen.png
+  description: Yusen is an MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: github
+      url: https://github.com/AndreasL9z
+    - type: twitter
+      url: https://x.com/yusen_2001
+
+
+# Undergraduates
+- name: Alina Du
+  picture: /images/people/alina.jpg
+  home_url: https://www.linkedin.com/in/xintong-du-553134327/
+  description: Alina is an undergrduate in the Computer Science and Applied Mathematics Departments.
+  rank: ug
+  links:
+
 - name: Kevin Kim
   picture: /images/people/kevin.png
   home_url: https://jundyque.life/
@@ -147,13 +200,30 @@
       url: https://github.com/minjunkevink
     - type: twitter
       url: https://x.com/minjunkevink
-      
-- name: Alina Du
-  picture: /images/people/alina.jpg
-  home_url: https://www.linkedin.com/in/xintong-du-553134327/
-  description: Alina is an undergrduate in the Computer Science and Applied Mathematics Departments.
+
+- name: Ryan Li
+  picture: /images/people/ryan.png
+  home_url: https://www.linkedin.com/in/wendi-li-b0162a288/
+  description: Ryan is an undergrduate in the Applied Mathematics Department.
   rank: ug
   links:
+    - type: github
+      url: https://github.com/ryanliwendi
+
+- name: Urvi Bhuwania
+  picture: /images/people/urvi.jpg
+  description: Urvi is an undergraduate in the Computer Science Department.
+  rank: ug
+  links:
+    - type: github
+      url: https://github.com/urvib3
+
+- name: Yifan Song
+  picture: /images/people/yifan.png
+  home_url: https://www.linkedin.com/in/yifan-song-54793b291
+  description: Yifan is an undergrduate in the Computer Science andApplied Mathematics Departments.
+  rank: ug
+
 
 # Visiting researchers
 - name: Fatemeh Bahrani
@@ -165,6 +235,7 @@
     - type: scholar
       url: https://scholar.google.com/citations?user=3tdMZ68AAAAJ
 
+
 # Alumni PhDs
 - name: Anthony Liang
   picture: /images/people/anthony.jpg
@@ -172,6 +243,8 @@
   description: 'PhD, CS (Next: Research Scientist at Toyota Research Institute)'
   rank: alumnidrs
   coadvisor: Stephen Tu
+  thesis_title: Data-efficient Robot Learning using Natural Human Guidance
+  thesis_url: /pdfs/publications/liang2026guidance.pdf
   links:
     - type: scholar
       url: https://scholar.google.co.il/citations?user=LjmRrbUAAAAJ&hl=en
@@ -227,6 +300,7 @@
       url: https://github.com/sumedh7
     - type: twitter
       url: https://x.com/SOTA_kke
+
 
 # Other alumni
 - name: Asmaa Hassan
