@@ -117,6 +117,24 @@
     - type: scholar
       url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=WuXQ9nkAAAAJ
 
+- name: Alekya Ramani Nalagandla
+  picture: /images/people/alekya.png
+  home_url: https://www.linkedin.com/in/alekya-r-nalagandla/
+  description: Alekya is an MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: github
+      url: https://github.com/Lexi-cod
+
+- name: Anirudh Kavle
+  picture: /images/people/anirudh.png
+  home_url: https://www.linkedin.com/in/anirudhkavle28/
+  description: Anirudh is an MS student in the Computer Science Department.
+  rank: ms
+  links:
+    - type: github
+      url: https://github.com/Anirudh-Kavle
+
 - name: Cagan Bakirci
   picture: /images/people/cagan.jpg
   home_url: http://caganbakirci.github.io/
@@ -211,6 +229,15 @@
   description: Aric is an undergrduate in the Electrical and Computer Engineering Department.
   rank: ug
   links:
+
+- name: Austin Tsai
+  picture: /images/people/austin.png
+  home_url: http://www.linkedin.com/in/austintsaiusc
+  description: Austin is an undergrduate in the Computer Science Department.
+  rank: ug
+  links:
+    - type: github
+      url: https://github.com/atsai488
 
 - name: Kevin Kim
   picture: /images/people/kevin.png
