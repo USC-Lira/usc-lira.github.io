@@ -15,6 +15,21 @@
       url: https://x.com/ebiyik_
 
 
+# Postdocs
+- name: Ruiqi Wang
+  picture: /images/people/ruiqi.jpg
+  home_url: https://r7-robot.github.io/
+  description: Ruiqi is a postdoctoral fellow in the Department of Computer Science. He received his Ph.D. from Purdue University. His research focuses on enabling robots to learn efficiently from humans and align with human intent.
+  rank: postdoc
+  links:
+    - type: scholar
+      url: https://scholar.google.com/citations?hl=en&user=b6LHm70AAAAJ
+    - type: github
+      url: https://github.com/R7-Robot
+    - type: linkedin
+      url: https://www.linkedin.com/in/ruiqi-wang-41762b207
+
+
 # Phd students      
 - name: Pavel Czempin
   picture: /images/people/pavel.jpg
