@@ -166,7 +166,7 @@ people_buttons:
   scholar:  'ai ai-google-scholar-square'
   home:     'fa fa-home'
   github:   'fab fa-github'
-  twitter:  'fab fa-twitter'
+  twitter:  'fa-brands fa-x-twitter'
   cv:       'ai ai-cv-square'
   thesis:   'fa fa-book'
   linkedin: 'fab fa-linkedin'

@@ -19,7 +19,7 @@
 - name: Ruiqi Wang
   picture: /images/people/ruiqi.jpg
   home_url: https://r7-robot.github.io/
-  description: Ruiqi is a postdoctoral fellow in the Department of Computer Science. He received his Ph.D. from Purdue University. His research focuses on enabling robots to learn efficiently from humans and align with human intent.
+  description: Ruiqi is a postdoctoral fellow in the Computer Science Department. He received his Ph.D. from Purdue University. His research focuses on enabling robots to learn efficiently from humans and align with human intent.
   rank: postdoc
   links:
     - type: scholar
