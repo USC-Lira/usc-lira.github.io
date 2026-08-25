@@ -24,7 +24,7 @@
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
 - title: 'CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations'
-  authors: Anthony Liang*, Pavel Czempin*, Matthew Hong, Yutai Zhou, Erdem Bıyık†, Stephen Tu†
+  authors: Anthony Liang*, Pavel Czempin*, Matthew Hong, Yutai Zhou, Jingzhen Wang, Erdem Bıyık†, Stephen Tu†
   venue: International Conference on Intelligent Robots and Systems (IROS), October 2026
   picture: /images/publications/liang2025clam.png
   note: '* denotes equal contribution. † denotes equal advising.'
@@ -345,6 +345,36 @@
       year={2026}
 }'
 
+- title: 'Active Reward Learning and Iterative Trajectory Improvement from Comparative Language Feedback'
+  authors: Eisuke Hirota*, Zhaojing Yang*, Ayano Hiranaka, Miru Jun, Jeremy Tien, Stuart J. Russell, Anca Dragan, Erdem Bıyık
+  venue: International Journal of Robotics Research (IJRR), 2026
+  picture: /images/publications/hirota2026active.png
+  note: '* denotes equal contribution.'
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/hirota2026active.pdf
+    - type: website
+      display: Website
+      url: https://liralab.usc.edu/comparative-language-feedback/
+    - type: code
+      display: Code
+      url: https://github.com/USC-Lira/language_active_learning
+    - type: doi
+      display: DOI
+      url: https://doi.org/10.1177/027836492513947
+  bibtex: '@article{hirota2026active,
+      title={Active Reward Learning and Iterative Trajectory Improvement from Comparative Language Feedback},
+      author={Hirota, Eisuke and Yang, Zhaojing and Hiranaka, Ayano and Jun, Miru and Tien, Jeremy and Russell, Stuart J. and Dragan, Anca and Bıyık, Erdem},
+      journal={The International Journal of Robotics Research},
+      volume={45},
+      number={9},
+      pages={1367--1387},
+      year={2026},
+      publisher={SAGE Publications Sage UK: London, England}
+}'
+
+
 - title: 'SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping'
   authors: Ruopeng Huang, Boyu Yang, Wenlong Gui, Jeremy Morgan, Erdem Bıyık, Jiachen Li
   venue: arXiv preprint, January 2026
@@ -401,31 +431,6 @@
       journal={ACM Transactions on Human-Robot Interaction (THRI)},
       year={2025},
       month=dec
-}'
-
-- title: 'Active Reward Learning and Iterative Trajectory Improvement from Comparative Language Feedback'
-  authors: Eisuke Hirota*, Zhaojing Yang*, Ayano Hiranaka, Miru Jun, Jeremy Tien, Stuart J. Russell, Anca Dragan, Erdem Bıyık
-  venue: International Journal of Robotics Research (IJRR), 2025
-  picture: /images/publications/hirota2025active.png
-  note: '* denotes equal contribution.'
-  links:
-    - type: pdf
-      display: PDF
-      url: /pdfs/publications/hirota2025active.pdf
-    - type: website
-      display: Website
-      url: https://liralab.usc.edu/comparative-language-feedback/
-    - type: code
-      display: Code
-      url: https://github.com/USC-Lira/language_active_learning
-    - type: doi
-      display: DOI
-      url: https://doi.org/10.1177/027836492513947
-  bibtex: '@article{hirota2025active,
-      title={Active Reward Learning and Iterative Trajectory Improvement from Comparative Language Feedback},
-      author={Hirota, Eisuke and Yang, Zhaojing and Hiranaka, Ayano and Jun, Miru and Tien, Jeremy and Russell, Stuart J. and Dragan, Anca and Bıyık, Erdem},
-      journal={The International Journal of Robotics Research},
-      year={2025}
 }'
 
 - title: 'Training Robots with Natural and Lightweight Human Feedback'
