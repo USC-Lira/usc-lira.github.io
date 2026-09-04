@@ -23,6 +23,26 @@
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
+- title: 'Subspace Inference Enables Efficient Active Reward Learning from Preferences'
+  authors: Yutai Zhou, Erdem Bıyık
+  venue: Transactions on Machine Learning Research (TMLR), 2026
+  links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/zhou2026subspace.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2609.04066
+    - type: code
+      display: Code
+      url: https://github.com/yutaizhou/bnn_pref
+  bibtex: '@article{zhou2026subspace,
+  title={Subspace Inference Enables Efficient Active Reward Learning from Preferences},
+  author={Zhou, Yutai and Bıyık, Erdem},
+  journal={Transactions on Machine Learning Research (TMLR)},
+  year={2026},
+}'
+
 - title: 'CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations'
   authors: Anthony Liang*, Pavel Czempin*, Matthew Hong, Yutai Zhou, Jingzhen Wang, Erdem Bıyık†, Stephen Tu†
   venue: International Conference on Intelligent Robots and Systems (IROS), October 2026
