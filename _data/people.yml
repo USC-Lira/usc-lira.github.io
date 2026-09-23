@@ -114,15 +114,6 @@
 
 
 # MS students      
-- name: Abhinav Srivatsa
-  picture: /images/people/abhinav.png
-  home_url: https://www.linkedin.com/in/adsrivatsa
-  description: Abhinav is an MS student in the Computer Science Department.
-  rank: ms
-  links:
-    - type: github
-      url: https://github.com/adsrivatsa
-
 - name: Aditeya Kamlesh Prajapati
   picture: /images/people/aditeya.png
   home_url: https://www.linkedin.com/in/aditeyaprajapati/
@@ -367,6 +358,15 @@
 
 
 # Other alumni
+- name: Abhinav Srivatsa
+  picture: /images/people/abhinav.png
+  home_url: https://www.linkedin.com/in/adsrivatsa
+  description: 'MS, CS 2026 (Next: Founding Software Engineer at Constellation Space)'
+  rank: ms
+  links:
+    - type: github
+      url: https://github.com/adsrivatsa
+
 - name: Asmaa Hassan
   picture: /images/people/asmaa.jpg
   home_url: https://www.linkedin.com/in/asmaa-hassan-fulbright/

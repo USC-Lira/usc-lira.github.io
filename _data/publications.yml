@@ -23,6 +23,22 @@
   #     display: DOI
   #     url: https://doi.org/10.1109/hri53351.2022.9889650 
 
+
+- title: 'Beyond the End-Effector: Learning Whole-Arm Contact Manipulation from Human Demonstrations'
+  authors: Bo-Ruei Huang, Daniel Seita, Erdem Bıyık
+  venue: Proceedings of the 10th Conference on Robot Learning (CoRL), November 2026
+  links:
+    - type: website
+      display: Website
+      url: https://wacl-robot.github.io/
+  bibtex: '@inproceedings{huang2026beyond,
+  title={Beyond the End-Effector: Learning Whole-Arm Contact Manipulation from Human Demonstrations},
+  author={Huang, Bo-Ruei and Seita, Daniel and Bıyık, Erdem},
+  journal={Conference on Robot Learning (CoRL)},
+  year={2026},
+  month=nov
+}'
+
 - title: 'Subspace Inference Enables Efficient Active Reward Learning from Preferences'
   authors: Yutai Zhou, Erdem Bıyık
   venue: Transactions on Machine Learning Research (TMLR), 2026
@@ -40,7 +56,7 @@
   title={Subspace Inference Enables Efficient Active Reward Learning from Preferences},
   author={Zhou, Yutai and Bıyık, Erdem},
   journal={Transactions on Machine Learning Research (TMLR)},
-  year={2026},
+  year={2026}
 }'
 
 - title: 'CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations'
@@ -84,6 +100,9 @@
     - type: website
       display: Website
       url: https://misoshiruseijin.github.io/SENSEI/
+    - type: code
+      display: Code
+      url: https://github.com/misoshiruseijin/SENSEI-code
   bibtex: '@inproceedings{hiranaka2026fix,
       title={Fix the Mind, Not the Move: Interpretable AI Assistance via Knowledge-Gap Localization}, 
       author={Hiranaka, Ayano and Hsu, Ya-Chuan and Nikolaidis, Stefanos and Bıyık, Erdem and Seita, Daniel},
@@ -132,6 +151,9 @@
     - type: arxiv
       display: arXiv
       url: https://arxiv.org/abs/2601.19388
+    - type: code
+      display: Code
+      url: https://github.com/TachikakaMin/Judgelight
   bibtex: '@inproceedings{tang2026judgelight,
       title={Judgelight: Trajectory-Level Post-Optimization for Multi-Agent Path Finding via Closed-Subwalk Collapsing}, 
       author={Tang, Yimin and Koenig, Sven and Bıyık, Erdem},
@@ -177,6 +199,9 @@
     - type: arxiv
       display: arXiv
       url: https://arxiv.org/abs/2509.15695
+    - type: code
+      display: Code
+      url: https://github.com/ZhaoyangLi-1/ORIC
   bibtex: '@inproceedings{li2026oric,
       title={ORIC: Benchmarking Object Recognition under Contextual Incongruity in Large Vision-Language Models}, 
       author={Li, Zhaoyang and Ling, Zhan and Zhou, Yuchen and Gong, Litian and Bıyık, Erdem and Su, Hao},
@@ -199,6 +224,9 @@
     - type: website
       display: Website
       url: https://autofocus-il.github.io/
+    - type: code
+      display: Code
+      url: https://github.com/autofocus-il/autofocus-il
   bibtex: '@inproceedings{gong2026autofocus,
       title={AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations}, 
       author={Gong, Litian and Bahrani, Fatemeh and Zhou, Yutai and Banayeeanzade, Amin and Li, Jiachen and Bıyık, Erdem},
@@ -222,6 +250,9 @@
     - type: website
       display: Website
       url: https://liralab.usc.edu/handretrieval/
+    - type: code
+      display: Code
+      url: https://github.com/handretrieval/hand
   bibtex: '@inproceedings{hong2026hand,
       title={HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval}, 
       author={Hong, Matthew and Liang, Anthony and Kim, Kevin and Rajaprakash, Harshitha and Thomason, Jesse and Bıyık, Erdem and Zhang, Jesse},
@@ -245,6 +276,12 @@
     - type: website
       display: Website
       url: https://impact-planning.github.io/
+    - type: code
+      display: Code
+      url: https://github.com/yiyang0207/IMPACT
+    - type: video
+      display: Video
+      url: https://youtu.be/XlWzDcyvB9c
   bibtex: '@inproceedings{ling2026impact,
       title={IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models}, 
       author={Ling, Yiyang and Owalekar, Karan and Adesanya, Oluwatobiloba and Bıyık, Erdem and Seita, Daniel},
@@ -271,6 +308,9 @@
     - type: code
       display: Code
       url: https://github.com/peek-robot/peek
+    - type: video
+      display: Video
+      url: https://peek-robot.github.io/static/videos/PEEK_video_small.mp4
   bibtex: '@inproceedings{zhang2026peek,
       title={PEEK: Guiding and Minimal Image Representations for Zero-Shot Generalization of Robot Manipulation Policies}, 
       author={Zhang, Jesse and Memmel, Marius and Kim, Kevin and Fox, Dieter and Thomason, Jesse and Ramos, Fabio and Bıyık, Erdem and Gupta, Abhishek and Li, Anqi},
@@ -336,6 +376,9 @@
     - type: website
       display: Website
       url: https://sites.google.com/view/constrainedexpert
+    - type: code
+      display: Code
+      url: https://github.com/xhlsgit/Learning_from_Constrained_Demonstrators
     - type: talk
       display: Talk
       url: https://youtu.be/FpjHkmltoo0
@@ -403,6 +446,9 @@
     - type: arxiv
       display: arXiv
       url: https://arxiv.org/abs/2601.09920
+    - type: website
+      display: Website
+      url: https://sync-twin.github.io/
   bibtex: '@article{huang2026synctwin,
       title={SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping}, 
       author={Huang, Ruopeng and Yang, Boyu and Gui, Wenlong and Morgan, Jeremy and Bıyık, Erdem and Li, Jiachen},
