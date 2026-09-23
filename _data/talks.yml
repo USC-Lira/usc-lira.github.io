@@ -1,5 +1,5 @@
 # youtube_code is the video id of the youtube video. For example, if the video link is https://www.youtube.com/watch?v=2qQlOwp2v2A, then the code is "2qQlOwp2v2A".
 
-- date: 2024-10-11
-  description: "Erdem's seminar talk at the University of Washington on \"Robot Learning with Minimal Human Feedback\""
-  youtube_code: "2qQlOwp2v2A"
+#- date: 2024-10-11
+#  description: "Erdem's seminar talk at the University of Washington on \"Robot Learning with Minimal Human Feedback\""
+#  youtube_code: "2qQlOwp2v2A"
