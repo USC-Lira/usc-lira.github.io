@@ -1,8 +1,8 @@
+- filename: 7.jpg # This is not the most recent but it is a better group photo to appear first.
+  caption: RSS 2025
+
 - filename: 8.jpg
   caption: Spring 2026
-
-- filename: 7.jpg
-  caption: RSS 2025
 
 - filename: 6.jpg
   caption: Summer 2025
