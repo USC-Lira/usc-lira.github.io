@@ -27,6 +27,7 @@
 - title: 'Beyond the End-Effector: Learning Whole-Arm Contact Manipulation from Human Demonstrations'
   authors: Bo-Ruei Huang, Daniel Seita, Erdem Bıyık
   venue: Proceedings of the 10th Conference on Robot Learning (CoRL), November 2026
+  picture: /images/publications/huang2026beyond.png
   links:
     - type: website
       display: Website
