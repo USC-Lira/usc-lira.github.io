@@ -29,6 +29,9 @@
   venue: Proceedings of the 10th Conference on Robot Learning (CoRL), November 2026
   picture: /images/publications/huang2026beyond.png
   links:
+    - type: pdf
+      display: PDF
+      url: /pdfs/publications/huang2026beyond.pdf
     - type: website
       display: Website
       url: https://wacl-robot.github.io/
