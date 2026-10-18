@@ -32,6 +32,9 @@
     - type: pdf
       display: PDF
       url: /pdfs/publications/huang2026beyond.pdf
+    - type: arxiv
+      display: arXiv
+      url: https://arxiv.org/abs/2610.17802
     - type: website
       display: Website
       url: https://wacl-robot.github.io/
